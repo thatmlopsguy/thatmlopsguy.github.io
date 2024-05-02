@@ -1,9 +1,9 @@
 baseURL = 'https://thatmlopsguy.github.io/'
 languageCode = 'en-us'
-title = 'That MLops Guy'
+title = 'That MLOps Guy'
 theme= "archie"
-copyright = "© That MLops Guy"
-paginate=3 # articles per page
+copyright = "© That MLOps Guy"
+paginate = 3 # articles per page
 
 [params]
 mode = "toggle"
