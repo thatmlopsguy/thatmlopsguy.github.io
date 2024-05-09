@@ -53,7 +53,31 @@ Blog &amp;amp; Personal Website
 &lt;/h3>
 &lt;p>This website. Goal of this project was to learn hugo CMS and as a byproduct I created personal website and blog.&lt;/p>
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>Uses</title><link>/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/uses/</guid><description>&lt;p>Inspired of &lt;a href="https://uses.tech/">many pages out there&lt;/a>, I&amp;rsquo;ve put together this page that covers some parts of my setup.&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>Now</title><link>/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/now/</guid><description>&lt;p>What I’m doing now.&lt;/p>
+&lt;p>This is a &lt;a href="https://nownownow.com/">now page&lt;/a>, and if you have your own site, you should &lt;a href="https://nownownow.com/about">make one, too&lt;/a>.&lt;/p>
+&lt;h2 id="life" >
+&lt;div>
+&lt;a href="#life">
+#
+&lt;/a>
+Life
+&lt;/div>
+&lt;/h2>
+&lt;p>I need to improve quality of life, so I’m trying to:&lt;/p>
+&lt;ul>
+&lt;li>Losing weight&lt;/li>
+&lt;li>Going on a diet&lt;/li>
+&lt;li>Lifting weight&lt;/li>
+&lt;/ul>
+&lt;h2 id="work-and-life" >
+&lt;div>
+&lt;a href="#work-and-life">
+#
+&lt;/a>
+Work and Life
+&lt;/div>
+&lt;/h2>
+&lt;p>Remote work, work anywhere&lt;/p></description></item><item><title>Uses</title><link>/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/uses/</guid><description>&lt;p>Inspired of &lt;a href="https://uses.tech/">many pages out there&lt;/a>, I&amp;rsquo;ve put together this page that covers some parts of my setup.&lt;/p>
 &lt;h2 id="development" >
 &lt;div>
 &lt;a href="#development">
@@ -63,8 +87,9 @@ Development
 &lt;/div>
 &lt;/h2>
 &lt;ul>
-&lt;li>IDE: VSCode&lt;/li>
+&lt;li>IDE: &lt;a href="https://code.visualstudio.com/">VSCode&lt;/a>&lt;/li>
 &lt;li>shell: zsh with &lt;a href="https://ohmyz.sh/">oh-my-zsh&lt;/a>&lt;/li>
+&lt;li>Terminal multiplexer: &lt;a href="https://github.com/tmux/tmux">Tmux&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="miscellaneous" >
 &lt;div>
