@@ -1,14 +1,16 @@
 +++
 title = 'Uses'
 draft = false
+toc = false
 +++
 
 Inspired of [many pages out there](https://uses.tech/), I've put together this page that covers some parts of my setup.
 
 ## Development
 
-- IDE: VSCode
+- IDE: [VSCode](https://code.visualstudio.com/)
 - shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
+- Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
 
 ## Miscellaneous
 
