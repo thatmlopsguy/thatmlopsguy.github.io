@@ -11,4 +11,4 @@ help: ## Show this help
 
 ##@ Documentation
 docs-serve: ## Start a local web server for serving documentation
-	@hugo serve -D -p 1313
+	@docker compose up -d
