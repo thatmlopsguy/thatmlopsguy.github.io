@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on That MLOps Guy</title><link>/posts/</link><description>That MLOps Guy (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© That MLOps Guy</copyright><lastBuildDate>Thu, 02 May 2024 16:03:20 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Thu, 02 May 2024 16:03:20 +0100</pubDate><guid>/posts/hello-world/</guid><description>&lt;p>I&amp;rsquo;m a python developer by trade, so let&amp;rsquo;s say hello in python!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on That MLOps Guy</title><link>/posts/</link><description>That MLOps Guy (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© That MLOps Guy</copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/hello-world/</guid><description>&lt;p>I&amp;rsquo;m a python developer by trade, so let&amp;rsquo;s say hello in python!&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>print(&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Manage dotfiles with GNU Stow</title><link>/posts/gnu-stow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/gnu-stow/</guid><description>&lt;p>I use &lt;a href="https://www.gnu.org/software/stow/">GNU stow&lt;/a> to manage all the important &lt;a href="https://dotfiles.github.io/">dotfiles&lt;/a>.&lt;/p>
+&lt;h1 id="instructions" >
+&lt;div>
+&lt;a href="#instructions">
+##
+&lt;/a>
+Instructions
+&lt;/div>
+&lt;/h1>
+&lt;ol>
+&lt;li>Create a repo called &lt;code>dotfiles&lt;/code> in your &lt;code>$HOME&lt;/code> directory&lt;/li>
+&lt;li>Recreate the directory structure for the files you want to manage as subdir(s) of that directory.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>mkdir -p ~/.dotfiles/bash
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mv ~/.bashrc ~/.bash_logout ~/.dotfiles/bash
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd ~/.dotfiles
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>stow bash
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Stow will create symlink for each file.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>.bashrc -&amp;gt; dotfiles/bash/.bashrc
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Don´t forget to add this file to your git repo. Commit and push to remote and your done.&lt;/p></description></item></channel></rss>

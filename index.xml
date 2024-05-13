@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>That MLOps Guy</title><link>/</link><description>That MLOps Guy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© That MLOps Guy</copyright><lastBuildDate>Thu, 02 May 2024 16:03:20 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Thu, 02 May 2024 16:03:20 +0100</pubDate><guid>/posts/hello-world/</guid><description>&lt;p>I&amp;rsquo;m a python developer by trade, so let&amp;rsquo;s say hello in python!&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>print(&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>This is the place where I share my thoughts and notes about things that
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>That MLOps Guy</title><link>/</link><description>That MLOps Guy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© That MLOps Guy</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>This is the place where I share my thoughts and notes about things that
 I’m excited about and working on and hope to connect with people having
 a similar mindset. I’d love to hear from you!&lt;/p>
 &lt;h2 id="about-me" >
@@ -53,7 +51,28 @@ Blog &amp;amp; Personal Website
 &lt;/h3>
 &lt;p>This website. Goal of this project was to learn hugo CMS and as a byproduct I created personal website and blog.&lt;/p>
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>Now</title><link>/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/now/</guid><description>&lt;p>What I’m doing now.&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/hello-world/</guid><description>&lt;p>I&amp;rsquo;m a python developer by trade, so let&amp;rsquo;s say hello in python!&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>print(&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Manage dotfiles with GNU Stow</title><link>/posts/gnu-stow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/gnu-stow/</guid><description>&lt;p>I use &lt;a href="https://www.gnu.org/software/stow/">GNU stow&lt;/a> to manage all the important &lt;a href="https://dotfiles.github.io/">dotfiles&lt;/a>.&lt;/p>
+&lt;h1 id="instructions" >
+&lt;div>
+&lt;a href="#instructions">
+##
+&lt;/a>
+Instructions
+&lt;/div>
+&lt;/h1>
+&lt;ol>
+&lt;li>Create a repo called &lt;code>dotfiles&lt;/code> in your &lt;code>$HOME&lt;/code> directory&lt;/li>
+&lt;li>Recreate the directory structure for the files you want to manage as subdir(s) of that directory.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>mkdir -p ~/.dotfiles/bash
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mv ~/.bashrc ~/.bash_logout ~/.dotfiles/bash
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd ~/.dotfiles
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>stow bash
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Stow will create symlink for each file.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>.bashrc -&amp;gt; dotfiles/bash/.bashrc
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Don´t forget to add this file to your git repo. Commit and push to remote and your done.&lt;/p></description></item><item><title>Now</title><link>/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/now/</guid><description>&lt;p>What I’m doing now.&lt;/p>
 &lt;p>This is a &lt;a href="https://nownownow.com/">now page&lt;/a>, and if you have your own site, you should &lt;a href="https://nownownow.com/about">make one, too&lt;/a>.&lt;/p>
 &lt;h2 id="life" >
 &lt;div>
@@ -91,6 +110,7 @@ Development
 &lt;li>shell: zsh with &lt;a href="https://ohmyz.sh/">oh-my-zsh&lt;/a>&lt;/li>
 &lt;li>Terminal multiplexer: &lt;a href="https://github.com/tmux/tmux">Tmux&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;p>Check my &lt;a href="https://github.com/thatmlopsguy/dotfiles">dotfiles&lt;/a>.&lt;/p>
 &lt;h2 id="miscellaneous" >
 &lt;div>
 &lt;a href="#miscellaneous">
