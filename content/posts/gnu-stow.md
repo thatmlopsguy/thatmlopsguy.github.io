@@ -1,5 +1,6 @@
 +++
 title = 'Manage dotfiles with GNU Stow'
+date = 2024-05-05
 draft = false
 +++
 
