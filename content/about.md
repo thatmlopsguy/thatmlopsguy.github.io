@@ -3,11 +3,13 @@ title = 'About'
 draft = false
 +++
 
+Hello there! I'm a random tech guy shouting into the void on the internet.
+
 This is the place where I share my thoughts and notes about things that
 I’m excited about and working on and hope to connect with people having
 a similar mindset. I’d love to hear from you!
 
-## About Me
+## 👋 About Me
 
 I have worked for 3+ years as Data Scientist, eventually finding my true calling in DevOps and MLOps.
 Currently I am a cloud engineer working from Portugal.
@@ -15,7 +17,25 @@ Currently I am a cloud engineer working from Portugal.
 On this page you can find some information about me and a few blog posts I wrote. Most of them are about
 topics that I'm most interested in, such as containers, security, CI/CD, or about programming languages like Python.
 
-## Skills and Competencies
+## ☎️ Contact
+
+As a privacy advocate, I try to use the best contact options. People should be able to talk, via the internet, 
+with the same level of privacy as a face-to-face conversation in their own home.
+
+Before you contact me, please take note of the following:
+
+- I don’t accept guest posts. Sorry, this is a personal blog.
+- I don't have time to provide tech support.
+- Please be polite; I’ll always be polite to you.
+
+I usually respond promptly, but please don’t take it personally if there is a slight delay.
+
+Signal is my messaging app of choice. It's a fantastic tool that I've been using for years.
+Now that [Signal supports usernames](https://signal.org/blog/phone-number-privacy-usernames/), 
+you can contact me without having to share phone numbers. 
+[Message me on Signal](https://signal.me/#eu/IHK5fD01vqBFE2OQVsbWTNPeEXeDkRnkpVZgBFtisncFlfAPR_hCcqfWz6PqIG6C).
+
+## 🔧 Skills and Competencies
 
 - Programming languages: Python, R, Bash Script
 - Machine Learning: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, Weights & Biases, DVC, Triton Inference Server, Onnx
@@ -28,7 +48,7 @@ topics that I'm most interested in, such as containers, security, CI/CD, or abou
 - Cloud services: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
 AKS), Github Actions, SonarQube
 
-## Projects
+## ✍ Projects
 
 ### Blog & Personal Website
 
