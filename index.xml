@@ -8,5 +8,4 @@ Instructions Create a repo called dotfiles in your $HOME directory Recreate the 
 This is a now page, and if you have your own site, you should make one, too.
 Life I need to improve quality of life, so I’m trying to:
 Losing weight Going on a diet Lifting weight Work and Life Remote work, work anywhere</description></item><item><title>Uses</title><link>https://thatmlopsguy.github.io/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/uses/</guid><description>Inspired of many pages out there, I&amp;rsquo;ve put together this page that covers some parts of my setup.
-Development IDE: VSCode shell: zsh with oh-my-zsh Terminal multiplexer: Tmux Check my dotfiles.
-Miscellaneous Firefox (Extensions: ublock Origin) Signal Messenger App Curious about other uses pages? Check out uses.tech.</description></item></channel></rss>
+Development IDE: VSCode. I also use Emacs for the excellent org-mode. Terminal emulator: URxvt shell: zsh with oh-my-zsh Terminal multiplexer: Tmux I also use various terminal utilities and CLI tools that I use for scripting and just general shell surfing. Some of them that I want to give a shout-out to, in rapid fire:</description></item></channel></rss>
