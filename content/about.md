@@ -25,6 +25,7 @@ with the same level of privacy as a face-to-face conversation in their own home.
 Before you contact me, please take note of the following:
 
 - I don’t accept guest posts. Sorry, this is a personal blog.
+- Don’t contact me regarding advertising on the blog.
 - I don't have time to provide tech support.
 - Please be polite; I’ll always be polite to you.
 
