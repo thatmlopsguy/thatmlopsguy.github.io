@@ -44,6 +44,11 @@ name = "Links"
 url = "/links"
 weight = 6
 
+[[menu.main]]
+name = "Blogroll"
+url = "/blogroll"
+weight = 7
+
 
 [params]
   colortheme = "dark" # dark, light, white, or classic
