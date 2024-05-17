@@ -23,9 +23,13 @@ This is a list of all the personal blogs I’m reading:
 - [Julia Evans](https://jvns.ca/)
 - [Cory Doctorow](https://pluralistic.net/)
 - [Aral Balkan](https://ar.al/)
+- [Robert Heaton](https://robertheaton.com/)
+- [Security & Privacy Evaluations](https://madaidans-insecurities.github.io/)
+- [Dhole Moments](https://soatok.blog/)
+- [sizeof(cat)](https://sizeof.cat/)
 - [Michael Durkan](https://michaeldurkan.com/)
 
-Find more blogs at [blogroll.org](https://blogroll.org/)
+Find more blogs at [blogroll.org](https://blogroll.org/) or search for feeds using [feedle](https://feedle.world/).
 
 ## Newsboards
 
