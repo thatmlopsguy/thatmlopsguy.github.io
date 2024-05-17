@@ -4,11 +4,11 @@ draft = false
 toc = false
 +++
 
-Inspired of [many pages out there](https://uses.tech/), I've put together this page that covers some parts of my setup.
+Inspired by [many pages out there](https://uses.tech/), I've put together this page that covers some parts of my setup.
 
 ## Development
 
-- IDE: [VSCode](https://code.visualstudio.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode]().
+- IDE: [VSCode](https://code.visualstudio.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode](https://orgmode.org/).
 - Terminal emulator: [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
 - shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
@@ -37,5 +37,10 @@ certain Youtube channels, and changelogs for software I keep track of. I mostly 
 - [mpv](https://mpv.io/): my video player of choice. Keyboard-driven, minimal UI. Also works with `yt-dlp` to stream youtube videos.
 - [pass](https://www.passwordstore.org/): password manager.
 
+## Services
+
+- [NextDNS](https://nextdns.io/): a privacy-focused, set it and forget it DNS service. I use their security features on my home network
+and a profile with strict ad-blocking rules on all of my devices.
+- [Proton](https://proton.me/): a reliable, trustworthy email, VPN provider with all of the features you'd expect from such a service.
 
 Curious about other uses pages? Check out [uses.tech](https://uses.tech/).
