@@ -35,3 +35,4 @@ Find more blogs at [blogroll.org](https://blogroll.org/) or search for feeds usi
 
 - [Hacker News](https://news.ycombinator.com/) - My favorite news outlet. Tech, programming, Entrepreneurship and other important news.
 - [Lobste.rs](https://lobste.rs/) - Very similar to Hacker News, but strictly focused on software development.
+- [freepost](https://freepo.st/) - similar to Hacker News and Losters but only related with free software and free culture.
