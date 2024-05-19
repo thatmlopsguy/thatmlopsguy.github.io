@@ -18,4 +18,5 @@ I need to improve quality of life, so I’m trying to:
 
 ## Work and Life
 
-Remote work, work anywhere
+- Breaking things as a Cloud/DevOps/MLOps engineer.
+- Remote work, work anywhere.

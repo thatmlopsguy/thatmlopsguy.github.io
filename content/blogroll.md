@@ -28,6 +28,7 @@ This is a list of all the personal blogs I’m reading:
 - [Dhole Moments](https://soatok.blog/)
 - [sizeof(cat)](https://sizeof.cat/)
 - [Do the Math](https://dothemath.ucsd.edu/)
+- [Mike Gerwitz](https://mikegerwitz.com/)
 - [Michael Durkan](https://michaeldurkan.com/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) or search for feeds using [feedle](https://feedle.world/).
