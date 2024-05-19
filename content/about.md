@@ -67,6 +67,8 @@ AKS), Github Actions, SonarQube
 
 This website. Goal of this project was to learn hugo CMS and as a byproduct I created personal website and blog.
 
+🚧 Work in progress! 🚧
+
 <!-- 
 ### Blueprints for python based ML projects
  -->
