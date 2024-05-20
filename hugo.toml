@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'That MLOps Guy'
 theme = "cactus2"
 copyright = "That MLOps Guy"
+enableRobotsTXT = true
 
 [author]
 name = "That MLOps Guy"
@@ -55,6 +56,7 @@ url = "/bookmarks"
 weight = 8
 
 
+
 [params]
   colortheme = "dark" # dark, light, white, or classic
   mainSection = "posts"
@@ -62,7 +64,7 @@ weight = 8
   tagsOverview = true
   rss = true
   showReadTime = true
-
+  
 [[params.social]]
   name = "github"
   link = "https://github.com/thatmlopsguy"
