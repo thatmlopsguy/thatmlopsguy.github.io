@@ -12,9 +12,9 @@ This is a [now page](https://nownownow.com/), and if you have your own site, you
 
 I need to improve quality of life, so I’m trying to:
 
-- Losing weight
-- Going on a diet
-- Lifting weight
+- Reading more books.
+- (re)Focusing on my wellbeing and a healthy lifestyle.
+- Journaling my life.
 
 ## Work and Life
 
