@@ -23,6 +23,8 @@ topics that I'm most interested in, such as containers, security, CI/CD, or abou
 I use my site as a method of blogging about my learnings, as well as sharing information about projects 
 I have previously, or are currently, working on in my spare time.
 
+See [What Am I Doing Now?](https://thatmlopsguy.github.io/now/) and [What Do I Use?](https://thatmlopsguy.github.io/uses)
+
 ## ☎️ Contact
 
 As a privacy advocate, I try to use the best contact options. People should be able to talk, via the internet, 

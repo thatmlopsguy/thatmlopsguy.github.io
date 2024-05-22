@@ -55,6 +55,16 @@ name = "Bookmarks"
 url = "/bookmarks"
 weight = 8
 
+[[menu.main]]
+name = "Books"
+url = "/Books"
+weight = 9
+
+[[menu.main]]
+name = "Subscribe"
+url = "/subscribe"
+weight = 10
+
 
 
 [params]
