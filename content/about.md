@@ -15,7 +15,17 @@ I'm a [GNU/Linux](https://www.gnu.org/) user, a big advocate for the [Free Softw
 and the [IndieWeb](https://indieweb.org/) movements.
 
 I have worked for 3+ years as Data Scientist, eventually finding my true calling in DevOps and MLOps.
-Currently I am a cloud engineer working from Portugal 🇵🇹.
+Currently I am a cloud engineer working from Portugal 🇵🇹. Most of my coding experience is with
+Python, simply because it was the language I used at my first job. I started with flask, but then
+I discovered FastAPI which quickly became my favorite framework.
+
+During my career, I had opportunities to build both monoliths and microservices, work with relational and
+non-relational databases, use various message brokers, build REST and gRPC APIs, build distributed systems,
+and more. I have participated in all stages of the software development process, from designing architecture
+to implementing and deploying the solution. 
+
+I wrote a lot of documentation including ADRs, API specs (using OpenAPI), and RFCs. 
+I have experience with various testing frameworks and tools, like pytest and CI/CD tools like GitHub Actions.
 
 On this page you can find some information about me and a few blog posts I wrote. Most of them are about
 topics that I'm most interested in, such as containers, security, CI/CD, or about programming languages like Python.
@@ -73,4 +83,8 @@ This website. Goal of this project was to learn hugo CMS and as a byproduct I cr
 
 <!-- 
 ### Blueprints for python based ML projects
+
+I’m in no need for money, and I release my code and projects for free (as in freedom) because I want to contribute 
+back to the environment that helped me succeed. If you really are inclined to support my projects, please consider
+donating to the FSF or EFF.
  -->
