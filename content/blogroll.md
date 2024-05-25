@@ -29,6 +29,7 @@ This is a list of all the personal blogs I’m reading:
 - [sizeof(cat)](https://sizeof.cat/)
 - [Do the Math](https://dothemath.ucsd.edu/)
 - [Mike Gerwitz](https://mikegerwitz.com/)
+- [Mattias Geniar](https://ma.ttias.be/)
 - [Michael Durkan](https://michaeldurkan.com/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
