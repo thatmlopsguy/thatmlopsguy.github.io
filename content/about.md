@@ -77,7 +77,8 @@ AKS), Github Actions, SonarQube
 
 ### Blog & Personal Website
 
-This website. Goal of this project was to learn hugo CMS and as a byproduct I created personal website and blog.
+This website. Goal of this project was to market my services, but I also wanted to get out of my backend 
+comfort zone and learn a bit more about modern frontend things.
 
 🚧 Work in progress! 🚧
 
