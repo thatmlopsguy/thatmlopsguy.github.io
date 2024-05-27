@@ -12,7 +12,8 @@ a similar mindset. I’d love to hear from you!
 ## 👋 About Me
 
 I'm a [GNU/Linux](https://www.gnu.org/) user, a big advocate for the [Free Software](https://www.fsf.org/)
-and the [IndieWeb](https://indieweb.org/) movements.
+and the [IndieWeb](https://indieweb.org/) movements. I like trying to understand the world, building things
+that improve it, and talking about it on the web.
 
 I have worked for 3+ years as Data Scientist, eventually finding my true calling in DevOps and MLOps.
 Currently I am a cloud engineer working from Portugal 🇵🇹. Most of my coding experience is with
@@ -46,6 +47,7 @@ Before you contact me, please take note of the following:
 - Don’t contact me regarding advertising on the blog.
 - I don't have time to provide tech support.
 - Please be polite; I’ll always be polite to you.
+- 
 
 I usually respond promptly, but please don’t take it personally if there is a slight delay.
 
