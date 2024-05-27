@@ -31,6 +31,7 @@ This is a list of all the personal blogs I’m reading:
 - [Mike Gerwitz](https://mikegerwitz.com/)
 - [Mattias Geniar](https://ma.ttias.be/)
 - [Michael Durkan](https://michaeldurkan.com/)
+- [Nick Janetakis](https://nickjanetakis.com/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
 or search for feeds using [feedle](https://feedle.world/).
