@@ -41,31 +41,14 @@ url = "/uses"
 weight = 5
 
 [[menu.main]]
-name = "Links"
-url = "/links"
+name = "More"
+url = "/more"
 weight = 6
-
-[[menu.main]]
-name = "Blogroll"
-url = "/blogroll"
-weight = 7
-
-[[menu.main]]
-name = "Bookmarks"
-url = "/bookmarks"
-weight = 8
-
-[[menu.main]]
-name = "Books"
-url = "/Books"
-weight = 9
 
 [[menu.main]]
 name = "Subscribe"
 url = "/subscribe"
-weight = 10
-
-
+weight = 7
 
 [params]
   colortheme = "dark" # dark, light, white, or classic
