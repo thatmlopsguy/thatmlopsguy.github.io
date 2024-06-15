@@ -31,12 +31,13 @@ Check my [dotfiles](https://github.com/thatmlopsguy/dotfiles).
 ## Miscellaneous
 
 - [i3wm](https://i3wm.org/): keyboard-driven and tiling window manager.
-- Firefox: I have a privacy-hardened setup with a custom `user.js` and with the following extensions: [ublock Origin](https://github.com/gorhill/uBlock)
+- [Firefox](https://mozilla.org/firefox): I have a privacy-hardened setup with a custom `user.js` and 
+with the following extensions: [ublock Origin](https://github.com/gorhill/uBlock)
 - [Signal](https://www.signal.org/) Messenger App using [signal-cli](https://github.com/AsamK/signal-cli).
 - [newsboat](https://newsboat.org/) where I follow news sites, blogs and indie sites I love, 
 certain Youtube channels, and changelogs for software I keep track of. I mostly read from the terminal with `w3m`.
 - [mpv](https://mpv.io/): my video player of choice. Keyboard-driven, minimal UI. Also works with `yt-dlp` to stream youtube videos.
-- [pass](https://www.passwordstore.org/): password manager.
+- [pass](https://www.passwordstore.org/): password manager with [pass otp](https://github.com/tadfisher/pass-otp) extension.
 - [buku](https://github.com/jarun/buku): bookmark manager.
 
 ## Services
