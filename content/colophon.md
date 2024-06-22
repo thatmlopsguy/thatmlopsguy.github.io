@@ -24,5 +24,5 @@ interested in your data are the ones who properly communicate what they do. This
 ## 📮 Comments
 
 I don't like comments section on personal webpages or blogs and even if they works as expected, 
-creates another maintenance burden for owner. So, no comments section but you can always [contact me]()
-to share your thoughts.
+creates another maintenance burden for the owner. 
+So, no comments section but you can always [contact me](contact.md) to share your thoughts.

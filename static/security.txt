@@ -2,6 +2,8 @@
 
 Contact: https://thatmlopsguy.github.io/contact
 
+Encryption: https://thatmlopsguy.github.io/public.asc
+
 Preferred-Languages: en
 
 Canonical: https://thatmlopsguy.github.io/security.txt

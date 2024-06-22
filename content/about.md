@@ -36,30 +36,6 @@ I have previously, or are currently, working on in my spare time.
 
 See [What Am I Doing Now?](https://thatmlopsguy.github.io/now/) and [What Do I Use?](https://thatmlopsguy.github.io/uses)
 
-## ☎️ Contact
-
-As a privacy advocate, I try to use the best contact options. People should be able to talk, via the internet, 
-with the same level of privacy as a face-to-face conversation in their own home.
-
-Before you contact me, please take note of the following:
-
-- I don’t accept guest posts. Sorry, this is a personal blog.
-- Don’t contact me regarding advertising on the blog.
-- I don't have time to provide tech support.
-- Please be polite; I’ll always be polite to you.
-- 
-
-I usually respond promptly, but please don’t take it personally if there is a slight delay.
-
-Signal is my messaging app of choice. It's a fantastic tool that I've been using for years.
-It uses the [gold standard of encryption](https://www.signal.org/docs/), 
-conceals [metadata well](https://signal.org/blog/sealed-sender/), has a
-[great track record](https://signal.org/bigbrother/eastern-virginia-grand-jury/),
-is recommended by countless experts in the field and more.
-Now that [Signal supports usernames](https://signal.org/blog/phone-number-privacy-usernames/), 
-you can contact me without having to share phone numbers. 
-[Message me on Signal](https://signal.me/#eu/IHK5fD01vqBFE2OQVsbWTNPeEXeDkRnkpVZgBFtisncFlfAPR_hCcqfWz6PqIG6C).
-
 ## 🔧 Skills and Competencies
 
 Here's a list of keywords that describe the areas, technologies, and tools I'm experienced with best:
