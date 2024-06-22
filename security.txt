@@ -1,0 +1,9 @@
+# Policy: Site is hosted on GitHub Pages, all testing must comply with GitHub security policy. If any vulnerabilities are found related to site code or configuration, please contact me.
+
+Contact: https://thatmlopsguy.github.io/contact
+
+Preferred-Languages: en
+
+Canonical: https://thatmlopsguy.github.io/.well-known/security.txt
+
+Last-Updated: 2024/06/22 (YYYY/MM/DD)
