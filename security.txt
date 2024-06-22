@@ -4,6 +4,6 @@ Contact: https://thatmlopsguy.github.io/contact
 
 Preferred-Languages: en
 
-Canonical: https://thatmlopsguy.github.io/.well-known/security.txt
+Canonical: https://thatmlopsguy.github.io/security.txt
 
 Last-Updated: 2024/06/22 (YYYY/MM/DD)
