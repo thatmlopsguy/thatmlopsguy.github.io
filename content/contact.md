@@ -34,6 +34,11 @@ If you need help, visit [Email Self-Defense](https://emailselfdefense.fsf.org/en
 $ curl -sf https://thatmlopsguy.github.io/public.asc | gpg --import
 ```
 
+```sh
+$ gpg --list-keys 
+Key fingerprint = 04EF B891 FCB4 475C F00F  C665 74A6 1A5A 8EFF EC72
+```
+
 If you’re concerned about email metadata, feel free to send me a [Signal](https://www.signal.org/) message instead (see below).
 
 ## 💬 Instant Messaging
@@ -45,7 +50,7 @@ conceals [metadata well](https://signal.org/blog/sealed-sender/), has a
 is recommended by countless experts in the field and more.
 Now that [Signal supports usernames](https://signal.org/blog/phone-number-privacy-usernames/), 
 you can contact me without having to share phone numbers. 
-[Message me on Signal](https://signal.me/#eu/IHK5fD01vqBFE2OQVsbWTNPeEXeDkRnkpVZgBFtisncFlfAPR_hCcqfWz6PqIG6C).
+[Message me on Signal](https://signal.me/#eu/tioeXhSUgbUbo7L62t5Xd3BZ9FyW--TLsacCsSNPv2biYX2gnmpMApPYBrzGnYLi).
 
 ## Else
 
@@ -53,6 +58,6 @@ Nothing else except those, I don’t have a Facebook, a LinkedIn, a Discord, an 
 a Twatter, a Swatter, a Fatter, a Squatter, a Platter or whatever is the latest fad nowadays. 
 If somebody claims to be me, chances are it’s not actually me.
 
-I don’t use social media and neither software nor hardware by Google (Search, Youtube, GCP), Microsoft (with the exception of Github),
+I don’t use social media and neither software nor hardware by Google, Microsoft (with the exception of Github),
 ~~Facebook~~ Meta (Instagram, Whatsapp, Threads), or Apple for ethical reasons.
 
