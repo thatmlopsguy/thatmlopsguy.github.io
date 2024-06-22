@@ -16,47 +16,47 @@ style = 'base16-snazzy' # Highlight.js style
 
 [menu]
 [[menu.main]]
-name = "Home"
+name = "🏠 Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "✏️ Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "👋 About"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "✉️ Contact"
 url = "/contact"
 weight = 4
 
 [[menu.main]]
-name = "Now"
+name = "📍 Now"
 url = "/now"
 weight = 5
 
 [[menu.main]]
-name = "Uses"
+name = "✍ Uses"
 url = "/uses"
 weight = 6
 
 [[menu.main]]
-name = "Colophon"
+name = "📮 Colophon"
 url = "/colophon"
 weight = 7
 
 [[menu.main]]
-name = "More"
+name = "🌈 More"
 url = "/more"
 weight = 8
 
 [[menu.main]]
-name = "Subscribe"
+name = "📡 Subscribe"
 url = "/subscribe"
 weight = 9
 
