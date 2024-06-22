@@ -52,7 +52,7 @@ Now that [Signal supports usernames](https://signal.org/blog/phone-number-privac
 you can contact me without having to share phone numbers. 
 [Message me on Signal](https://signal.me/#eu/tioeXhSUgbUbo7L62t5Xd3BZ9FyW--TLsacCsSNPv2biYX2gnmpMApPYBrzGnYLi).
 
-## Else
+## 🌍 Elsewhere
 
 Nothing else except those, I don’t have a Facebook, a LinkedIn, a Discord, an ExpertSEXchange, a MySpace, a Twitter, 
 a Twatter, a Swatter, a Fatter, a Squatter, a Platter or whatever is the latest fad nowadays. 
