@@ -41,7 +41,7 @@ url = "/now"
 weight = 5
 
 [[menu.main]]
-name = "✍ Uses"
+name = "💻 Uses"
 url = "/uses"
 weight = 6
 
@@ -51,7 +51,7 @@ url = "/colophon"
 weight = 7
 
 [[menu.main]]
-name = "🌈 More"
+name = "➕ More"
 url = "/more"
 weight = 8
 
