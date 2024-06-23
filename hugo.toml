@@ -36,29 +36,35 @@ url = "/contact"
 weight = 4
 
 [[menu.main]]
+name = "📝 Resume"
+url = "/hire"
+weight = 5
+
+
+[[menu.main]]
 name = "📍 Now"
 url = "/now"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "💻 Uses"
 url = "/uses"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "📮 Colophon"
 url = "/colophon"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "➕ More"
 url = "/more"
-weight = 8
+weight = 9
 
 [[menu.main]]
 name = "📡 Subscribe"
 url = "/subscribe"
-weight = 9
+weight = 10
 
 [params]
   colortheme = "dark" # dark, light, white, or classic

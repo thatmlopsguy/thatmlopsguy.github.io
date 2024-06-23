@@ -14,5 +14,5 @@ represented minorities, who are routinely underlevelled and underpaid. So after 
 I thought it would be useful to share my salary history, in hopes that people are better informed about how much 
 money they can make, so that they can be paid equally for equal work.
 
-It might be worth checking out my [résumé](resume.md) to see what skills and work were required in my roles.
+It might be worth checking out my [résumé](hire.md) to see what skills and work were required in my roles.
 
