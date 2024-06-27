@@ -13,5 +13,4 @@ The page is currently a stub and will be filled one fine day.
 - [links](links.md)
 - [media](media.md)
 - [quotes](quotes.md)
-- [salary](salary.md)
 - [where](where.md)

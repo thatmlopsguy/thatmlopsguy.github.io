@@ -7,8 +7,7 @@ toc = false
 # Let's work together
 
 I have been working professionally as a data scientist, machine learning engineer and devops since 2016.
-
-Currently I am a cloud engineer working from Portugal 🇵🇹. 
+Currently I am a cloud engineer working from Portugal 🇵🇹.
 
 Most of my coding experience is with Python, simply because it was the language I used at my first job. 
 I started with flask, but then I discovered FastAPI which quickly became my favorite framework. 

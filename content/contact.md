@@ -6,8 +6,8 @@ toc = false
 
 # ☎️ Contact
 
-As a privacy advocate, I try to use the best contact options. People should be able to talk, via the internet, 
-with the same level of privacy as a face-to-face conversation in their own home.
+People should be able to talk, via the internet, with the same level of privacy as a face-to-face
+conversation in their own home. 
 
 Before you contact me, please take note of the following:
 
@@ -54,10 +54,4 @@ you can contact me without having to share phone numbers.
 
 ## 🌍 Elsewhere
 
-Nothing else except those, I don’t have a Facebook, a LinkedIn, a Discord, an ExpertSEXchange, a MySpace, a Twitter, 
-a Twatter, a Swatter, a Fatter, a Squatter, a Platter or whatever is the latest fad nowadays. 
-If somebody claims to be me, chances are it’s not actually me.
-
-I don’t use social media and neither software nor hardware by Google, Microsoft (with the exception of Github),
-~~Facebook~~ Meta (Instagram, Whatsapp, Threads), or Apple for ethical reasons.
-
+Nothing else except those. If somebody claims to be me, chances are it’s not actually me.
