@@ -1,11 +1,11 @@
 CONGRATULATIONS, you found my humans.txt file!
 
 /* SITE */
- 	Site name:  ThatMLOpsguy
+	Site name:  ThatMLOpsguy
 	Site URL:   https://thatmlopsguy.github.io/
 	About.me:   https://thatmlopsguy.github.io/about
-    Contact:    https://thatmlopsguy.github.io/contact
-    Language:   English
+	Contact:    https://thatmlopsguy.github.io/contact
+	Language:   English
 	Location:   Portugal
 	Built with: Hugo
 	Last update: 2024/06/27
