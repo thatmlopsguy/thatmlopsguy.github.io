@@ -6,7 +6,6 @@ Disallow: /categories/
 Disallow: /contact/
 Disallow: /hire/
 
-
 User-agent: AdsBot-Google
 User-agent: Amazonbot
 User-agent: anthropic-ai
