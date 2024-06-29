@@ -54,4 +54,5 @@ you can contact me without having to share phone numbers.
 
 ## 🌍 Elsewhere
 
-Nothing else except those. If somebody claims to be me, chances are it’s not actually me.
+Nothing else except those. I'm not on any social networks, not on Facebook, not on LinkedIn, not on 
+Twitter, IRC, Mastodon, etc. If somebody claims to be me, chances are it’s not actually me.

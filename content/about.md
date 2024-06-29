@@ -23,7 +23,8 @@ I have previously, or are currently, working on in my spare time.
 
 See [What Am I Doing Now?](https://thatmlopsguy.github.io/now/) and [What Do I Use?](https://thatmlopsguy.github.io/uses)
 
-If you are interested in hire me, check this [page](hire.md).
+If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
+check this [page](hire.md).
 
 ## ✍ Projects
 

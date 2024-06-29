@@ -23,6 +23,10 @@ to implementing and deploying the solution.
 I wrote a lot of documentation including ADRs, API specs (using OpenAPI), and RFCs. 
 I have experience with various testing frameworks and tools, like pytest and CI/CD tools like GitHub Actions.
 
+I'm a team player that loves to work with configuration management tools and version control systems. 
+If I do something more than three times, I automate it. Planning, documentation, monitoring and backups are
+things I do first, not when the time allows it later.
+
 I communicate well, I learn quickly, and I always strive for excellence in my work. I prefer remote work.
 
 My résumé can be downloaded [here](https://drive.proton.me/urls/R98C9MZBWC#YHCtG50HqwKj).
@@ -36,7 +40,7 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - Software Engineering: Vscode, IPython/Jupyter, Rstudio, Git, Docker, Helm, Kustomize
 - Observability: OpenTelemety, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali
 - Infrastructure: Terraform, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault
-- Distributed Computing: Ray, Celery, Redis, Keda
+- Distributed Computing: Ray, Celery, Redis, Keda, Dapr
 - Databases: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis
 - Operative Systems: Debian and RedHat Linux distributions
 - Cloud services: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
