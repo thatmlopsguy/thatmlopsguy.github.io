@@ -6,7 +6,7 @@ toc = false
 
 This website was built with [Hugo](https://gohugo.io/) static site generator.
 The theme I’m using is based on [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and 
-I [tweaked it](https://github.com/thatmlopsguy/hugo-theme-cactus).
+I [tweaked it](https://github.com/thatmlopsguy/hugo-theme-cactus2).
 
 The site and the respective code for the build files are [hosted on github](https://github.com/thatmlopsguy/thatmlopsguy.github.io).
 
