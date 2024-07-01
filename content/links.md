@@ -22,3 +22,4 @@ Here are some sites I enjoy and would recommend.
 - [No hello](https://nohello.net/en/): please don't say just hello in chat. Join the [club](https://nohello.club/).
 - [conventional comments](https://conventionalcomments.org/)
 - Small web clubs: [no-js](https://no-js.club/), [250Kb](https://250kb.club/), [512Kb](https://512kb.club/), [1Mb](https://1mb.club/)
+- [Kagi Small Web](https://kagi.com/smallweb/)
