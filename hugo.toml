@@ -40,7 +40,6 @@ name = "🚀 Hire me"
 url = "/hire"
 weight = 5
 
-
 [[menu.main]]
 name = "📍 Now"
 url = "/now"
@@ -73,7 +72,7 @@ weight = 10
   tagsOverview = true
   rss = true
   showReadTime = true
-  
+
 [[params.social]]
   name = "github"
   link = "https://github.com/thatmlopsguy"
