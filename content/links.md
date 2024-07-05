@@ -21,5 +21,7 @@ Here are some sites I enjoy and would recommend.
 - [e-mail is not SMS](https://email.is-not-s.ms/)
 - [No hello](https://nohello.net/en/): please don't say just hello in chat. Join the [club](https://nohello.club/).
 - [conventional comments](https://conventionalcomments.org/)
-- Small web clubs: [nocss](https://nocss.club/), [no-js](https://no-js.club/), [250Kb](https://250kb.club/), [512Kb](https://512kb.club/), [1Mb](https://1mb.club/)
+- Small web clubs: [nocss](https://nocss.club/), [XHTML](https://xhtml.club/), [textonly.website](https://textonly.website/), [no-js](https://no-js.club/), [1kb](https://1kb.club/), [250Kb](https://250kb.club/), [512Kb](https://512kb.club/), [1Mb](https://1mb.club/)
 - [Kagi Small Web](https://kagi.com/smallweb/)
+- [jsfree.org](https://jsfree.org/): A community-curated collection of web services that work without JavaScript
+- [LowTechMagazine](https://solar.lowtechmagazine.com/): A solar-powered website and online magazine
