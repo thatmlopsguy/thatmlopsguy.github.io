@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# The Best Books I read
+# 📚 Best Books I read
 
 I have gathered here the few books I consider to be masterpieces.
 
@@ -15,4 +15,3 @@ I have gathered here the few books I consider to be masterpieces.
 - Thinking in systems: a primer by Donella H Meadows, Diana Wright
 - Energy and Civilization: A History by Vaclav Smil
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
- 

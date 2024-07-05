@@ -6,7 +6,6 @@ toc = false
 
 Random quotes collected from various sources
 
-
 “Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist.”
 __Kenneth Boulding__
 

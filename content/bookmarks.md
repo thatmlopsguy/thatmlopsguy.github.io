@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-Here’s a filtered selection of my personal bookmarks.
+## 🔖 Personal bookmarks
 
 Each of the following articles and essays stuck with me after I first read it, becoming part of
 how I look at the world. I’m listing them here in one place so it’s easier for me to find them.
