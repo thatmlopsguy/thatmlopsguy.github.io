@@ -40,7 +40,7 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Software Engineering**: Vscode, IPython/Jupyter, Rstudio, Git, Docker, Helm, Kustomize
 - **Observability**: OpenTelemety, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali
 - **Infrastructure**: Terraform, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault
-- **Distributed Computing**: Ray, Celery, Redis, Keda, Dapr
+- **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis
 - **Operative Systems**: Debian and RedHat Linux distributions
 - **Cloud services**: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,

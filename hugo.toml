@@ -65,6 +65,11 @@ name = "📡 Subscribe"
 url = "/subscribe"
 weight = 10
 
+[[menu.main]]
+name = "📖 Guestbook"
+url = "/guestbook"
+weight = 11
+
 [params]
   colortheme = "dark" # dark, light, white, or classic
   mainSection = "posts"
