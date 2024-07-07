@@ -1,6 +1,6 @@
 +++
 title = 'Boycott'
-draft = false
+draft = true
 toc = false
 +++
 

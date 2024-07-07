@@ -1,6 +1,6 @@
 +++
 title = 'Salary'
-draft = false
+draft = true
 toc = false
 +++
 

@@ -29,7 +29,8 @@ printf "%s@%s.%s\n" tsilva pm me
 [Plain-text emails](https://useplaintext.email/) are encouraged.
 Please send me encrypted mails if possible. [Every bit of encrypted traffic increases the encrypted background noise
 and thus makes it harder to distinguish between important and unimportant traffic](https://idlewords.com/2019/06/the_new_wilderness.htm).
-If you need help, visit [Email Self-Defense](https://emailselfdefense.fsf.org/en/) guide by the FSF.
+If you need help, visit [Email Self-Defense](https://emailselfdefense.fsf.org/en/) guide by the FSF and follow
+the [OpenPGP best practices](https://riseup.net/en/security/message-security/openpgp/best-practices).
 
 ```sh
 $ curl -sf https://thatmlopsguy.github.io/public.asc | gpg --import
