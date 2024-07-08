@@ -21,7 +21,13 @@ topics that I'm most interested in, such as containers, security, CI/CD, or abou
 I use my site as a method of blogging about my learnings, as well as sharing information about projects
 I have previously, or are currently, working on in my spare time.
 
-See [What Am I Doing Now?](https://thatmlopsguy.github.io/now/) and [What Do I Use?](https://thatmlopsguy.github.io/uses)
+See [What Am I Doing Now?](now.md) and [What Do I Use?](uses.md)
+
+### Want to contact me?
+
+Visit my [contact](contact.md) webpage.
+
+### Want to recruit me or just learn about my past experiences?
 
 If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
 check this [page](hire.md).
@@ -37,8 +43,4 @@ comfort zone and learn a bit more about modern frontend things.
 
 <!-- 
 ### Blueprints for python based ML projects
-
-I’m in no need for money, and I release my code and projects for free (as in freedom) because I want to contribute 
-back to the environment that helped me succeed. If you really are inclined to support my projects, please consider
-donating to the FSF or EFF.
  -->

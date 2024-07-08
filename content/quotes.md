@@ -20,3 +20,6 @@ __Edward Abbey__
 
 “You maybe able to fool the voters, but not the atmosphere.”
 __Donella Meadows__
+
+“The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.“
+__Socrates__
