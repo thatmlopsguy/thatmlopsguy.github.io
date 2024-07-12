@@ -6,7 +6,7 @@ toc = false
 
 Inspired by [many pages out there](https://uses.tech/), I've put together this page that covers some parts of my setup.
 
-## Development
+## 💻 Development
 
 - IDE: [VSCode](https://code.visualstudio.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode](https://orgmode.org/).
 - Terminal emulator: [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
@@ -28,7 +28,7 @@ Some of them that I want to give a shout-out to, in rapid fire:
 
 Check my [dotfiles](https://github.com/thatmlopsguy/dotfiles).
 
-## Miscellaneous
+## 🎲 Miscellaneous
 
 - [i3wm](https://i3wm.org/): keyboard-driven and tiling window manager.
 - [Firefox](https://mozilla.org/firefox): I have a privacy-hardened setup with a custom `user.js` and
@@ -40,7 +40,7 @@ certain Youtube channels, and changelogs for software I keep track of. I mostly 
 - [pass](https://www.passwordstore.org/): password manager with [pass otp](https://github.com/tadfisher/pass-otp) extension.
 - [buku](https://github.com/jarun/buku): bookmark manager.
 
-## Services
+## 💳 Services
 
 - [NextDNS](https://nextdns.io/): a privacy-focused, set it and forget it DNS service. I use their security features on my home network
 and a profile with strict ad-blocking rules on all of my devices.

@@ -30,7 +30,7 @@ I don't like comments section on personal webpages or blogs and even if they wor
 creates another maintenance burden for the owner.
 So, no comments section but you can always [contact me](contact.md) to share your thoughts.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 All the text on this website is free as in freedom unless stated otherwise. This means you can use
 it in any way you want, you can copy it, change it the way you like and republish it, as long as you

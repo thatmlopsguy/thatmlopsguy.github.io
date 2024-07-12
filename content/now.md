@@ -8,7 +8,7 @@ What I’m doing now.
 
 This is a [now page](https://nownownow.com/), and if you have your own site, you should [make one, too](https://nownownow.com/about).
 
-## Life
+## 🌱 Life
 
 I need to improve quality of life, so I’m trying to:
 
@@ -16,7 +16,7 @@ I need to improve quality of life, so I’m trying to:
 - (re)Focusing on my wellbeing and a healthy lifestyle.
 - Journaling my life.
 
-## Work and Life
+## 💼 Work
 
 - Breaking things as a Cloud/DevOps/MLOps engineer.
 - Remote work, work anywhere.
