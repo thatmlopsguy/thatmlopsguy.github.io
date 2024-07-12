@@ -20,3 +20,5 @@ I need to improve quality of life, so I’m trying to:
 
 - Breaking things as a Cloud/DevOps/MLOps engineer.
 - Remote work, work anywhere.
+
+See also what I am planning to do in the near [future](future.md).
