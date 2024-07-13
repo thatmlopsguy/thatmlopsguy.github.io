@@ -14,3 +14,4 @@ Inspired by the [now page](https://nownownow.com/), I decide to create the next 
 
 - [x] Add a "Uses" page
 - [ ] Join a webring
+- [ ] Join the 250KB Club
