@@ -14,4 +14,5 @@ Inspired by the [now page](https://nownownow.com/), I decide to create the next 
 
 - [x] Add a "Uses" page
 - [ ] Join a webring
-- [ ] Join the 250KB Club
+- [x] Join the 250KB Club
+- [ ] Add [epistemic status](https://v5.chriskrycho.com/journal/epistemic-status/) to hugo archtypes
