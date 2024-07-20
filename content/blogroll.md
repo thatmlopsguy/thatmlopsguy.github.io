@@ -32,6 +32,10 @@ This is a list of all the personal blogs I’m reading:
 - [Mattias Geniar](https://ma.ttias.be/)
 - [Michael Durkan](https://michaeldurkan.com/)
 - [Nick Janetakis](https://nickjanetakis.com/)
+- [Adam Johnson](https://adamj.eu/)
+- [Jay Alammar](https://jalammar.github.io/)
+- [Vicki Boykis](https://vickiboykis.com/)
+- [Gwern Branwen](https://gwern.net/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
 or search for feeds using [feedle](https://feedle.world/).

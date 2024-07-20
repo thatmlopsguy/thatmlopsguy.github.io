@@ -25,3 +25,7 @@ Here are some sites I enjoy and would recommend.
 - [Kagi Small Web](https://kagi.com/smallweb/)
 - [jsfree.org](https://jsfree.org/): A community-curated collection of web services that work without JavaScript
 - [LowTechMagazine](https://solar.lowtechmagazine.com/): A solar-powered website and online magazine
+
+## Tools
+
+- [Calm Code](https://calmcode.io/)
