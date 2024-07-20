@@ -13,7 +13,10 @@ Most of my coding experience is with Python, simply because it was the language 
 I started with flask, but then I discovered FastAPI which quickly became my favorite framework.
 I have a wide variety of experience with different machine learning frameworks and databases, though I
 am very open to learning new technologies.
-I can work well in a team setting, in a leadership role, or as a solo developer.
+
+I can work well in a team setting, in a leadership role, or as a solo developer. I have a strong background
+in backend development, software architecture, DevOps, site reliability engineering, and 
+platform engineering. 
 
 During my career, I had opportunities to build both monoliths and microservices, work with relational and
 non-relational databases, use various message brokers, build REST and gRPC APIs, build distributed systems,
@@ -28,6 +31,10 @@ If I do something more than three times, I automate it. Planning, documentation,
 things I do first, not when the time allows it later.
 
 I communicate well, I learn quickly, and I always strive for excellence in my work. I prefer remote work.
+
+I hold an MSc in Astronony from the University of Porto (UP), Portugal.
+
+You can read more about me [here](about.md).
 
 My resume can be downloaded [here](https://drive.proton.me/urls/R98C9MZBWC#YHCtG50HqwKj).
 

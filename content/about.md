@@ -44,6 +44,8 @@ comfort zone and learn a bit more about modern frontend things.
 
 🚧 Work in progress! 🚧
 
+You can follow my experimentations and contributions on [github](https://github.com/thatmlopsguy).
+
 <!-- 
 ### Blueprints for python based ML projects
  -->
