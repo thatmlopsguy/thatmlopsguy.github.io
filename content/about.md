@@ -22,7 +22,7 @@ I use my site as a method of blogging about my learnings, as well as sharing inf
 I have previously, or are currently, working on in my spare time.
 
 I'm an active contributor to free and open source software (FOSS) and believe in the importance of knowledge sharing,
-as evidenced by my blog posts and github profile.
+as evidenced by my blog posts and [github profile](https://github.com/thatmlopsguy).
 
 See [What Am I Doing Now?](now.md) and [What Do I Use?](uses.md)
 
