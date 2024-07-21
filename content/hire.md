@@ -32,7 +32,7 @@ things I do first, not when the time allows it later.
 
 I communicate well, I learn quickly, and I always strive for excellence in my work. I prefer remote work.
 
-I hold an MSc in Astronony & Astrophysics from the University of Porto (UP), Portugal.
+I hold a MSc in Astronony & Astrophysics from the University of Porto (UP), Portugal.
 
 You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/R98C9MZBWC#YHCtG50HqwKj).
 
