@@ -32,6 +32,8 @@ and thus makes it harder to distinguish between important and unimportant traffi
 If you need help, visit [Email Self-Defense](https://emailselfdefense.fsf.org/en/) guide by the FSF and follow
 the [OpenPGP best practices](https://riseup.net/en/security/message-security/openpgp/best-practices).
 
+To import my pgp public key 🔑 you can use the following command:
+
 ```sh
 $ curl -sf https://thatmlopsguy.github.io/public.asc | gpg --import
 ```

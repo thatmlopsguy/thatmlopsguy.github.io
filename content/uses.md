@@ -32,7 +32,10 @@ Check my [dotfiles](https://github.com/thatmlopsguy/dotfiles).
 
 - [i3wm](https://i3wm.org/): keyboard-driven and tiling window manager.
 - [Firefox](https://mozilla.org/firefox): I have a privacy-hardened setup with a custom `user.js` and
-with the following extensions: [ublock Origin](https://github.com/gorhill/uBlock)
+with the following extensions:
+  - [ublock Origin](https://github.com/gorhill/uBlock)
+  - [libredirect](https://github.com/libredirect/browser_extension)
+  - [videospeed](https://github.com/codebicycle/videospeed)
 - [Signal](https://www.signal.org/) Messenger App using [signal-cli](https://github.com/AsamK/signal-cli).
 - [newsboat](https://newsboat.org/) where I follow news sites, blogs and indie sites I love,
 certain Youtube channels, and changelogs for software I keep track of. I mostly read from the terminal with `w3m`.
