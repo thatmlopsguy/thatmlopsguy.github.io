@@ -34,7 +34,15 @@ I communicate well, I learn quickly, and I always strive for excellence in my wo
 
 I hold a MSc in Astronony & Astrophysics from the University of Porto (UP), Portugal.
 
-You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/R98C9MZBWC#YHCtG50HqwKj).
+You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X).
+
+
+## 🏅 Certificates and Badges
+
+|                                                              |                                                          |
+|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+| [![GitOps Fundamental](/images/gitops-fundamentals.png)](https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url)| [![GitOps at Scale](/images/gitops-at-scale.png)](https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url)                |
+
 
 ## 🔧 Skills and Competencies
 
