@@ -29,3 +29,4 @@ Here are some sites I enjoy and would recommend.
 ## Tools
 
 - [Calm Code](https://calmcode.io/)
+- [ValidKube](https://validkube.com/)
