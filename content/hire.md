@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-## Let's work together
+## 🤝 Let's work together
 
 I have been working professionally as a data scientist, machine learning engineer and devops since 2016.
 Currently I am a cloud engineer working from Portugal 🇵🇹.
@@ -35,6 +35,7 @@ I hold a MSc in Astronomy & Astrophysics from the University of Porto (UP), Port
 
 You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X).
 
+Check this **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
 
 ## 🏅 Certificates and Badges
 
@@ -58,25 +59,3 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Cloud services**: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
 AKS), Github Actions, SonarQube
 - **Compliance**: Trivy, Kyverno, Checkov
-
-## 🕟 My Working Hours
-
-You'll almost definitely be able to find me online between the following hours (Europe/London timezone):
-
-| Day       | Hours          |
-|-----------|----------------|
-| Monday    | 09:00 - 18:00  |
-| Tuesday   | 09:00 - 18:00  |
-| Wednesday | 09:00 - 18:00  |
-| Thursday  | 09:00 - 18:00  |
-| Friday    | 09:00 - 18:00  |
-
-Outside of those hours, I may be online as I may be working more flexibly.
-
-## 🧑‍💼 Structure of my working day
-
-I prefer having a standup between 0930-1030, so I have a bit of time before it to check messages and see whether
-things have progressed overnight, as well as checking that there hasn't been anything going wrong in production
-that needs looking into.
-
-I prefer to have lunch at a fixed time each day, usually at 1200-1300, but like the ability to be flexible.
