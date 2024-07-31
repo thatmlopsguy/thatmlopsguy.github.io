@@ -28,11 +28,10 @@ I have experience with various testing frameworks and tools, like pytest and CI/
 
 I'm a team player that loves to work with configuration management tools and version control systems.
 If I do something more than three times, I automate it. Planning, documentation, monitoring and backups are
-things I do first, not when the time allows it later.
+things I do first, not when the time allows it later. I communicate well, I learn quickly, and I always strive
+for excellence in my work. I prefer remote work.
 
-I communicate well, I learn quickly, and I always strive for excellence in my work. I prefer remote work.
-
-I hold a MSc in Astronony & Astrophysics from the University of Porto (UP), Portugal.
+I hold a MSc in Astronomy & Astrophysics from the University of Porto (UP), Portugal.
 
 You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X).
 
@@ -58,6 +57,7 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Operative Systems**: Debian and RedHat Linux distributions
 - **Cloud services**: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
 AKS), Github Actions, SonarQube
+- **Compliance**: Trivy, Kyverno, Checkov
 
 ## 🕟 My Working Hours
 
