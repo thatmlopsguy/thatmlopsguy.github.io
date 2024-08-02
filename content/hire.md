@@ -33,7 +33,8 @@ for excellence in my work. I prefer remote work.
 
 I hold a MSc in Astronomy & Astrophysics from the University of Porto (UP), Portugal.
 
-You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X).
+You can read more about me [here](about.md) and my resume can be downloaded [here](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X)
+(last update on July 2024).
 
 Check this **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
 
