@@ -36,6 +36,7 @@ This is a list of all the personal blogs I’m reading:
 - [Jay Alammar](https://jalammar.github.io/)
 - [Vicki Boykis](https://vickiboykis.com/)
 - [Gwern Branwen](https://gwern.net/)
+- [Wolfgang Ofner](https://programmingwithwolfgang.com/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
 or search for feeds using [feedle](https://feedle.world/).
