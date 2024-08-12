@@ -36,6 +36,7 @@ with the following extensions:
   - [ublock Origin](https://github.com/gorhill/uBlock)
   - [libredirect](https://github.com/libredirect/browser_extension)
   - [videospeed](https://github.com/codebicycle/videospeed)
+  - [treestyletab](https://github.com/piroor/treestyletab)
 - [Signal](https://www.signal.org/) Messenger App using [signal-cli](https://github.com/AsamK/signal-cli).
 - [newsboat](https://newsboat.org/) where I follow news sites, blogs and indie sites I love,
 certain Youtube channels, and changelogs for software I keep track of. I mostly read from the terminal with `w3m`.

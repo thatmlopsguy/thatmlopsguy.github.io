@@ -73,10 +73,12 @@ weight = 11
 [params]
   colortheme = "dark" # dark, light, white, or classic
   mainSection = "posts"
-  showProjectsList = false
   tagsOverview = true
   rss = true
   showReadTime = true
+
+  showProjectsList = true
+  projectsUrl = "https://github.com/thatmlopsguy"
 
 [[params.social]]
   name = "github"

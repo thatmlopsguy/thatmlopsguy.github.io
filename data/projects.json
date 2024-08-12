@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name": "asdf-argocd-image-updater",
+      "url": "https://github.com/thatmlopsguy/asdf-argocd-image-updater",
+      "desc": "argocd-image-updater plugin for the asdf version manager"
+    },
+    {
+      "name": "cookiecutter-ml-project",
+      "url": "https://github.com/thatmlopsguy/cookiecutter-ml-project",
+      "desc": "Cookiecutter template to kickstart python ml projects"
+    }
+  ]
+}

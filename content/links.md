@@ -30,3 +30,4 @@ Here are some sites I enjoy and would recommend.
 
 - [Calm Code](https://calmcode.io/)
 - [ValidKube](https://validkube.com/)
+- [email + git = <3](https://git-send-email.io/) and [reviewing git contributions via email](https://git-am.io/)
