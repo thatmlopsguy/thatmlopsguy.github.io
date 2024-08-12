@@ -26,39 +26,44 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+name = "✍️ Projects"
+url = "/projects"
+weight = 3
+
+[[menu.main]]
 name = "👋 About"
 url = "/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "✉️ Contact"
 url = "/contact"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "🚀 Hire me"
 url = "/hire"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "📍 Now"
 url = "/now"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "💻 Uses"
 url = "/uses"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "📮 Colophon"
 url = "/colophon"
-weight = 8
+weight = 9
 
 [[menu.main]]
 name = "➕ More"
 url = "/more"
-weight = 9
+weight = 10
 
 [[menu.main]]
 name = "📡 Subscribe"
