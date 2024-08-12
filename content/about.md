@@ -3,12 +3,6 @@ title = 'About'
 draft = false
 +++
 
-Hello there! I'm a random tech guy shouting into the void on the internet.
-
-This is the place where I share my thoughts and notes about things that
-I’m excited about and working on and hope to connect with people having
-a similar mindset. I’d love to hear from you!
-
 ## 👋 About Me
 
 I'm a [GNU/Linux](https://www.gnu.org/) user, a big advocate for the [Free Software](https://www.fsf.org/)

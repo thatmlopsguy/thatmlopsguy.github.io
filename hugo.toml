@@ -78,10 +78,14 @@ weight = 11
 [params]
   colortheme = "dark" # dark, light, white, or classic
   mainSection = "posts"
-  tagsOverview = true
+  tagsOverview = false
   rss = true
   showReadTime = true
-
+  description = "Hey! I'm that mlops guy. Welcome to my blog."
+  about = """
+  This is the place where I share my thoughts and notes about things that I’m excited about and
+  working on and hope to connect with people having a similar mindset. I’d love to hear from you!
+  """
   showProjectsList = true
   projectsUrl = "https://github.com/thatmlopsguy"
 
