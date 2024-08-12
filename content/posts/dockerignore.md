@@ -2,6 +2,7 @@
 title = 'Ignore Files Across All Subdirectories in .dockerignore'
 date = 2024-07-01
 draft = false
+tags = ['docker']
 +++
 
 When you're using `.dockerignore` to ignore files within directories, it works a little differently than `.gitignore`.

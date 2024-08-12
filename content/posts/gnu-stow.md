@@ -2,6 +2,7 @@
 title = 'Manage dotfiles with GNU Stow'
 date = 2024-05-05
 draft = false
+tags = ['stow', 'linux', 'dotfiles']
 +++
 
 I use [GNU stow](https://www.gnu.org/software/stow/) to manage all the important [dotfiles](https://dotfiles.github.io/).

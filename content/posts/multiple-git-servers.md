@@ -2,6 +2,7 @@
 title = 'Setup SSH keys from multiple Git accounts'
 date = 2024-05-15
 draft = false
+tags = ['git', 'ssh']
 +++
 
 I generally create new SSH keys for each separate git server using the following setup:

@@ -2,6 +2,7 @@
 title = 'I replaced Homebrew and asdf with Devbox'
 date = 2024-05-21
 draft = false
+tags = ['nix', 'asdf', 'homebrew']
 +++
 
 In the last years, I used a combination of [homebrew](https://brew.sh/) 
