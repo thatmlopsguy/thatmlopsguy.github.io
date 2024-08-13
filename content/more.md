@@ -10,6 +10,7 @@ The page is currently a stub and will be filled one fine day.
 - [bookmarks](bookmarks.md)
 - [books](books.md)
 - [buttons](buttons.md)
+- [guestbook](guestbook.md)
 - [links](links.md)
 - [media](media.md)
 - [quotes](quotes.md)
