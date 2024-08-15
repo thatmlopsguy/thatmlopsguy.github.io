@@ -4,10 +4,16 @@ draft = false
 toc = false
 +++
 
-Inspired by [many pages out there](https://uses.tech/), I've put together this page that covers some parts of my setup.
+Inspired by [many pages out there](https://uses.tech/), I've put together this page detailing some of the important tools 
+I use for those that may be interested.
 
 ## 💻 Development
 
+My personal operating system of choice is Arch Linux because it’s very easy to work with, simple, and incredibly up-to-date. 
+I’ve used it since somewhere around 2015.
+
+- Operating System: Arch Linux
+- Window Manager: i3
 - IDE: [VSCode](https://code.visualstudio.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode](https://orgmode.org/).
 - Terminal emulator: [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
 - shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
