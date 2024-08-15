@@ -1,5 +1,5 @@
 +++
-title = 'Taks'
+title = 'Talks'
 draft = true
 toc = false
 +++
