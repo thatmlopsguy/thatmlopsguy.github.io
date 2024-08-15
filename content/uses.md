@@ -12,6 +12,7 @@ Inspired by [many pages out there](https://uses.tech/), I've put together this p
 - Terminal emulator: [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
 - shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
+- File Manager: Thunar, Ranger (TUI)
 
 I also use various [terminal utilities and CLI tools](https://terminaltrove.com/)
 that I use for scripting and just general shell surfing.
