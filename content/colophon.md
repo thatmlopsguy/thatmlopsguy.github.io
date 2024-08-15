@@ -4,6 +4,12 @@ draft = false
 toc = false
 +++
 
+# 🪧 Colophon
+
+A colophon is a statement at the end of a book, typically with a printer’s emblem, giving information about its authorship and printing.
+
+Hence the name of this page that explains how this blog is built.
+
 This website was built with [Hugo](https://gohugo.io/) static site generator.
 The theme I’m using is based on [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and
 I [tweaked it](https://github.com/thatmlopsguy/hugo-theme-cactus2).
