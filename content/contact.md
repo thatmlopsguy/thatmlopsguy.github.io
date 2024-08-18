@@ -18,7 +18,7 @@ Before you contact me, please take note of the following:
 
 I usually respond promptly, but please don’t take it personally if there is a slight delay.
 
-Also note that I follow [Crocker’s rules](http://sl4.org/crocker.html), summarized as:
+Also note that I follow [VSRE](http://vsre.info/) and [Crocker’s rules](http://sl4.org/crocker.html), summarized as:
 
 other people are allowed to optimize their messages for information, not for being nice to [me]
 
