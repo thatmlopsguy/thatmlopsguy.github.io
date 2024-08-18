@@ -1,0 +1,4 @@
+# https://www.privacytxt.dev/
+
+Privacy-policy: https://thatmlopsguy.github.io/colophon
+Contact: https://thatmlopsguy.github.io/contact
