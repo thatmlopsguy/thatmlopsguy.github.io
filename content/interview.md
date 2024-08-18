@@ -15,7 +15,7 @@ Interesting or habitual questions I've been asked during job interviews.
 Computers engineering has been my vocation since I was 16 years old, and since then I've been involved
 with computers in a lot of aspects. I love anything that can be an intellectual challenge to me.
 
-My experience has provided me a lot knowledge in almost all computers engineering areas, so I can be able to 
+My experience has provided me a lot knowledge in almost all computers engineering areas, so I can be able to
 understand the implications of each decision at several levels (extra costs, delays,  performance issues, user
 experience, possible bottlenecks...), and clearly explain the systems tradeoffs and business implications that
 are derived for each one of them. That also has lead myself to put high attention on code quality and to develop
@@ -37,7 +37,7 @@ can target your offer to the region of London, Great Britain.
 I'm interested on 100% remote positions. I can consider hybrid job positions depending of the following:
 
 - company will pay meal diets for all the days I would need to be presencial
-- company will pay both arrive and leave train tickets (also if it's in a daily or weekly basis), 
+- company will pay both arrive and leave train tickets (also if it's in a daily or weekly basis),
   and accommodation for all the time I would need to be presencial.
 
 If it's not possible to meet these requirements, I'm able to work 100% on remote and travel as frequently as required,
@@ -78,9 +78,9 @@ their product over any other aspect, instead of being directed by sales departme
 ### Do you prefer to work alone, or as part of a group?
 
 I like to work in a small group, specially focused on a single project where there's a clear roadmap
-on what to do, or where technical expertise of co-workers is high and everybody is trying to do their best. 
+on what to do, or where technical expertise of co-workers is high and everybody is trying to do their best.
 This open the door to the possibility of discuss the different approaches to the problems and learn ones
-from the others. 
+from the others.
 
 In the same way, I like to be surrounded by co-workers with good technical skills so I can take in account
 their points of view too when defining the project architecture, the development guidelines or the project
@@ -92,7 +92,7 @@ so everybody can be able to focus on their knowledge area.
 
 ### What do you value the most about a team?
 
-- Team lead is somebody I can learn from, or somebody humble that know its limits and when it's better 
+- Team lead is somebody I can learn from, or somebody humble that know its limits and when it's better
   to trust in the experts knowledge, also when they are lower on the company hierarchy.
 - Team members are motivated, distressed, and working together for the same goal.
 - Everybody is focused trying to achieve technical excellence, and doing their best instead of doing it fast.
@@ -128,7 +128,7 @@ Currently I'm working as *Cloud Engineer* as my main job.
 4. Innovation, design of new technologies, and usage and development of open and standard specifications.
 5. Management based on async communications, with clear specifications, roadmap and requirements. This does not
    exclude of having face-to-face meetings, but based on my experience, usually a hands-on meeting every quarter
-   is more than enough. 
+   is more than enough.
 
 ### What you are looking for in your next job?
 
@@ -138,7 +138,7 @@ Also a project that can make me proud of and help to learn new things and improv
 ### If I made you an offer, what would make you to reject it?
 
 If we get up to this point, probably I would have already consider the pros & cons regarding changing my
-current job, so only I would reject a job offer if the tasks I would be involved are not motivational 
+current job, so only I would reject a job offer if the tasks I would be involved are not motivational
 enough, or the final salary difference with my current job would not compensate the change, so it's better
 that we discuss these topics in the first interview to don't waste everybody time.
 

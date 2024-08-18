@@ -4,8 +4,8 @@ draft = false
 toc = false
 +++
 
-Inspired by Capjames’ [post](https://jamesg.blog/2024/02/19/personal-website-ideas/), Shellsharksi’s 
-[checklist](https://shellsharks.com/notes/2023/08/15/website-component-checklist) and Snarfed’s 
+Inspired by Capjames’ [post](https://jamesg.blog/2024/02/19/personal-website-ideas/), Shellsharksi’s
+[checklist](https://shellsharks.com/notes/2023/08/15/website-component-checklist) and Snarfed’s
 [ideas](https://snarfed.org/ideas) page, this page lists ideas for this website.
 
 ## A comprehensive list of projects that I want to build but probably never will

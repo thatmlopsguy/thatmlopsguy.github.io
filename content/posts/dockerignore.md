@@ -14,7 +14,7 @@ in all subdirectories, add the following to `.dockerignore`:
 **file.txt
 ```
 
-To ignore a specific file extension across all subdirectories, prefix the file extension with **/*. 
+To ignore a specific file extension across all subdirectories, prefix the file extension with **/*.
 In this example, all files with the `.txt` extension will be ignored by Docker:
 
 ```sh

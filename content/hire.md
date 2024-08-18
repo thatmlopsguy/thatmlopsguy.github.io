@@ -15,7 +15,7 @@ I have a wide variety of experience with different machine learning frameworks a
 am very open to learning new technologies.
 
 I can work well in a team setting, in a leadership role, or as a solo developer. I have a strong background
-in backend development, software architecture, DevOps, site reliability engineering, and 
+in backend development, software architecture, DevOps, site reliability engineering, and
 platform engineering.
 
 During my career, I had opportunities to build both monoliths and microservices, work with relational and

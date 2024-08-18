@@ -15,7 +15,7 @@ Unfortunately, Git doesn't provide an option for what keys to use, you have to c
 this in the `~/.ssh/config` file:
 
 ```txt
-# Personal account 
+# Personal account
 Host github.com
     HostName ssh.github.com
     IdentityFile ~/.ssh/id_ed25519_github
@@ -35,7 +35,7 @@ Host private.git.server.com
 Starting from `git` version 2.13+, you can use conditional include in your `.gitconfig` file.
 
 ```txt
-[includeIf "gitdir:~/code/github/"]     
+[includeIf "gitdir:~/code/github/"]
         path = ~/.gitconfigs/github
 
 [includeIf "gitdir:~/code/work/"]

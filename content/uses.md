@@ -4,12 +4,12 @@ draft = false
 toc = false
 +++
 
-Inspired by [many pages out there](https://uses.tech/), I've put together this page detailing some of the important tools 
+Inspired by [many pages out there](https://uses.tech/), I've put together this page detailing some of the important tools
 I use for those that may be interested.
 
 ## 💻 Development
 
-My personal operating system of choice is Arch Linux because it’s very easy to work with, simple, and incredibly up-to-date. 
+My personal operating system of choice is Arch Linux because it’s very easy to work with, simple, and incredibly up-to-date.
 I’ve used it since somewhere around 2015.
 
 - Operating System: [Arch Linux](https://archlinux.org/)

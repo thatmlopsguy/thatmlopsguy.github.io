@@ -45,7 +45,7 @@ $ curl -sf https://thatmlopsguy.github.io/public.asc | gpg --import
 ```
 
 ```sh
-$ gpg --list-keys 
+$ gpg --list-keys
 Key fingerprint = 04EF B891 FCB4 475C F00F  C665 74A6 1A5A 8EFF EC72
 ```
 

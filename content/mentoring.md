@@ -6,7 +6,7 @@ toc = false
 
 ## 💪🏻 Mentoring
 
-Over the years, I have had the privilege of guiding many aspiring software engineers, 
+Over the years, I have had the privilege of guiding many aspiring software engineers,
 helping them achieve their career goals, improve their skills, and navigate the challenges
 of their roles.
 
@@ -21,7 +21,7 @@ ensuring a holistic approach to your growth and success.
     to top-tier standards, enhancing code integrity, and facilitating the development of resilient
     applications.
 
-- **Professional Development Support**: Aligning with your professional ambitions, we refine your CV, 
+- **Professional Development Support**: Aligning with your professional ambitions, we refine your CV,
     hone interview techniques, and strategize for overcoming workplace hurdles.
 
 - **Interactive Knowledge Sharing**: Engage in frequent dialogues on software engineering subjects,
@@ -29,6 +29,6 @@ ensuring a holistic approach to your growth and success.
 
 ## 🚀 Get Started
 
-If you're ready to advance your career and achieve your goals, I'm here to help. 
-Feel free to [contact me](contact.md) with any questions or to start your mentorship journey. 
+If you're ready to advance your career and achieve your goals, I'm here to help.
+Feel free to [contact me](contact.md) with any questions or to start your mentorship journey.
 Let's work together towards your success!

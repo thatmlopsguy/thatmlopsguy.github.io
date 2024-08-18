@@ -6,7 +6,7 @@ toc = false
 
 ## ✍️ Projects
 
-This is a small list of data analysis and other related projects I have done during the last years. 
+This is a small list of data analysis and other related projects I have done during the last years.
 The code for most, if not all of them, can be found on my [github](https://github.com/thatmlopsguy) account.
 
 - [this website](https://github.com/thatmlopsguy/thatmlopsguy.github.io): goal of this project was to market my services,
