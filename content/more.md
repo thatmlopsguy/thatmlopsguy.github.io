@@ -4,9 +4,11 @@ draft = false
 toc = false
 +++
 
-The page is currently a stub and will be filled one fine day.
+Static Pages are a different content type than blog posts, gemlog or bookmarks, they 
+do not change often and are not chronological.
 
 - [`/about`](about.md)
+- [`/accessibility`](accessibility.md)
 - [`/blogroll`](blogroll.md)
 - [`/bookmarks`](bookmarks.md)
 - [`/books`](books.md)
