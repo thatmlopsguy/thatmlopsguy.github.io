@@ -25,6 +25,7 @@ Thanks for visiting!
 	Language:   English
 	Location:   Portugal
 	Built with: Hugo
-	Last update: 2024/06/27
+	Other: No Ads, No Javascript, No tracker
+	Last update: 2024/08/18
 
 End of humans.txt
