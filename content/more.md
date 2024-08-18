@@ -17,4 +17,5 @@ The page is currently a stub and will be filled one fine day.
 - [`/links`](links.md)
 - [`/media`](media.md)
 - [`/quotes`](quotes.md)
+- [`/verify`](verify.md)
 - [`/where`](where.md)
