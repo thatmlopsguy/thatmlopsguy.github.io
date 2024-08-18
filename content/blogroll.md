@@ -9,6 +9,9 @@ Blogrolls are lists of other blogs that bloggers recommend to their readers.
 
 ## Blogs
 
+I do not endorse (nor read) every posts from all these blogs, it is just what I have in my feed,
+and I read only the one that interest me.
+
 This is a list of all the personal blogs I’m reading:
 
 - [Drew DeVault](https://drewdevault.com/)
@@ -27,6 +30,7 @@ This is a list of all the personal blogs I’m reading:
 - [Security & Privacy Evaluations](https://madaidans-insecurities.github.io/)
 - [Dhole Moments](https://soatok.blog/)
 - [sizeof(cat)](https://sizeof.cat/)
+- [Seth For Privacy](https://sethforprivacy.com/)
 - [Do the Math](https://dothemath.ucsd.edu/)
 - [Mike Gerwitz](https://mikegerwitz.com/)
 - [Mattias Geniar](https://ma.ttias.be/)
@@ -37,9 +41,12 @@ This is a list of all the personal blogs I’m reading:
 - [Vicki Boykis](https://vickiboykis.com/)
 - [Gwern Branwen](https://gwern.net/)
 - [Wolfgang Ofner](https://programmingwithwolfgang.com/)
+- [bacardi55.io](https://bacardi55.io/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
 or search for feeds using [feedle](https://feedle.world/).
+
+If you know other links that would fit in this list (and thus in my RSS reader) feel free to send them my way!
 
 ## Newsboards
 
