@@ -26,3 +26,4 @@ Inspired by Capjames’ [post](https://jamesg.blog/2024/02/19/personal-website-i
 - [ ] Add sitemap.xml
 - [ ] Add [h-feed](https://indieweb.org/h-feed)
 - [ ] Add [JSON Feed](https://foosel.net/til/how-to-add-json-feed-support-to-hugo/)
+- [ ] Add a [Manual of Me](https://my.manualof.me/)
