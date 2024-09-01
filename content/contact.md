@@ -59,8 +59,9 @@ conceals [metadata well](https://signal.org/blog/sealed-sender/), has a
 [great track record](https://signal.org/bigbrother/eastern-virginia-grand-jury/),
 is recommended by countless experts in the field and more.
 Now that [Signal supports usernames](https://signal.org/blog/phone-number-privacy-usernames/),
-you can contact me without having to share phone numbers.
-[Message me on Signal](https://signal.me/#eu/tioeXhSUgbUbo7L62t5Xd3BZ9FyW--TLsacCsSNPv2biYX2gnmpMApPYBrzGnYLi).
+you can contact me without having to share phone numbers. Click [**here to message me on Signal**](https://signal.me/#eu/tioeXhSUgbUbo7L62t5Xd3BZ9FyW--TLsacCsSNPv2biYX2gnmpMApPYBrzGnYLi) or scan this QR code with the Signal App.
+
+<img src="/images/signal_qrcode.png" alt="image" style="width:200px;height:auto;">
 
 ## 🌍 Elsewhere
 
