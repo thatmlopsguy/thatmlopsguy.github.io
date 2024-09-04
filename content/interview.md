@@ -53,7 +53,7 @@ and Large Language Models, and I'm improving my skills with rust/golang programm
 
 I'm a hands-on learner, so if I get some interesting project between my hands or find something that I think can be
 fixed or improved, I don't have problems learning new skills or knowledge that can be useful to me to do it,
-specially if they are stablished and future-proof technologies and not just some temporally fashioned
+specially if they are established and future-proof technologies and not just some temporally fashioned
 or hyped libraries and frameworks.
 
 ### What are the three things you think are the most important to improve a software project?
@@ -88,6 +88,9 @@ from the others.
 In the same way, I like to be surrounded by co-workers with good technical skills so I can take in account
 their points of view too when defining the project architecture, the development guidelines or the project
 quality that others have to follow.
+
+I particularly enjoy working with teams to improve their processes and tools, engaging in high-level architecture
+planning, or diving into short, sharply focused improvements that need to be made.
 
 In other cases where that's not possible, I usually like to work as part of a group where people can be
 focused each one on an area of the code that they can master and know in detail and manage it on their own,
@@ -149,13 +152,13 @@ that we discuss these topics in the first interview to don't waste everybody tim
 
 You'll almost definitely be able to find me online between the following hours (Europe/London timezone):
 
-| Day       | Hours          |
-|-----------|----------------|
-| Monday    | 09:00 - 18:00  |
-| Tuesday   | 09:00 - 18:00  |
-| Wednesday | 09:00 - 18:00  |
-| Thursday  | 09:00 - 18:00  |
-| Friday    | 09:00 - 18:00  |
+| Day       | Hours         |
+|-----------|---------------|
+| Monday    | 09:00 - 18:00 |
+| Tuesday   | 09:00 - 18:00 |
+| Wednesday | 09:00 - 18:00 |
+| Thursday  | 09:00 - 18:00 |
+| Friday    | 09:00 - 18:00 |
 
 Outside of those hours, I may be online as I may be working more flexibly.
 
