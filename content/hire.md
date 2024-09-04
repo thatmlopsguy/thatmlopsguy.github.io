@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-## 🤝 Let's work together
+# 🤝 Let's work together
 
 I have been working professionally as a data scientist, machine learning engineer and devops since 2016.
 Currently I am a cloud engineer working from Portugal 🇵🇹.
@@ -40,9 +40,9 @@ Check this **[FAQ](interview.md)** that answers habitual questions I've been ask
 
 ## 🏅 Certificates and Badges
 
-|                                                              |                                                          |
-|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-| [![GitOps Fundamental](/images/gitops-fundamentals.png)](https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url)| [![GitOps at Scale](/images/gitops-at-scale.png)](https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url)                |
+|                                                                                                                                         |                                                                                                                                  |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+| [![GitOps Fundamental](/images/gitops-fundamentals.png)](https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url) | [![GitOps at Scale](/images/gitops-at-scale.png)](https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url) |
 
 
 ## 🔧 Skills and Competencies

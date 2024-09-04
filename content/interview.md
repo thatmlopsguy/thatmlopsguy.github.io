@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-## Interviews FAQs
+# 🎙️ Interviews FAQs
 
 Interesting or habitual questions I've been asked during job interviews.
 

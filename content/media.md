@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# 🎬 Media
+
 I usually avoid to watch all the trendy TV series on Neflix (and similar platforms), because of
 [Digital Restrictions Management (DRM)](http://defectivebydesign.org/). For technical users I recommend
 to read the following paper [Your DRM Can Watch You Too: Exploring the Privacy Implications of Browsers (mis)Implementations of Widevine EME](https://arxiv.org/abs/2308.05416).

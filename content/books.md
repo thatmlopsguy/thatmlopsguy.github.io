@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# 📚 Best Books I read
+# 📚 Books
 
 I have gathered here the few books I consider to be masterpieces.
 

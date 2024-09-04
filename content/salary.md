@@ -6,7 +6,7 @@ toc = false
 
 The page is currently a stub and will be filled one fine day.
 
-# Salary History
+# 💵 Salary History
 
 When looking for a job, it can be tricky to know what to ask for in terms of salary, especially for under
 represented minorities, who are routinely underlevelled and underpaid. So after reading

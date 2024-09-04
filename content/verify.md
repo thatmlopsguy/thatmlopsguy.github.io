@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# ✔️ Verify
+
 This page serves as record for my online identity. It is inspired by [Molly White's verify page](https://www.mollywhite.net/verify/).
 
 I control the following personal accounts:

@@ -4,10 +4,12 @@ draft = false
 toc = false
 +++
 
+# 💻 Uses
+
 Inspired by [many pages out there](https://uses.tech/), I've put together this page detailing some of the important tools
 I use for those that may be interested.
 
-## 💻 Development
+## 🧮 Development
 
 My personal operating system of choice is Arch Linux because it’s very easy to work with, simple, and incredibly up-to-date.
 I’ve used it since somewhere around 2015.

@@ -66,4 +66,5 @@ you can contact me without having to share phone numbers. Click [**here to messa
 ## 🌍 Elsewhere
 
 Nothing else except those. I'm not on any social networks, not on Facebook, not on LinkedIn, not on
-Twitter, IRC, Mastodon, etc. If somebody claims to be me, chances are it’s not actually me.
+Twitter, IRC, Mastodon, etc. If somebody claims to be me, chances are it’s not actually me. Visit my [verify](verify.md)
+webpage for more info.

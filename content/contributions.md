@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# Open Source Contributions
+# 🤝 Contributions
 
 Previously I was keeping track of these manually in a text file.
 

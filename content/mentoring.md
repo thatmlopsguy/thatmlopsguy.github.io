@@ -4,7 +4,7 @@ draft = true
 toc = false
 +++
 
-## 💪🏻 Mentoring
+# 💪🏻 Mentoring
 
 Over the years, I have had the privilege of guiding many aspiring software engineers,
 helping them achieve their career goals, improve their skills, and navigate the challenges

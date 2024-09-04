@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# 📍 Where
+
 This is my where page 📍, showing where in this world I am right now.
 
 I'm in Portugal 🇵🇹 right now.

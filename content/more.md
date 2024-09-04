@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# 🗐 Pages
+
 Static Pages are a different content type than blog posts, gemlog or bookmarks, they
 do not change often and are not chronological.
 

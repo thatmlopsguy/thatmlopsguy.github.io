@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# 🔗 Links
+
 Perhaps you are on this page because you are down an hour-long rabbit hole exploring blogs.
 
 Or you are here because you are bored and are looking for inspiration.

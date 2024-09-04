@@ -4,6 +4,8 @@ draft = false
 toc = false
 +++
 
+# 📍 Now
+
 What I’m doing now.
 
 This is a [now page](https://nownownow.com/), and if you have your own site, you should [make one, too](https://nownownow.com/about).
