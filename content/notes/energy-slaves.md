@@ -13,4 +13,4 @@ How much is 500 megajoules? It is roughly equivalent to the energy stored within
 
 Source: [The mind, but not the muscle: understanding Energy Slaves](https://www.stuartmcmillen.com/blog/energy-slaves-reflections-2/)
 
-I remember wathing this concept in the the TV episode [Bang Goes the Theory: The Human Powered Power](https://www.bbc.co.uk/programmes/b00p8469).
+I remember watching this concept in the TV episode [Bang Goes the Theory: The Human Powered Power](https://www.bbc.co.uk/programmes/b00p8469).
