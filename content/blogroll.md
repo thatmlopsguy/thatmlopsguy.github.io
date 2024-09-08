@@ -43,6 +43,7 @@ This is a list of all the personal blogs I’m reading:
 - [Gwern Branwen](https://gwern.net/)
 - [Wolfgang Ofner](https://programmingwithwolfgang.com/)
 - [bacardi55.io](https://bacardi55.io/)
+- [Hynek Schlawack](https://hynek.me/)
 
 Find more blogs at [blogroll.org](https://blogroll.org/) and [ooh.directory](https://ooh.directory/)
 or search for feeds using [feedle](https://feedle.world/).
