@@ -13,4 +13,6 @@ how I look at the world. I’m listing them here in one place so it’s easier f
 - [Ignorance vs. stupidity](https://woodybelangia.com/2014/09/08/ignorance-vs-stupidity/)
 - [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
 - [Amusing Ourselves to Death: Huxley vs Orwell](https://www.highexistence.com/amusing-ourselves-to-death-huxley-vs-orwell/)
+- [St Matthew Island by Stuart McMillen](https://www.stuartmcmillen.com/comic/st-matthew-island/)
+- [Energy Slaves by Stuart McMillen](https://www.stuartmcmillen.com/comic/energy-slaves/)
 - [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
