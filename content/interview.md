@@ -169,3 +169,17 @@ things have progressed overnight, as well as checking that there hasn't been any
 that needs looking into.
 
 I prefer to have lunch at a fixed time each day, usually at 1200-1300, but like the ability to be flexible
+
+### Bring your own device (BYOD) policy
+
+For a matter of fact I don't use any of my personal devices for working, this includes my cellphone.
+
+While Microsoft Authenticator is a popular choice for 2FA, there are several alternatives available for those
+who prefer not to use it. Given my strong emphasis on protecting personal information and maintaining confidentiality,
+I neither have nor wish to create accounts with Google or Apple to obtain the Microsoft Authenticator app.
+Furthermore, [Microsoft Authenticator transmits analytics even before users accept the privacy terms](https://defcon.social/@mysk/109995712305528246),
+raising concerns about data collection and potential misuse of user information.
+
+One option is to utilize a dedicated physical security key, such as the YubiKey, which provides enhanced
+security by generating codes offline and not relying on a potentially compromised smartphone.
+Otherwise, the company will need to buy me a dedicated phone with an sim card.
