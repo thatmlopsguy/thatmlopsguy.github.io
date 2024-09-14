@@ -182,4 +182,4 @@ raising concerns about data collection and potential misuse of user information.
 
 One option is to utilize a dedicated physical security key, such as the YubiKey, which provides enhanced
 security by generating codes offline and not relying on a potentially compromised smartphone.
-Otherwise, the company will need to buy me a dedicated phone with an sim card.
+Otherwise, the company will need to buy me a dedicated phone with a sim card.

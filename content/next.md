@@ -20,7 +20,7 @@ Inspired by Capjames’ [post](https://jamesg.blog/2024/02/19/personal-website-i
 - [ ] Join a webring
 - [x] Join the 250KB Club
 - [x] Join the [The Darktheme Club](https://darktheme.club/)
-- [ ] Add [epistemic status](https://v5.chriskrycho.com/journal/epistemic-status/) to hugo archtypes
+- [x] Add [epistemic status](https://v5.chriskrycho.com/journal/epistemic-status/) to hugo archtypes
 - [ ] Join the [bukmark Club](https://bukmark.club/)
 - [ ] [Automating my /now page](https://akashgoswami.dev/posts/automating-my-now-page/)
 - [ ] [Automate buku bookmarks sync](https://seirdy.one/bookmarks/)
