@@ -5,11 +5,6 @@ draft = false
 tags = ['sre', 'mttr']
 +++
 
-> ℹ️ **Assumed audience**: people who care about thinking well and communicating clearly.
->
-> ⚠️ **Epistemic status**: extremely confident.
-***
-
 Let's delve into the reasons why focusing solely on [Mean Time To Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 (MTTR) might not be the most effective metric for evaluating software delivery performance.
 
