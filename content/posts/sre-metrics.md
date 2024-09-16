@@ -5,6 +5,11 @@ draft = false
 tags = ['sre', 'mttr']
 +++
 
+> ℹ️ **Assumed audience**: people who care about thinking well and communicating clearly.
+>
+> ⚠️ **Epistemic status**: extremely confident.
+***
+
 Let's delve into the reasons why focusing solely on [Mean Time To Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 (MTTR) might not be the most effective metric for evaluating software delivery performance.
 
@@ -15,9 +20,6 @@ Nash challenged this conventional wisdom in her article [“MTTR is a Misleading
 Measures like the mean fail to accurately represent positively-skewed datasets. These datasets typically exhibit most values
 clustering around the lower end, with a long tail extending towards higher values. The presence of outliers significantly impacts
 the mean, rendering it an unreliable indicator in such cases.
-
-![](https://www.verica.io/wp-content/uploads/VOID-MTTRCharts-1000x600-GoogleMean-Median.png)
-*Image credits: [MTTR is a Misleading Metric—Now What?](https://www.verica.io/blog/mttr-is-a-misleading-metric-now-what/)*
 
 Nash pointed out that relying on the mean to gauge recovery times offers little practical value. This is akin to the
 limitations observed when using averages to assess latency in software engineering. Instead, percentiles emerge as a
@@ -49,6 +51,10 @@ are resolved across a range of incidents but also enables organizations to set m
 Ultimately, embracing percentiles as a key metric fosters a culture of continuous learning and adaptation, better equipping teams
 to navigate the complexities of modern software development.
 
+**Update (2024-09-16)**: this is closely related to [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy).
+The fallacy describes making decisions using only quantitative metrics and ignoring anything else.
+
 # References
 
 - [Incident Metrics in SRE:Critically Evaluating MTTR and Friends](https://static.googleusercontent.com/media/sre.google/en//static/pdf/IncidentMeticsInSre.pdf)
+- [McNamara Fallacy by Matt Rickard](https://matt-rickard.com/mcnamara-fallacy)

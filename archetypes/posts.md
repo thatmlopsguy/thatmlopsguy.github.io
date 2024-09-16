@@ -5,7 +5,7 @@ draft = true
 +++
 
 > ℹ️ **[Assumed audience](https://v4.chriskrycho.com/2018/assumed-audiences.html)**: people who care about thinking well and communicating clearly.
-> 
+>
 > ⚠️ **[Epistemic status](https://v5.chriskrycho.com/journal/epistemic-status/)**: extremely confident.
 ***
 

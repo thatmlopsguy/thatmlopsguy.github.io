@@ -9,7 +9,7 @@ enableRobotsTXT = false
 name = "That MLOps Guy"
 
 [markup.goldmark.renderer]
-unsafe = true # Enable unsafe mode to have a better experience
+unsafe = true
 
 [markup.highlight]
 style = 'base16-snazzy' # Highlight.js style
