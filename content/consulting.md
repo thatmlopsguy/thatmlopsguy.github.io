@@ -10,9 +10,9 @@ I help companies make the most of their technology by supporting them in machine
 
 ## What can I do for you?
 
-I'm a devops engineer with 8+ years of experience working with both scientific institutions and multinational
-companies. I help companies fix their software architecture, improve their tools and processes, and run
-on-site workshops.
+I'm a devops and machine learning engineer with 8+ years of experience working with both scientific
+institutions and multinational companies. I help companies fix their software architecture, improve
+their tools and processes, and run on-site workshops.
 
 Here are some things I can do for your company:
 
