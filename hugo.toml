@@ -51,8 +51,8 @@ url = "/hire"
 weight = 7
 
 [[menu.main]]
-name = "📍 Now"
-url = "/now"
+name = "📊 Consulting"
+url = "/consulting"
 weight = 8
 
 [[menu.main]]
