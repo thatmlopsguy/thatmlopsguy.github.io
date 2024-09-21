@@ -37,6 +37,8 @@ You can read more about me [here](about.md) and my resume can be downloaded [her
 
 Check this **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
 
+I can help you company in other ways, check my [consulting](consulting) page.
+
 ## 🏅 Certificates and Badges
 
 |                                                                                                                                         |                                                                                                                                  |

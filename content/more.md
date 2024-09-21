@@ -20,6 +20,7 @@ do not change often and are not chronological.
 - [`/colophon`](colophon.md)
 - [`/contact`](contact.md): how to reach me
 - [`/contributions`](contributions.md)
+- [`/consulting`](consulting.md)
 - [`/donations`](donations.md)
 - [`/guestbook`](guestbook.md)
 - [`/hello`](hello.md)
