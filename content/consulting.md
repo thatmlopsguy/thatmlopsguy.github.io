@@ -16,7 +16,7 @@ their tools and processes, and run on-site workshops.
 
 Here are some things I can do for your company:
 
-- **Workshops**: Are you looking for a bespoke workshop on a machine learing/cloud native related topic?
+- **Workshops**: Are you looking for a bespoke workshop on a machine learning/cloud native related topic?
     A 1-day-long workshop on testing or deployment can save you days of trial and error.
 
 - **Software Architecture**: Are you looking for a project setup that balances simplicity and scalability?
