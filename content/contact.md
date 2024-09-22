@@ -18,11 +18,8 @@ Before you contact me, please take note of the following:
 
 I usually respond promptly, but please don’t take it personally if there is a slight delay.
 
-Also note that I follow [VSRE](http://vsre.info/) and [Crocker’s rules](http://sl4.org/crocker.html), summarized as:
-
-other people are allowed to optimize their messages for information, not for being nice to [me]
-
-In other words, you don’t need to “break the ice” (but feel free to do so anyway!) and you can go directly to the purpose of your message.
+Also note that I follow [VSRE](http://vsre.info/) and [Crocker’s rules](http://sl4.org/crocker.html). In other words, 
+you don’t need to “break the ice” (but feel free to do so anyway!) and you can go directly to the purpose of your message.
 
 ## ✉️ Email
 
