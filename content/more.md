@@ -27,6 +27,7 @@ do not change often and are not chronological.
 - [`/guestbook`](guestbook.md)
 - [`/hello`](hello.md)
 - [`/hire`](hire.md)
+- [`/interests`](interests.md)
 - [`/links`](links.md)
 - [`/media`](media.md)
 - [`/next`](next.md)

@@ -10,7 +10,7 @@ I’m ██████████ █████, a ██ years old working
 On a more serious note, I enjoy computer science, privacy and pretty much everything related.
 I'm a [GNU/Linux](https://www.gnu.org/) user, a big advocate for the [Free Software](https://www.fsf.org/)
 and the [IndieWeb](https://indieweb.org/) movements. I like trying to understand the world, building things
-that improve it, and talking about it on the web.
+that improve it, and talking about it on the web. Check my [interests](interests.md) page.
 
 I speak English and kind of French.
 
