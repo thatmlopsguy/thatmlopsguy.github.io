@@ -15,7 +15,6 @@ do not change often and are not chronological.
 - [`/accessibility`](accessibility.md)
 - [`/ai`](ai.md): my AI usage, personally
 - [`/blogroll`](blogroll.md): blogs I like
-- [`/bookmarks`](bookmarks.md): essays I like
 - [`/books`](books.md)
 - [`/buttons`](buttons.md)
 - [`/changelog`](changelog.md)
@@ -32,6 +31,7 @@ do not change often and are not chronological.
 - [`/media`](media.md)
 - [`/next`](next.md)
 - [`/now`](now.md): what I’m up to, now
+- [`/postroll`](postroll.md): essays I like
 - [`/projects`](projects.md)
 - [`/quotes`](quotes.md)
 - [`/subscribe`](subscribe.md)
