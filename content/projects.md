@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# ✍️ Projects
+# 👨‍💻 Projects
 
 This is a small list of data analysis and other related projects I have done during the last years.
 The code for most, if not all of them, can be found on my [github](https://github.com/thatmlopsguy) account.

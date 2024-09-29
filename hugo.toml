@@ -31,7 +31,7 @@ url = "/notes"
 weight = 3
 
 [[menu.main]]
-name = "✍️ Projects"
+name = "👨‍💻 Projects"
 url = "/projects"
 weight = 4
 

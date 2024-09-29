@@ -6,19 +6,19 @@ toc = false
 
 # 🗐 Pages
 
-My [slashpages](https://slashpages.net/).
-
 Static Pages are a different content type than blog posts, gemlog or bookmarks, they
 do not change often and are not chronological.
 
-- [`/about`](about.md)
+Learn more about these pages on [slashpages.net](https://slashpages.net/).
+
+- [`/about`](about.md): who am I?
 - [`/accessibility`](accessibility.md)
 - [`/ai`](ai.md): my AI usage, personally
-- [`/blogroll`](blogroll.md): blogs I like
+- [`/blogroll`](blogroll.md): blogs I like/follow.
 - [`/books`](books.md)
 - [`/buttons`](buttons.md)
 - [`/changelog`](changelog.md)
-- [`/colophon`](colophon.md)
+- [`/colophon`](colophon.md): what’s this website made of?
 - [`/contact`](contact.md): how to reach me
 - [`/contributions`](contributions.md)
 - [`/consulting`](consulting.md)
@@ -26,7 +26,7 @@ do not change often and are not chronological.
 - [`/guestbook`](guestbook.md)
 - [`/hello`](hello.md)
 - [`/hire`](hire.md)
-- [`/interests`](interests.md)
+- [`/interests`](interests.md): list of things I like in no particular order.
 - [`/links`](links.md)
 - [`/media`](media.md)
 - [`/next`](next.md)
