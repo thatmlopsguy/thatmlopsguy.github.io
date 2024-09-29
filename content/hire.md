@@ -52,7 +52,7 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 
 - **Programming languages**: Python, R, Bash Script
 - **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
-- **Software Engineering**: Vscode, IPython/Jupyter, Rstudio, Git, Docker, Helm, Kustomize
+- **Software Engineering**: Git, Docker, Helm, Kustomize
 - **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali
 - **Infrastructure**: Terraform, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr
