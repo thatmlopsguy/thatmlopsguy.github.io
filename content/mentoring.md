@@ -6,6 +6,10 @@ toc = false
 
 # 💪🏻 Mentoring
 
+You're seeking mentoring.
+
+Do you need personalised one-on-one guidance as an early or mid-career professional?
+
 Over the years, I have had the privilege of guiding many aspiring software engineers,
 helping them achieve their career goals, improve their skills, and navigate the challenges
 of their roles.
