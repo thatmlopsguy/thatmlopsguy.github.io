@@ -34,6 +34,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/postroll`](postroll.md): essays I like
 - [`/projects`](projects.md)
 - [`/quotes`](quotes.md)
+- [`/save`](save.md): discount codes for things I recommend
 - [`/subscribe`](subscribe.md)
 - [`/uses`](uses.md): what I use
 - [`/verify`](verify.md)
