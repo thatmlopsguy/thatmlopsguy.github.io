@@ -8,6 +8,10 @@ toc = false
 
 I help companies make the most of their technology by supporting them in machine learning projects.
 
+Is your business using AI but are feeling stuck? Many companies often feel overwhelmed navigating
+the sea of options and trade-offs when rolling out AI and often just want to know if they’re doing
+it right.
+
 ## What can I do for you?
 
 I'm a devops and machine learning engineer with 8+ years of experience working with both scientific
@@ -32,8 +36,8 @@ Here are some things I can do for your company:
 
 ## 🚀 Get Started
 
-Let's discuss how my specialized knowledge can benefit your organization and help you stay ahead in today's
-fast-paced technological environment.
+Interested? Let's discuss how my specialized knowledge can benefit your organization and help you stay ahead
+in today's fast-paced technological environment.
 
 Feel free to [contact me](contact.md), and I will always get back to you.
 If we agree that I could help you, we can schedule a chat.
