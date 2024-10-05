@@ -28,3 +28,6 @@ __Socrates__
 
 “If you think education is expensive, try ignorance.”
 __Derek Bok__
+
+“The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology.“
+__Edward Osborne Wilson__
