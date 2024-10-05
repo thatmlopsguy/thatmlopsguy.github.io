@@ -20,7 +20,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/changelog`](changelog.md)
 - [`/colophon`](colophon.md): what’s this website made of?
 - [`/contact`](contact.md): how to reach me
-- [`/contributions`](contributions.md)
+- [`/contributions`](contributions.md): my code contributions
 - [`/consulting`](consulting.md)
 - [`/donations`](donations.md)
 - [`/guestbook`](guestbook.md)
@@ -35,7 +35,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/projects`](projects.md)
 - [`/quotes`](quotes.md)
 - [`/save`](save.md): discount codes for things I recommend
-- [`/subscribe`](subscribe.md)
+- [`/subscribe`](subscribe.md): get engaged, without the commitment
 - [`/uses`](uses.md): what I use
 - [`/verify`](verify.md)
 - [`/where`](where.md): where I am right now
