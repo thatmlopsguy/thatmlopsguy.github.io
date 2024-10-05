@@ -15,7 +15,8 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/accessibility`](accessibility.md)
 - [`/ai`](ai.md): my AI usage, personally
 - [`/blogroll`](blogroll.md): blogs I like/follow.
-- [`/books`](books.md)
+- [`/books`](books.md): books I like and recommend
+- [`/boycott`](boycott.md): companies I don't like
 - [`/buttons`](buttons.md)
 - [`/changelog`](changelog.md)
 - [`/colophon`](colophon.md): what’s this website made of?
