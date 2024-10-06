@@ -31,6 +31,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/links`](links.md)
 - [`/media`](media.md)
 - [`/next`](next.md)
+- [`/nope`](nope.md)
 - [`/now`](now.md): what I’m up to, now
 - [`/postroll`](postroll.md): essays I like
 - [`/projects`](projects.md)
