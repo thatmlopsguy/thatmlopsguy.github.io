@@ -26,7 +26,7 @@ I also use various [terminal utilities and CLI tools](https://terminaltrove.com/
 that I use for scripting and just general shell surfing.
 Some of them that I want to give a shout-out to, in rapid fire:
 
-- exa
+- eza
 - fd
 - fzf
 - htop

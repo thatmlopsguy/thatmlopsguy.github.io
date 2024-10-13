@@ -49,7 +49,7 @@ as far as company pays train tickets, diets and hotel room.
 ### Are you interested in learning new technologies? Which ones and why?
 
 At this moment I'm learning about Machine Learning, where I'm more interested in Natural Language Programming
-and Large Language Models, and I'm improving my skills with rust/golang programming language.
+and Large Language Models, and I'm improving my skills with golang programming language.
 
 I'm a hands-on learner, so if I get some interesting project between my hands or find something that I think can be
 fixed or improved, I don't have problems learning new skills or knowledge that can be useful to me to do it,

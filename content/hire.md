@@ -60,4 +60,4 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Operative Systems**: Debian and RedHat Linux distributions
 - **Cloud services**: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
 AKS), Github Actions, SonarQube
-- **Compliance**: Trivy, Kyverno, Checkov
+- **Compliance**: Trivy, Kyverno, Checkov, Snyk
