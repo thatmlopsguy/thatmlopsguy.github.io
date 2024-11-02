@@ -41,3 +41,5 @@ in today's fast-paced technological environment.
 
 Feel free to [contact me](contact.md), and I will always get back to you.
 If we agree that I could help you, we can schedule a chat.
+
+I'm also open to considering more [permanent/full-time roles](hire.md).

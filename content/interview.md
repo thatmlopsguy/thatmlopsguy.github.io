@@ -27,6 +27,7 @@ simple and minimal APIs in all the code I develop, and to enforce that high qual
 ### What do your think about code tests? Do you do take-home code assignments?
 
 **Yes, but no leetcode**. I have no problems about doing technical/system design interviews.
+I am not confortable on doing technical assessment on platforms that requires uploading copies of my citizen card.
 
 ### Where are you located?
 

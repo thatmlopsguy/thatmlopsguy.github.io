@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# 🎁 Saves
+# 🎁 Save
 
 List of discount cupons I used:
 
