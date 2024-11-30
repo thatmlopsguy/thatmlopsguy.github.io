@@ -9,6 +9,11 @@
             "name": "cookiecutter-ml-project",
             "url": "https://github.com/thatmlopsguy/cookiecutter-ml-project",
             "desc": "Cookiecutter template to kickstart python ml projects"
+        },
+        {
+            "name": "pre-commit-hooks",
+            "url": "https://github.com/thatmlopsguy/pre-commit-hooks",
+            "desc": "devops pre-commit git hooks"
         }
     ]
 }
