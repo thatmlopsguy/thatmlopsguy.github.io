@@ -58,6 +58,5 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate
 - **Operative Systems**: Debian and RedHat Linux distributions
-- **Cloud services**: AWS (S3, Sagemaker, EC2, RDS, Lambda), Azure (DevOps/Pipelines, Databases, Keyvault, Blob Storage, ACR,
-AKS), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI
+- **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk, Qualys
