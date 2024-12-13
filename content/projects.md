@@ -17,4 +17,6 @@ the asdf version manager.
 
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects.
 
+- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.
+
 🚧 Work in progress! 🚧
