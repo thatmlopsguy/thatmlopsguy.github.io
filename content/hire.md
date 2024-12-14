@@ -31,7 +31,7 @@ If I do something more than three times, I automate it. Planning, documentation,
 things I do first, not when the time allows it later. I communicate well, I learn quickly, and I always strive
 for excellence in my work. I prefer remote work.
 
-I hold a [MSc in Astronomy & Astrophysics from the University of Porto (UP)](https://www.fc.up.pt/studyresearch/study-at-fcup/graduate_courses/astronomy-and-astrophysics/), Portugal.
+I hold a 👨‍🎓 [MSc in Astronomy & Astrophysics from the University of Porto (UP)](https://www.fc.up.pt/studyresearch/study-at-fcup/graduate_courses/astronomy-and-astrophysics/), Portugal.
 
 You can read more about me [here](about.md). Feel free to take a look at my [Résumé](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X).
 
