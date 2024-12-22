@@ -21,3 +21,7 @@ This is a list of companies I boycott and why.
 Subsidiaries: Braintree, Venmo, Honey and Zettle.
 
 - [Paypal opted you into sharing data with third-party vendors without your knowledge](https://www.ghacks.net/2024/10/02/paypals-data-sharing-controversy-new-setting-raises-privacy-concerns/)
+
+## Ryanair Holdings PLC
+
+- [Ryanair again faces GDPR complaint over face-scanning verification](https://www.euractiv.com/section/tech/news/ryanair-again-faces-gdpr-complaint-over-face-scanning-verification/)
