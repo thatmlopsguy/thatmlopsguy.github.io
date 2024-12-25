@@ -23,8 +23,14 @@ __Edward Abbey__
 “You maybe able to fool the voters, but not the atmosphere.”
 __Donella Meadows__
 
+“Waste no more time arguing about what a good man should be. Be one.“
+__Marcus Aurelius__
+
 “The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.”
 __Socrates__
+
+“It is not the man who has too little, but the man who craves more, that is poor.”
+__Seneca__
 
 “If you think education is expensive, try ignorance.”
 __Derek Bok__
