@@ -57,6 +57,6 @@ Here's a list of keywords that describe the areas, technologies, and tools I'm e
 - **Infrastructure**: Terraform, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault, Kubeflow, Harbor, ChartMuseum
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ, Temporal
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate
-- **Operative Systems**: Debian and RedHat Linux distributions
+- **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
 - **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk

@@ -24,6 +24,11 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 - [Paypal opted you into sharing data with third-party vendors without your knowledge](https://www.ghacks.net/2024/10/02/paypals-data-sharing-controversy-new-setting-raises-privacy-concerns/)
 - [PayPal Honey browser extension accused of misleading consumers and creators ](https://siliconangle.com/2024/12/23/paypal-honey-browser-extension-accused-misleading-consumers-creators/)
 
-## Ryanair Holdings PLC
+## Ryanair Holdings PLC (RYA.I)
 
 - [Ryanair again faces GDPR complaint over face-scanning verification](https://www.euractiv.com/section/tech/news/ryanair-again-faces-gdpr-complaint-over-face-scanning-verification/)
+
+## VW Group (VOW)
+
+- [Volkswagen to Spend Up to $14.7 Billion to Settle Allegations of Cheating Emissions Tests and Deceiving Customers on 2.0 Liter Diesel Vehicles ](https://www.justice.gov/opa/pr/volkswagen-spend-147-billion-settle-allegations-cheating-emissions-tests-and-deceiving)
+- [Massive VW Data Leak Exposed 800,000 EV Owners’ Movements, From Homes To Private Spaces](https://www.carscoops.com/2024/12/vw-group-data-breach-exposed-location-info-for-800000-evs/)
