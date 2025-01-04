@@ -17,14 +17,13 @@ I speak English and kind of French.
 On this page you can find some information about me and a few blog posts I wrote. Most of them are about
 topics that I'm most interested in, such as containers, security, CI/CD, or about programming languages like Python.
 
-I use my site as a method of blogging about my learnings, as well as sharing information about projects
+I use this site as a method of blogging about my learnings, as well as sharing information about projects
 I have previously, or are currently, working on in my spare time.
 
 I'm an active contributor to free and open source software (FOSS) and believe in the importance of knowledge sharing,
 as evidenced by my blog posts and [github profile](https://github.com/thatmlopsguy).
 
-I graduated from university in 2015 and have a Master's degree in Astronomy/Astrophysics. I consider myself a
-self-taught developer since I learned most of the stuff outside of my studies.
+I consider myself a self-taught developer since I learned most of the stuff outside of my studies.
 
 If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
 check this [page](hire.md).
