@@ -20,13 +20,13 @@ their tools and processes, and run on-site workshops.
 
 Here are some things I can do for your company:
 
-- **Conducting technical interviews**: Hiring your first software developer presents both challenges
+- **Conducting Technical Interviews**: Hiring your first software developer presents both challenges
     and opportunities. It's crucial to make this hire effectively, especially if you lack the technical
     expertise to evaluate candidates yourself. I can assist with crafting job descriptions and conducting
     interviews to ensure your initial technical hire meets expectations and sets the stage for building
     a strong team.
 
-- **Continuous deployment**: Deploying new features or updating applications traditionally results in
+- **Continuous Deployment**: Deploying new features or updating applications traditionally results in
     downtime and manual, error-prone processes. Many programmers fear deployment due to its tedious nature
     and potential for human mistakes. I can help set up automated deployment pipelines that remove manual
     steps and significantly reduce errors caused by human intervention.  
