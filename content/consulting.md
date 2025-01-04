@@ -20,8 +20,21 @@ their tools and processes, and run on-site workshops.
 
 Here are some things I can do for your company:
 
-- **Workshops**: Are you looking for a bespoke workshop on a machine learning/cloud native related topic?
-    A 1-day-long workshop on testing or deployment can save you days of trial and error.
+- **Conducting technical interviews**: Hiring your first software developer presents both challenges
+    and opportunities. It's crucial to make this hire effectively, especially if you lack the technical
+    expertise to evaluate candidates yourself. I can assist with crafting job descriptions and conducting
+    interviews to ensure your initial technical hire meets expectations and sets the stage for building
+    a strong team.
+
+- **Continuous deployment**: Deploying new features or updating applications traditionally results in
+    downtime and manual, error-prone processes. Many programmers fear deployment due to its tedious nature
+    and potential for human mistakes. I can help set up automated deployment pipelines that remove manual
+    steps and significantly reduce errors caused by human intervention.  
+
+- **Mentoring Workshops**: Your development team lacks experience in devops? Are you looking for a bespoke workshop
+    on a machine learning/cloud native related topic? I can help explaining in a 1-day-long workshop
+    various concepts, best practices, and tools that can help you and your development team, saving you
+    days of trial and error.
 
 - **Software Architecture**: Are you looking for a project setup that balances simplicity and scalability?
     Do you feel overwhelmed by the multitude of available tools and frameworks? Perhaps your current project
@@ -32,7 +45,9 @@ Here are some things I can do for your company:
     your project remains manageable and scalable as it grows.
 
 - **Project Management**:  I can lead a small ML team or join the Project Management Team for a
-    larger-scale AI initiative.
+    larger-scale AI initiative. I can assist you in validating your ideas, determining their feasibility with
+    current technology, identifying potential development challenges, and recommending the appropriate
+    development team for your project.
 
 ## 🚀 Get Started
 
