@@ -18,7 +18,7 @@ I predict ...
 - [ ] [2024] Between 2045-2055, the Artic will start to become ice free in September.
 - [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
 - [ ] [2024] Net zero emissions will not be reached by mid century.
-- [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that some of climate tipping points are crossed (Greenland Ice Sheet, West Antarctic Ice Sheet, Atlantic meridional overturning circulation).
+- [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning Circulation. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
 
 ## On energy/food systems
 

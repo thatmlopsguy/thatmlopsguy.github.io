@@ -10,11 +10,11 @@ to publishing predictions and sparking meaningful conversations about the future
 [`/about`](https://aboutideasnow.com/), [`/ideas`](https://aboutideasnow.com/), [`/now`](https://nownownow.com/about), and
 [`/uses`](https://uses.tech/) pages, I propose introducing a `/predictions` page for each blogger.
 
-"Future Perspectives" is a movement where everyone is inviented to share their predictions and insights about upcoming trends,
+"Future Perspectives" is a movement where everyone is invited to share their predictions and insights about upcoming trends,
 technological advancements, societal shifts, and more. The goal is simple: to challenge assumptions, stimulate debate, and inspire
 new ways of thinking about tomorrow.
 
-Why This Matters? In an era of constant change, it's easy to get caught up in the present moment. However, truly forward-thinking individuals
+Why this matters? In an era of constant change, it's easy to get caught up in the present moment. However, truly forward-thinking individuals
 recognize the value in exploring possibilities and potential outcomes. By sharing predictions and inviting discussion, I hope to encourage
 critical thinking about emerging issues and provide a framework for understanding and preparing for future challenges.
 
