@@ -24,7 +24,8 @@ of any of my (previous) employers. Any resemblance to reality is pure coincidenc
 ## 🔒 Privacy Policy
 
 I designed this website with the privacy of readers in mind. I don't want to collect any information
-that I do not need to serve pages on this website.
+that I do not need to serve pages on this website. It uses no cookies and has no analytics.
+The fonts are hosted along with the rest of the content on the site, not loaded from a third party.
 
 Here is the thing: there are quite a few companies out there that live off acquiring and selling your data.
 That would be kind of ok if it was more transparent how this is done. But of course, only those who are not
