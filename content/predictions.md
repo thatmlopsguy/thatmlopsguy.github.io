@@ -34,7 +34,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to "enhance" online identity verification processes.
 - [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
-- [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G connectivity. Many companies will begin offering appliance-as-a-service models.
+- [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models.
 - [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
 - [ ] [2024] Comercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
