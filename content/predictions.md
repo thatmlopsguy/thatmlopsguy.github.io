@@ -7,9 +7,9 @@ draft = false
 
 This is my predictions page. Read my [blog post](posts/predictions.md) about why I create this page.
 
-Each line is a prediction that follows the pattern: [year of the prediction] Statement.
+Each line is a prediction that follows the pattern: [year of the prediction] Statement (reference1;reference2).
 
-I predict ...
+**I predict ...**
 
 ## On climate
 
@@ -31,9 +31,9 @@ I predict ...
 
 ## On technology
 
-- [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to enhance online identity verification processes.
-- [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the eIDAS framework, necessitating proprietary devices with Trusted Execution Environments (TEEs).
-- [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets.
+- [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to "enhance" online identity verification processes.
+- [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3].
+- [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G connectivity. Many companies will begin offering appliance-as-a-service models.
 - [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
 - [ ] [2024] Comercial nuclear fusion will never be archivable.
@@ -42,10 +42,26 @@ I predict ...
 ## On societies
 
 - [ ] [2024] Human population will peak before mid century, reaching a maximum of 9.5B billion people, with a rapid decrease after that.
+- [ ] [2025] As older, wealthier generations tend to vote for politicians who protect their interests, younger generations with lower economic
+    power often find themselves disadvantaged in the political landscape. As a result, I predict that intergenerational inequality and disillusionment
+    among younger voters will increase. This disparity would result in a growing disconnect between younger voters and the political system as a whole,
+    leading to decreased political engagement and participation [(gerontocracy)][2].
 
 ## On economics
 
-- [ ] [2024] After 2040, the retirement age will be around 70+ years in most of the develop countries.
-- [ ] [2024] The 2030s will be the lost decade from most developed countries.
+- [ ] [2024] After 2040, the retirement age will be around 70+ years in most of the develop countries [(mgi2025)][1].
+- [ ] [2024] The 2030s will be the lost decade from most developed countries. The world economy can be expected to produce fewer goods
+    and services per person. Fewer people will be able to afford new cars or new homes.
 
 What do you think? Feel free to [contact me](contact.md) to discuss this and other predicions.
+
+***
+
+## Sources
+
+- [1]: <https://www.mckinsey.com/mgi/our-research/dependency-and-depopulation-confronting-the-consequences-of-a-new-demographic-reality> "McKinsey Global Institute Dependency and depopulation? Confronting the consequences of a new demographic reality"
+[(mgi2025) McKinsey Global Institute Dependency and depopulation? Confronting the consequences of a new demographic reality][1]
+- [2]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=227337> "Gerontocracy, Retirement, and Social Security"
+[(gerontocracy) Gerontocracy, Retirement, and Social Security][2]
+- [3]: <https://media.ccc.de/v/38c3-eu-s-digital-identity-systems-reality-check-and-techniques-for-better-privacy> "EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy"
+[(ccc38) EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy][3]
