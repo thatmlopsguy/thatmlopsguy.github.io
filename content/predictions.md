@@ -24,6 +24,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 - [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d).
 - [ ] [2024] Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas produciton and small decrease in oil.
+- [ ] [2025] Decline in urban water availability in most parts of the world.
 
 ## on biodiversity
 
@@ -32,12 +33,14 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 ## On technology
 
 - [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to "enhance" online identity verification processes.
-- [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3].
+- [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models.
 - [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
 - [ ] [2024] Comercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
+- [ ] [2025] In the 2030s, most European municipalities will implement Pay As You Throw (PAYT) waste management systems, creating vast amounts of household waste data.
+    This data will become increasingly valuable, leading to the emergence of specialized data brokers who will collect, analyze, and sell detailed information about citizens' waste generation patterns.
 
 ## On societies
 
@@ -51,7 +54,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 - [ ] [2024] After 2040, the retirement age will be around 70+ years in most of the develop countries [(mgi2025)][1].
 - [ ] [2024] The 2030s will be the lost decade from most developed countries. The world economy can be expected to produce fewer goods
-    and services per person. Fewer people will be able to afford new cars or new homes.
+    and services per person. Fewer people will be able to afford new cars or new homes, the home/car price-to-income ratio will increase.
 
 What do you think? Feel free to [contact me](contact.md) to discuss this and other predicions.
 
@@ -65,3 +68,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(gerontocracy) Gerontocracy, Retirement, and Social Security][2]
 - [3]: <https://media.ccc.de/v/38c3-eu-s-digital-identity-systems-reality-check-and-techniques-for-better-privacy> "EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy"
 [(ccc38) EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy][3]
+- [4]: <https://www.gov.uk/government/news/digital-driving-licence-coming-this-year> "Digital driving licence coming this year"
+[(govuk25) Digital driving licence coming this year][4]
