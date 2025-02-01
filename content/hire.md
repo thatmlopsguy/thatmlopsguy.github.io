@@ -49,7 +49,7 @@ I can help your company in other ways, check my [consulting](consulting) page.
 
 ## 🔧 Skills and Competencies
 
-Here's a list of keywords that describe the areas, technologies, and tools I'm experienced with best:
+Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with:
 
 - **Programming languages**: Python, R, Bash Script
 - **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
