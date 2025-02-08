@@ -13,12 +13,17 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## On climate
 
-- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year. Atmosferic CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
+- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year.
+    Atmosferic CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
 - [ ] [2024] Between 2045-2055, the Artic will start to become ice free in September.
 - [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
 - [ ] [2024] Net zero emissions will not be reached by mid century.
-- [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning Circulation. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
+- [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
+    for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
+    tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning
+    Circulation. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
+- [ ] [2025] By the end of 21st century, the Arctic Ocean will be free of sea ice for several months each summer [(col25)][5].
 
 ## On energy/food systems
 
@@ -70,3 +75,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(ccc38) EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy][3]
 - [4]: <https://www.gov.uk/government/news/digital-driving-licence-coming-this-year> "Digital driving licence coming this year"
 [(govuk25) Digital driving licence coming this year][4]
+- [5]: <https://www.colorado.edu/today/2025/02/06/arctic-beyond-recognition-2100> "An Arctic beyond recognition by 2100"
+[(col25) An Arctic beyond recognition by 2100][5]
