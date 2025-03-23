@@ -79,6 +79,16 @@ also when it's in losses. It must not take decisions just only based on economic
 I like to work for mid size companies that has its own product, that's mostly focused on the quality of
 their product over any other aspect, instead of being directed by sales department or any predefined deadlines.
 
+A positive company and team culture is one that is friendly, collaborative, and empathetic. This type of
+culture promotes open communication, where team members feel comfortable sharing their ideas, opinions,
+and concerns without fear of blame or politics. Instead of focusing on placing blame, a positive culture
+encourages teamwork and problem-solving together.
+
+I appreciate forward-thinking companies that embrace innovation and continuous improvement. Organizations
+that actively solicit employee insights and demonstrate adaptability in their processes align with my
+growth-oriented mindset. I'm particularly interested in environments where experimentation is valued and
+learning from outcomes drives positive change.
+
 ### Do you prefer to work alone, or as part of a group?
 
 I like to work in a small group, specially focused on a single project where there's a clear roadmap
@@ -135,7 +145,9 @@ Currently I'm working as *Cloud Engineer* as my main job.
 4. Innovation, design of new technologies, and usage and development of open and standard specifications.
 5. Management based on async communications, with clear specifications, roadmap and requirements. This does not
    exclude of having face-to-face meetings, but based on my experience, usually a hands-on meeting every quarter
-   is more than enough.
+   is more than enough. By limiting the number of meetings, team members have more time for deep work and can
+   better manage their own schedules. Additionally, meetings that are scheduled are more likely to be productive
+   and worthwhile, rather than being a constant interruption to work flow.
 
 ### What you are looking for in your next job?
 

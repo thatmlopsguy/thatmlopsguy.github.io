@@ -18,25 +18,33 @@ I'm a devops and machine learning engineer with 8+ years of experience working w
 institutions and multinational companies. I help companies fix their software architecture, improve
 their tools and processes, and run on-site workshops.
 
-Here are some things I can do for your company:
+Whether it’s small jobs, freelance, consulting, or longer commitments - here’s some of what I can do for you:
 
-- **Conducting Technical Interviews**: Hiring your first software developer presents both challenges
+- **🔍 Conducting Technical Interviews**: Hiring your first software developer presents both challenges
     and opportunities. It's crucial to make this hire effectively, especially if you lack the technical
     expertise to evaluate candidates yourself. I can assist with crafting job descriptions and conducting
     interviews to ensure your initial technical hire meets expectations and sets the stage for building
     a strong team.
 
-- **Continuous Deployment**: Deploying new features or updating applications traditionally results in
+- **⚙️ Continuous Deployment**: Deploying new features or updating applications traditionally results in
     downtime and manual, error-prone processes. Many programmers fear deployment due to its tedious nature
-    and potential for human mistakes. I can help set up automated deployment pipelines that remove manual
-    steps and significantly reduce errors caused by human intervention.  
+    and potential for human mistakes. I have experience with CI/CD (Continuous Integration/Continuous Deployment),
+    Git, GitHub, Azure DevOps, and IaC (Infrastructure as Code) with GitHub Actions.
+    I can help set up automated deployment pipelines that remove manual steps and significantly reduce errors
+    caused by human intervention.  
 
-- **Mentoring Workshops**: Your development team lacks experience in devops? Are you looking for a bespoke workshop
+- **📚 Mentoring Workshops**: Your development team lacks experience in devops? Are you looking for a bespoke workshop
     on a machine learning/cloud native related topic? I can help explaining in a 1-day-long workshop
     various concepts, best practices, and tools that can help you and your development team, saving you
     days of trial and error.
 
-- **Software Architecture**: Are you looking for a project setup that balances simplicity and scalability?
+- **📝 Code review.**:  Designing software well requires confidence in both the specification and code.
+    I’m happy to review your code and create a report of the findings, or I can implement the changes required
+    for you. I start with running code quality tools, and then look at areas such as code style, documentation,
+    and code coverage. In particular I look for issues with maintainability, readability, code duplication,
+    strong coupling, encapsulation, etc. I also review the build and deployment process of the code under review.
+
+- **📐 Software Architecture**: Are you looking for a project setup that balances simplicity and scalability?
     Do you feel overwhelmed by the multitude of available tools and frameworks? Perhaps your current project
     has become too complex, and you need to refocus your efforts?
     I understand the challenges of building robust yet accessible projects. My expertise can help you create
@@ -44,7 +52,7 @@ Here are some things I can do for your company:
     company through the process of choosing the right tools and frameworks for your specific needs, ensuring
     your project remains manageable and scalable as it grows.
 
-- **Project Management**:  I can lead a small ML team or join the Project Management Team for a
+- **📅 Project Management**:  I can lead a small ML team or join the Project Management Team for a
     larger-scale AI initiative. I can assist you in validating your ideas, determining their feasibility with
     current technology, identifying potential development challenges, and recommending the appropriate
     development team for your project.
