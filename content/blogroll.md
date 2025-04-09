@@ -54,4 +54,3 @@ If you know other links that would fit in this list (and thus in my RSS reader) 
 
 - [Hacker News](https://news.ycombinator.com/) - My favorite news outlet. Tech, programming, Entrepreneurship and other important news.
 - [Lobste.rs](https://lobste.rs/) - Very similar to Hacker News, but strictly focused on software development.
-- [freepo.st](https://freepo.st/) - Similar to Hacker News and lobsters but only related with free software and free culture.
