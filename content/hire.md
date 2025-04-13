@@ -54,7 +54,7 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Programming languages**: Python, R, Bash Script
 - **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
 - **Software Engineering**: Git, Docker, Helm, Kustomize
-- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, Elasticsearch, fluentbit, Kibana, Graylog, VictoriaMetrics
+- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, Elasticsearch, fluentbit, Kibana, Graylog, VictoriaMetrics, AWS Cloudwatch
 - **Infrastructure**: Terraform, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault, Kubeflow, Harbor, ChartMuseum
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ, Temporal
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate
