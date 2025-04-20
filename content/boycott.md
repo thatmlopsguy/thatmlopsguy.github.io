@@ -11,6 +11,7 @@ This is a list of companies I boycott and why.
 ## LG Electronics Inc. (066570.KS)
 
 - [LG TVs start showing ads on screensavers](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1727255253)
+- [LG TVs’ integrated ads get more personal with tech that analyzes viewer emotions](https://arstechnica.com/gadgets/2025/04/lg-tvs-integrated-ads-get-more-personal-with-tech-that-analyzes-viewer-emotions/)
 
 ## Meta Platforms, Inc. (META)
 
