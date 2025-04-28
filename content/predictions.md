@@ -22,7 +22,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
     for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
     tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning
-    Circulation. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
+    Circulation [(esd25)][6]. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
 - [ ] [2025] By the end of 21st century, the Arctic Ocean will be free of sea ice for several months each summer [(col25)][5].
 
 ## On energy/food systems
@@ -77,3 +77,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(govuk25) Digital driving licence coming this year][4]
 - [5]: <https://www.colorado.edu/today/2025/02/06/arctic-beyond-recognition-2100> "An Arctic beyond recognition by 2100"
 [(col25) An Arctic beyond recognition by 2100][5]
+- [6]: <https://esd.copernicus.org/articles/16/565/2025/> "High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw"
+[(esd25) High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw][6]

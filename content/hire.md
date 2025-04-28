@@ -6,8 +6,13 @@ toc = false
 
 # 🤝 Let's work together
 
-I have been working professionally as a data scientist, machine learning engineer and devops since 2016.
-Currently I am a cloud engineer working from Portugal 🇵🇹.
+I have been working professionally as a data scientist and machine learning engineer since 2016. I found my
+passion in properly delivering code and creating a stable and capable infrastructure for it.
+I wanted to expose myself to a wider variety of projects and became a {Dev,ML}Ops and cloud consultant.
+
+I'm a cloud engineer specializing in container orchestration and multi-cloud architecture, currently based
+in Portugal 🇵🇹. My expertise centers around Kubernetes implementation and optimization, complemented by
+extensive experience with both Azure and AWS platforms.
 
 Most of my coding experience is with 🐍 Python, simply because it was the language I used at my first job.
 I started with flask, but then I discovered FastAPI which quickly became my favorite framework.

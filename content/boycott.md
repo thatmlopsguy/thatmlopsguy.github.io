@@ -33,3 +33,7 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 
 - [Volkswagen to Spend Up to $14.7 Billion to Settle Allegations of Cheating Emissions Tests and Deceiving Customers on 2.0 Liter Diesel Vehicles ](https://www.justice.gov/opa/pr/volkswagen-spend-147-billion-settle-allegations-cheating-emissions-tests-and-deceiving)
 - [Massive VW Data Leak Exposed 800,000 EV Owners’ Movements, From Homes To Private Spaces](https://www.carscoops.com/2024/12/vw-group-data-breach-exposed-location-info-for-800000-evs/)
+
+## Live Nation Entertainment, Inc. (LYV)
+
+- [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
