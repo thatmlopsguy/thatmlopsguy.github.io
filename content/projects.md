@@ -20,3 +20,5 @@ the asdf version manager.
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.
 
 🚧 Work in progress! 🚧
+
+- [k8s-homelab](https://github.com/thatmlopsguy/k8s-homelab): GitOps configuration and documentation of my Kubernetes homelab powered by ArgoCD.

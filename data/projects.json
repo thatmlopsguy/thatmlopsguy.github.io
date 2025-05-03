@@ -14,6 +14,11 @@
             "name": "pre-commit-hooks",
             "url": "https://github.com/thatmlopsguy/pre-commit-hooks",
             "desc": "devops pre-commit git hooks"
+        },
+        {
+            "name": "k8s-homelab",
+            "url": "https://github.com/thatmlopsguy/k8s-homelab",
+            "desc": "GitOps configuration and documentation of my Kubernetes homelab powered by ArgoCD"
         }
     ]
 }
