@@ -20,8 +20,10 @@ topics that I'm most interested in, such as containers, security, CI/CD, or abou
 I use this site as a method of blogging about my learnings, as well as sharing information about projects
 I have previously, or are currently, working on in my spare time.
 
-I'm an active contributor to free and open source software (FOSS) and believe in the importance of knowledge sharing,
-as evidenced by my blog posts and [github profile](https://github.com/thatmlopsguy).
+I avidly read technical blogs across various subjects. I enjoy engaging in discussions on platforms like Hacker News
+and exploring the vibrant community of Indie Hackers. I'm an active contributor to free and open source software
+(FOSS) and believe in the importance of knowledge sharing, as evidenced by my blog posts and
+[github profile](https://github.com/thatmlopsguy).
 
 I consider myself a self-taught developer since I learned most of the stuff outside of my studies.
 
