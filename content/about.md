@@ -12,8 +12,6 @@ I'm a [GNU/Linux](https://www.gnu.org/) user, a big advocate for the [Free Softw
 and the [IndieWeb](https://indieweb.org/) movements. I like trying to understand the world, building things
 that improve it, and talking about it on the web. Check my [interests](interests.md) page.
 
-I speak English and kind of French.
-
 On this page you can find some information about me and a few blog posts I wrote. Most of them are about
 topics that I'm most interested in, such as containers, security, CI/CD, or about programming languages like Python.
 

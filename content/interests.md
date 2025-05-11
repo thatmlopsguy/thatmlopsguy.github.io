@@ -10,13 +10,10 @@ This is an interests page, inspired by [Chris Burnell’s post](https://chrisbur
 
 These are some of my main areas of interest (does not include job related topics):
 
-- Free and Open Web
-- Privacy
-- Free software
+- Free and Open Web/Privacy/Free Software
 - Earth System Dynamics
 - Physics/Astrophysics
-- Economy
-- Geopolitics
+- Economy/Geopolitics
 - Philosophy/Epistemology
 
 Do We Have Something In Common?
