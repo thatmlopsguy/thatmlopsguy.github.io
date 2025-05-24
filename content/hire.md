@@ -62,7 +62,7 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, Elasticsearch, Fluentbit, Kibana, Graylog, VictoriaMetrics, AWS Cloudwatch
 - **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault, Kubeflow, Harbor, ChartMuseum
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ, Temporal
-- **Databases**: SQL - PostgreSQL, MySQL/MariaDB, ClickHouse; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate
+- **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
 - **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk
