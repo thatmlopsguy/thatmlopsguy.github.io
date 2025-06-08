@@ -17,6 +17,7 @@ This is a list of companies I boycott and why.
 
 - [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://www.dataprotection.ie/en/news-media/press-releases/DPC-announces-91-million-fine-of-Meta)
 - [Irish Data Protection Commission fines Meta €251 Million](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-meta-eu251-million)
+- [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 
 ## PayPal Holdings, Inc. (PYPL)
 
