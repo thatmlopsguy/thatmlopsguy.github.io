@@ -22,13 +22,12 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
     for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
     tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning
-    Circulation [(esd25)][6]. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory.
+    Circulation [(esd25)][6]. As a result, the Earth system appears to be locked onto a ["Hothouse Earth"](https://www.pnas.org/doi/10.1073/pnas.1810141115) trajectory. You can check the [Planetary Health Check](https://www.planetaryhealthcheck.org/).
 - [ ] [2025] By the end of 21st century, the Arctic Ocean will be free of sea ice for several months each summer [(col25)][5].
 
 ## On energy/food systems
 
-- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d).
-- [ ] [2024] Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas produciton and small decrease in oil.
+- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas produciton and small decrease in oil [(BloombergNEF25)][7].
 - [ ] [2025] Decline in urban water availability in most parts of the world.
 
 ## on biodiversity
@@ -38,7 +37,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 ## On technology
 
 - [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to "enhance" online identity verification processes.
-- [ ] [2024] By 2030, nearly all Europeans will utilize digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
+- [ ] [2024] By 2030, nearly all Europeans will use digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models.
 - [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
@@ -79,3 +78,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(col25) An Arctic beyond recognition by 2100][5]
 - [6]: <https://esd.copernicus.org/articles/16/565/2025/> "High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw"
 [(esd25) High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw][6]
+- [7]: <https://about.bnef.com/insights/clean-energy/new-energy-outlook/> "New Energy Outlook"
+[(BloombergNEF25) New Energy Outlook][7]
