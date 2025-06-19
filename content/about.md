@@ -26,4 +26,7 @@ and exploring the vibrant community of Indie Hackers. I'm an active contributor 
 I consider myself a self-taught developer since I learned most of the stuff outside of my studies.
 
 If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
-check this [page](hire.md).
+check [this page](hire.md).
+
+Spending the majority of my days sitting in front of a computer screen; I’m always happy when I take the time to go
+on a walk and admire nature’s natural beauty.
