@@ -16,9 +16,9 @@
             "desc": "devops pre-commit git hooks"
         },
         {
-            "name": "k8s-homelab",
-            "url": "https://github.com/thatmlopsguy/k8s-homelab",
-            "desc": "GitOps configuration and documentation of my Kubernetes homelab powered by ArgoCD"
+            "name": "DoKa Seca",
+            "url": "https://github.com/thatmlopsguy/dokaseca-control-plane",
+            "desc": "framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)"
         }
     ]
 }
