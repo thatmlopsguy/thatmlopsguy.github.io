@@ -21,4 +21,4 @@ the asdf version manager.
 
 🚧 Work in progress! 🚧
 
-- [k8s-homelab](https://github.com/thatmlopsguy/k8s-homelab): GitOps configuration and documentation of my Kubernetes homelab powered by ArgoCD.
+- [DoKa Seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)

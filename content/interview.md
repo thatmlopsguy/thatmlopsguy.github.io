@@ -8,7 +8,7 @@ toc = false
 
 Interesting or habitual questions I've been asked during job interviews.
 
-This page is also inspired by [Manual of Me](https://my.manualof.me/), and aims to be a guide for colleagues in
+This page is also inspired by [Manual of Me][manual], and aims to be a guide for colleagues in
 how to best work with me.
 
 ## 🤝 Introduction questions
@@ -93,8 +93,9 @@ learning from outcomes drives positive change.
 
 I like to work in a small group, specially focused on a single project where there's a clear roadmap
 on what to do, or where technical expertise of co-workers is high and everybody is trying to do their best.
-This open the door to the possibility of discuss the different approaches to the problems and learn ones
-from the others.
+This preference aligns with research on team productivity, particularly the [Ringelmann effect][ringelmann],
+which shows that smaller groups tend to be more effective than larger ones. This also open the door to the
+possibility of discuss the different approaches to the problems and learn ones from the others.
 
 In the same way, I like to be surrounded by co-workers with good technical skills so I can take in account
 their points of view too when defining the project architecture, the development guidelines or the project
@@ -190,9 +191,13 @@ For a matter of fact I don't use any of my personal devices for working, this in
 While Microsoft Authenticator is a popular choice for 2FA, there are several alternatives available for those
 who prefer not to use it. Given my strong emphasis on protecting personal information and maintaining confidentiality,
 I neither have nor wish to create accounts with Google or Apple to obtain the Microsoft Authenticator app.
-Furthermore, [Microsoft Authenticator transmits analytics even before users accept the privacy terms](https://defcon.social/@mysk/109995712305528246),
+Furthermore, [Microsoft Authenticator transmits analytics even before users accept the privacy terms][mfa],
 raising concerns about data collection and potential misuse of user information.
 
 One option is to utilize a dedicated physical security key, such as the YubiKey, which provides enhanced
 security by generating codes offline and not relying on a potentially compromised smartphone.
 Otherwise, the company will need to buy me a dedicated phone with a sim card.
+
+[manual]: https://my.manualof.me/
+[ringelmann]: https://en.wikipedia.org/wiki/Ringelmann_effect
+[mfa]: https://defcon.social/@mysk/109995712305528246
