@@ -1,6 +1,7 @@
 +++
 title = 'Introducing Future Perspectives: A new initiative to update our world view'
 date = 2025-01-04
+lastmod = 2025-08-03
 draft = false
 +++
 

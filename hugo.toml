@@ -84,6 +84,7 @@ weight = 11
   """
   showProjectsList = true
   projectsUrl = "https://github.com/thatmlopsguy"
+  show_updated = true
 
 [[params.social]]
   name = "github"

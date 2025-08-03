@@ -16,7 +16,7 @@
             "desc": "devops pre-commit git hooks"
         },
         {
-            "name": "doKa Seca",
+            "name": "doKa seca",
             "url": "https://github.com/thatmlopsguy/dokaseca-control-plane",
             "desc": "framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)"
         }
