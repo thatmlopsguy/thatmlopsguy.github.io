@@ -35,6 +35,12 @@ from participating bloggers. This centralized hub would serve as a comprehensive
 across various perspectives and domains, making it easier for visitors to discover and engage with the wide range of
 future-focused content being generated.
 
+**Update**: there's actually a whole profession dedicated to analyzing and predicting future trends and risks - actuaries!
+While the Future Perspectives initiative encourages bloggers to share their predictions about technology and society,
+actuaries have been doing this professionally for decades, combining mathematical expertise with deep business acumen to
+forecast everything from insurance risks to economic trends. They're essentially professional futurists who use
+statistical models and data analysis to help organizations prepare for and manage potential future scenarios.
+
 ***
 
 Have a comment, question, or suggestion? Feel free to [contact me](contact.md)

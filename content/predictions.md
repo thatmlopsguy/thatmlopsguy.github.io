@@ -28,7 +28,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 ## On energy/food systems
 
 - [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas produciton and small decrease in oil [(BloombergNEF25)][7].
-- [ ] [2025] Decline in urban water availability in most parts of the world.
+- [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8].
 
 ## on biodiversity
 
@@ -80,3 +80,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(esd25) High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw][6]
 - [7]: <https://about.bnef.com/insights/clean-energy/new-energy-outlook/> "New Energy Outlook"
 [(BloombergNEF25) New Energy Outlook][7]
+- [8]: <https://actuaries.org.uk/news-and-media-releases/news-articles/2025/jan/16-jan-25-planetary-solvency-finding-our-balance-with-nature//> "Planetary Solvency – finding our balance with nature"
+[(actuaries25) Planetary Solvency – finding our balance with nature][8]

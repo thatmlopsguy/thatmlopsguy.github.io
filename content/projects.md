@@ -21,4 +21,4 @@ the asdf version manager.
 
 🚧 Work in progress! 🚧
 
-- [DoKa Seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
+- [doKa seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
