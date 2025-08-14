@@ -18,7 +18,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
 - [ ] [2024] Between 2045-2055, the Artic will start to become ice free in September.
 - [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
-- [ ] [2024] Net zero emissions will not be reached by mid century.
+- [ ] [2024] Net zero emissions will not be reached by mid century [(smil24)][9].
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
     for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
     tipping points have been exceeded, including the Greenland Ice Sheet, West Antarctic Ice Sheet, and Atlantic Meridional Overturning
@@ -80,5 +80,7 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(esd25) High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw][6]
 - [7]: <https://about.bnef.com/insights/clean-energy/new-energy-outlook/> "New Energy Outlook"
 [(bloombergNEF25) New Energy Outlook][7]
-- [8]: <https://actuaries.org.uk/news-and-media-releases/news-articles/2025/jan/16-jan-25-planetary-solvency-finding-our-balance-with-nature//> "Planetary Solvency – finding our balance with nature"
+- [8]: <https://actuaries.org.uk/news-and-media-releases/news-articles/2025/jan/16-jan-25-planetary-solvency-finding-our-balance-with-nature/> "Planetary Solvency – finding our balance with nature"
 [(actuaries25) Planetary Solvency – finding our balance with nature][8]
+- [9]: <https://vaclavsmil.com/may-28-2024/> "Halfway Between Kyoto and 2050: Zero Carbon Is a Highly Unlikely Outcome"
+[(smil24) Halfway Between Kyoto and 2050: Zero Carbon Is a Highly Unlikely Outcome][9]
