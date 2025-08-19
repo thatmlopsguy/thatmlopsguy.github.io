@@ -29,6 +29,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 - [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas produciton and small decrease in oil [(bloombergNEF25)][7].
 - [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8].
+- [ ] [2025] Lake Mead will reach "dead pool" status during the early 2040s. At this critical point, the water level will drop below elevation 273m, rendering the dam unable to physically release water downstream to California, Arizona, and Mexico. Prolonged dead pool condition in late 2040s. See [graph](https://graphs.water-data.com/lakemead/).
 
 ## on biodiversity
 
