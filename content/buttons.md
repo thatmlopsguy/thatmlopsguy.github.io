@@ -4,4 +4,6 @@ draft = false
 toc = false
 +++
 
-The page is currently a stub and will be filled one fine day.
+Cool badges
+
+![](https://250kb.club/simple_badge_bright.png)
