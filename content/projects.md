@@ -12,7 +12,7 @@ The code for most, if not all of them, can be found on my [github](https://githu
 - [this website](https://github.com/thatmlopsguy/thatmlopsguy.github.io): goal of this project was to market my services,
 but I also wanted to get out of my backend comfort zone and learn a bit more about modern frontend things.
 
-- [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing gitHub repositories  
+- [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing GitHub repositories  
 
 - [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for
 the asdf version manager.

@@ -1,6 +1,16 @@
 {
     "list": [
         {
+            "name": "github-repo-operator-ansible",
+            "url": "https://github.com/thatmlopsguy/github-repo-operator-ansible",
+            "desc": "kubernetes operator for managing GitHub repositories"
+        },
+        {
+            "name": "mkdocs-tech-radar",
+            "url": "https://github.com/thatmlopsguy/mkdocs-tech-radar",
+            "desc": "MkDocs plugin that generates an interactive Technology Radar"
+        },
+        {
             "name": "asdf-argocd-image-updater",
             "url": "https://github.com/thatmlopsguy/asdf-argocd-image-updater",
             "desc": "argocd-image-updater plugin for the asdf version manager"
@@ -8,7 +18,7 @@
         {
             "name": "cookiecutter-ml-project",
             "url": "https://github.com/thatmlopsguy/cookiecutter-ml-project",
-            "desc": "Cookiecutter template to kickstart python ml projects"
+            "desc": "cookiecutter template to kickstart python ml projects"
         },
         {
             "name": "pre-commit-hooks",
