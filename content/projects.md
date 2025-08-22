@@ -12,6 +12,8 @@ The code for most, if not all of them, can be found on my [github](https://githu
 - [this website](https://github.com/thatmlopsguy/thatmlopsguy.github.io): goal of this project was to market my services,
 but I also wanted to get out of my backend comfort zone and learn a bit more about modern frontend things.
 
+- [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing gitHub repositories  
+
 - [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for
 the asdf version manager.
 
@@ -22,3 +24,5 @@ the asdf version manager.
 🚧 Work in progress! 🚧
 
 - [doKa seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
+
+- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radar
