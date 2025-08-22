@@ -6,20 +6,21 @@ toc = false
 
 # 👨‍💻 Projects
 
-This is a small list of data analysis and other related projects I have done during the last years.
+This is a small list of projects I have done during the last years.
+
 The code for most, if not all of them, can be found on my [github](https://github.com/thatmlopsguy) account.
 
 - [this website](https://github.com/thatmlopsguy/thatmlopsguy.github.io): goal of this project was to market my services,
-but I also wanted to get out of my backend comfort zone and learn a bit more about modern frontend things.
+but I also wanted to get out of my backend comfort zone and learn a bit more about modern frontend things
 
 - [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing GitHub repositories  
 
 - [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for
-the asdf version manager.
+the asdf version manager
 
-- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects.
+- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 
-- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.
+- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 
 🚧 Work in progress! 🚧
 
