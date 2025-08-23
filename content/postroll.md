@@ -17,3 +17,4 @@ how I look at the world. I’m listing them here in one place so it’s easier f
 - [Energy Slaves reflections: essays](https://www.stuartmcmillen.com/blog/energy-slaves-reflections/)
 - [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
 - [No "Hello", No "Quick Call", and no Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
+- [Death to Bullshit](https://deathtobullshit.com/)

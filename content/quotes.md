@@ -37,3 +37,6 @@ __Derek Bok__
 
 “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology.“
 __Edward Osborne Wilson__
+
+“When information is cheap, attention becomes expensive.”
+__James Gleick__
