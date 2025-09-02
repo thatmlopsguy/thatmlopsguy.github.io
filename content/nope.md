@@ -20,7 +20,7 @@ Here is a list of things I don't like, in no particular order. I'll update it as
 - subscribe to receive updates/no available RSS or Atom feed
 - nonsensical password requirements
 - the form requires a phone number
-- passkeys
+- passkeys, because of [remote attestation](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
 - ask to install a proprietary app for MFA
 - [SMS-based two-factor authentication](https://www.issms2fasecure.com/)
 - Ask for a Linkedin profile. [Linkedin does not respect your privacy](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million)

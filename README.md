@@ -58,18 +58,18 @@ git submodule update --init --recursive
 ## 📁 Project Structure
 
 ```text
-├── archetypes/          # Content templates
-├── content/            # All content files
+├── archetypes/        # Content templates
+├── content/           # All content files
 │   ├── posts/         # Blog posts
 │   └── notes/         # Notes and quick thoughts
 ├── data/              # Data files (JSON, YAML, TOML)
 ├── layouts/           # Custom layout files
 ├── static/            # Static assets (images, files)
 ├── themes/            # Hugo themes
-│   └── cactus2/      # Current theme (git submodule)
+│   └── cactus2/       # Current theme (git submodule)
 ├── docker-compose.yml # Docker development setup
-├── hugo.toml         # Hugo configuration
-└── Makefile          # Build commands
+├── hugo.toml          # Hugo configuration
+└── Makefile           # Build commands
 ```
 
 ## ✍️ Creating Content
