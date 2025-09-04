@@ -4,6 +4,14 @@ on:
   push:
     branches:
       - main # Set a branch name to trigger deployment
+    paths:
+      - 'content/**'
+      - 'data/**'
+      - 'layouts/**'
+      - 'static/**'
+      - 'themes/**'
+      - 'hugo.toml'
+
   # Allows to run workflow manually from Actions tab
   workflow_dispatch:
   pull_request:
