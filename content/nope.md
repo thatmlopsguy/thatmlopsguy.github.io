@@ -24,3 +24,4 @@ Here is a list of things I don't like, in no particular order. I'll update it as
 - ask to install a proprietary app for MFA
 - [SMS-based two-factor authentication](https://www.issms2fasecure.com/)
 - Ask for a Linkedin profile. [Linkedin does not respect your privacy](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million)
+- Horizontal Scroll
