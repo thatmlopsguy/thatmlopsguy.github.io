@@ -44,3 +44,4 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 ## 🌐 Resources
 
 - [Consumer Rights Wiki](https://consumerrights.wiki/Main_Page) by Louis Rossmann
+- [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)
