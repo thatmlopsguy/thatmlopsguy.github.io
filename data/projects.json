@@ -1,9 +1,9 @@
 {
     "list": [
         {
-            "name": "github-repo-operator-ansible",
-            "url": "https://github.com/thatmlopsguy/github-repo-operator-ansible",
-            "desc": "kubernetes operator for managing GitHub repositories"
+            "name": "github-k8s-operator",
+            "url": "https://github.com/thatmlopsguy/github-k8s-operator",
+            "desc": "kubernetes operator for managing gitHub repositories (golang)"
         },
         {
             "name": "mkdocs-tech-radar",
