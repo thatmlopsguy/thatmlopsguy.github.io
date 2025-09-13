@@ -6,7 +6,7 @@ toc = false
 
 # 👨‍💻 Projects
 
-This is a small list of projects I have done during the last years.
+I’ve worked on a bunch of different things over the years. This is a small list of projects I have done during the last years.
 
 The code for most, if not all of them, can be found on my [github](https://github.com/thatmlopsguy) account.
 
