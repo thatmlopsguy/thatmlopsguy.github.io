@@ -40,7 +40,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] Most new technological devices designed for human interaction will feature integrated Trusted Execution Environments (TEEs) to "enhance" online identity verification processes.
 - [ ] [2024] By 2030, nearly all Europeans will use digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
-- [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models.
+- [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models. Almost all of these smart appliances with screens will display personalized advertisements when not in active use, creating new revenue streams for manufacturers [(samsung25)][10].
 - [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
 - [ ] [2024] Comercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
@@ -85,3 +85,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(actuaries25) Planetary Solvency – finding our balance with nature][8]
 - [9]: <https://vaclavsmil.com/may-28-2024/> "Halfway Between Kyoto and 2050: Zero Carbon Is a Highly Unlikely Outcome"
 [(smil24) Halfway Between Kyoto and 2050: Zero Carbon Is a Highly Unlikely Outcome][9]
+- [10]: <https://arstechnica.com/gadgets/2025/09/samsung-forces-ads-onto-fridges-is-a-bad-sign-for-other-appliances/> "Software update shoves ads onto Samsung’s pricey fridges"
+[(samsung25) Software update shoves ads onto Samsung’s pricey fridges][10]
