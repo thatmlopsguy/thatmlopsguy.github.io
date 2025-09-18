@@ -16,7 +16,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year.
     Atmosferic CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
-- [ ] [2024] Between 2045-2055, the Artic will start to become ice free in September.
+- [ ] [2024] Between 2045-2055, the Arctic will start to become ice free in September.
 - [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
 - [ ] [2024] Net zero emissions will not be reached by mid century [(smil24)][9].
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
@@ -33,7 +33,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## on biodiversity
 
-- [ ] [2024] By mid century, some large mamals species like Elephant, Lions, Gorillas will be extinct from natural habitats. You can check the [Living Planet Index (LPI)](https://www.livingplanetindex.org/).
+- [ ] [2024] By mid century, some large mammals species like Elephant, Lions, Gorillas will be extinct from natural habitats. You can check the [Living Planet Index (LPI)](https://www.livingplanetindex.org/).
 
 ## On technology
 
@@ -41,8 +41,8 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] By 2030, nearly all Europeans will use digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models. Almost all of these smart appliances with screens will display personalized advertisements when not in active use, creating new revenue streams for manufacturers [(samsung25)][10].
-- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity for their users.
-- [ ] [2024] Comercial nuclear fusion will never be archivable.
+- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity by requiring digital identity verification through standardized APIs like the [W3C Digital Credentials API][11]. This will enable websites to request government-issued or institutional digital credentials, transforming pseudonymous internet interactions into verified identity exchanges with traceable digital signatures.
+- [ ] [2024] Commercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
 - [ ] [2025] In the 2030s, most European municipalities will implement Pay As You Throw (PAYT) waste management systems, creating vast amounts of household waste data.
     This data will become increasingly valuable, leading to the emergence of specialized data brokers who will collect, analyze, and sell detailed information about citizens' waste generation patterns.
@@ -51,7 +51,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 - [ ] [2024] Human population will peak before mid century, reaching a maximum of 9.5B billion people, with a rapid decrease after that.
 - [ ] [2025] As older, wealthier generations tend to vote for politicians who protect their interests, younger generations with lower economic
-    power often find themselves disadvantaged in the political landscape. As a result, I predict that intergenerational inequality and disillusionment
+    power often find themselves disadvantaged in the political landscape. As a result, I predict that inter generational inequality and disillusionment
     among younger voters will increase. This disparity would result in a growing disconnect between younger voters and the political system as a whole,
     leading to decreased political engagement and participation [(gerontocracy)][2].
 
@@ -61,7 +61,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] The 2030s will be the lost decade from most developed countries. The world economy can be expected to produce fewer goods
     and services per person. Fewer people will be able to afford new cars or new homes, the home/car price-to-income ratio will increase.
 
-What do you think? Feel free to [contact me](contact.md) to discuss this and other predicions.
+What do you think? Feel free to [contact me](contact.md) to discuss this and other predictions.
 
 ***
 
@@ -87,3 +87,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(smil24) Halfway Between Kyoto and 2050: Zero Carbon Is a Highly Unlikely Outcome][9]
 - [10]: <https://arstechnica.com/gadgets/2025/09/samsung-forces-ads-onto-fridges-is-a-bad-sign-for-other-appliances/> "Software update shoves ads onto Samsung’s pricey fridges"
 [(samsung25) Software update shoves ads onto Samsung’s pricey fridges][10]
+- [11]: <https://www.w3.org/TR/did-core/> "W3C Digital Credentials API"
+[(w3c25) W3C Digital Credentials API][11]
