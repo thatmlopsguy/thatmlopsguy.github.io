@@ -19,10 +19,11 @@ I use this site as a method of blogging about my learnings, as well as sharing i
 I have previously, or are currently, working on in my spare time.
 
 I avidly read technical blogs across various subjects. I enjoy engaging in discussions on platforms like Hacker News
-and exploring the vibrant community of Indie Hackers. I'm an active contributor to free and open source software
-(FOSS) and believe in the importance of knowledge sharing, as evidenced by my blog posts and
-[github profile](https://github.com/thatmlopsguy). You can track my projects [here](projects.md) and my
-contributions [here](contributions.md).
+and exploring the vibrant community of Indie Hackers. I’ve been immersed in open source since the early days of my
+career, shortly after I started using GNU/Linux. I believe it’s one of the best models for building quality software.
+I'm an active contributor to free and open source software (FOSS) and believe in the importance of knowledge sharing,
+as evidenced by my blog posts and [github profile](https://github.com/thatmlopsguy).
+You can track my projects [here](projects.md) and my contributions [here](contributions.md).
 
 I consider myself a self-taught developer since I learned most of the stuff outside of my studies.
 

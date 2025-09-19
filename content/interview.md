@@ -27,7 +27,7 @@ simple and minimal APIs in all the code I develop, and to enforce that high qual
 ### What do your think about code tests? Do you do take-home code assignments?
 
 **Yes, but no leetcode**. I have no problems about doing technical/system design interviews.
-I am not confortable on doing technical assessment on platforms that requires uploading copies of my citizen card.
+I am not comfortable on doing technical assessment on platforms that requires uploading copies of my citizen card.
 
 ### Where are you located?
 
@@ -162,7 +162,7 @@ current job, so only I would reject a job offer if the tasks I would be involved
 enough, or the final salary difference with my current job would not compensate the change, so it's better
 that we discuss these topics in the first interview to don't waste everybody time.
 
-###  What are my working Hours
+### What are my working Hours
 
 You'll almost definitely be able to find me online between the following hours (Europe/London timezone):
 
