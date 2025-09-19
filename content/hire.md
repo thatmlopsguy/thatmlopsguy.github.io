@@ -55,7 +55,6 @@ I can help your company in other ways, check my [consulting](consulting) page.
 |:---------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
 | [![GitOps Fundamental](/images/gitops-fundamentals.png)](https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url) | [![GitOps at Scale](/images/gitops-at-scale.png)](https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url) |
 
-
 ## 🔧 Skills and Competencies
 
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with:
