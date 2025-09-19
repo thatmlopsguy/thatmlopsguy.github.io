@@ -15,7 +15,7 @@ Over the years, I’ve specialized in backend development, infrastructure, and o
 I'm a cloud engineer specializing in container orchestration and multi-cloud architecture, currently based
 in Portugal. My expertise centers around Kubernetes implementation and optimization, complemented by
 extensive experience with both Azure and AWS platforms. In the last years, I’ve also taken on technical
-leadership roles — helping teams ship clean, scalable systems while mentoring developers and aligning
+leadership roles: helping teams ship clean, scalable systems while mentoring developers and aligning
 architecture with business goals.
 
 Most of my coding experience is with Python, simply because it was the language I used at my first job.
