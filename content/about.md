@@ -25,8 +25,8 @@ I'm an active contributor to free and open source software (FOSS) and believe in
 as evidenced by my blog posts and [github profile](https://github.com/thatmlopsguy).
 You can track my projects [here](projects.md) and my contributions [here](contributions.md).
 
-I consider myself a self-taught developer since I learned most of the stuff outside of my studies.
-
+I offer specialized AI engineering services focusing on production-ready applications.
+Check out my [services](consulting.md) page to learn how I can help bring your project to life.
 If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
 check [this page](hire.md).
 
