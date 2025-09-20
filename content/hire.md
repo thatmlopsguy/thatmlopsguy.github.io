@@ -44,10 +44,7 @@ I hold a 👨‍🎓 [MSc in Astronomy & Astrophysics from the University of Por
 _[Instituto de Astrofísica e Ciências do Espaço (IA)](https://www.iastro.pt/index.html)_.
 
 You can read more about me [here](about.md). Feel free to take a look at my **[résumé](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X)**.
-
-Check this **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
-
-I can help your company in other ways, check my [consulting](consulting) page.
+Check the **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
 
 ## 🏅 Certificates and Badges
 
