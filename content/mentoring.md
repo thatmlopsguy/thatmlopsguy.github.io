@@ -6,13 +6,13 @@ toc = false
 
 # 💪🏻 Mentoring
 
-You're seeking mentoring.
+You're seeking mentoring. Do you need personalised one-on-one guidance as an early or mid-career
+professional?
 
-Do you need personalised one-on-one guidance as an early or mid-career professional?
+Over the years, I have had the privilege of guiding many aspiring software engineers, helping them
+achieve their career goals, improve their skills, and navigate the challenges of their roles.
 
-Over the years, I have had the privilege of guiding many aspiring software engineers,
-helping them achieve their career goals, improve their skills, and navigate the challenges
-of their roles.
+## What can you expect from this program?
 
 My mentorship methodology is meticulously designed to cover a broad spectrum of developmental facets,
 ensuring a holistic approach to your growth and success.
@@ -31,7 +31,19 @@ ensuring a holistic approach to your growth and success.
 - **Interactive Knowledge Sharing**: Engage in frequent dialogues on software engineering subjects,
     keeping abreast of sectoral evolutions and enriching your expertise within the discipline.
 
-## 🚀 Get Started
+My goal is to build a bond, where we have a weekly meeting of about an hour, over the course of multiple
+weeks or even months. I’m also available for one-off meetings where I answer one specific question one time.
+
+## What do I expect from you?
+
+You’re going to need a good enough internet connection to talk and share your screen. You need to be able
+to speak English or Portuguese. You’re going to need at least a basic understanding of computer science,
+I can’t teach you that from scratch.
+
+Finally, as my preferred “office hours” are between Saturday 10:00 and 12:00 Central European Time (Paris),
+our schedules have to match as well.
+
+## Get Started
 
 If you're ready to advance your career and achieve your goals, I'm here to help.
 Feel free to [contact me](contact.md) with any questions or to start your mentorship journey.
