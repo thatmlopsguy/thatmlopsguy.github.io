@@ -24,6 +24,11 @@ experience, possible bottlenecks...), and clearly explain the systems tradeoffs 
 are derived for each one of them. That also has lead myself to put high attention on code quality and to develop
 simple and minimal APIs in all the code I develop, and to enforce that high quality standards on others.
 
+I’ve learned that the best solution is often the simplest one. I believe in building robust, maintainable software
+by avoiding unnecessary complexity. My goal is to deliver clean, straightforward code that solves complex problems
+effectively, and which can still be understood a year later. Left unchecked, complexity will always creep in,
+and you have to actively seek out and defend simplicity.
+
 ### What do your think about code tests? Do you do take-home code assignments?
 
 **Yes, but no leetcode**. I have no problems about doing technical/system design interviews.
