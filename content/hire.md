@@ -59,13 +59,13 @@ I can help your company in other ways, check my [consulting](consulting) page.
 
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with:
 
-- **Programming languages**: Python, R, Bash Script
+- **Programming languages**: Python, R, Bash Script, Go
 - **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
 - **Software Engineering**: Git, Docker, Helm, Kustomize
-- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, Elasticsearch, Fluentbit, Kibana, Graylog, VictoriaMetrics, AWS Cloudwatch
-- **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Keycloak, Vault, Kubeflow, Harbor, ChartMuseum
+- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, VictoriaMetrics, AWS Cloudwatch
+- **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Vault, Harbor, ChartMuseum
 - **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ, Temporal
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
-- **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI
+- **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI, CloudFlare
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk
