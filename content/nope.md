@@ -25,3 +25,4 @@ Here is a list of things I don't like, in no particular order. I'll update it as
 - [SMS-based two-factor authentication](https://www.issms2fasecure.com/)
 - Ask for a Linkedin profile. [Linkedin does not respect your privacy](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million)
 - Horizontal Scroll
+- eSIM, see [eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem](https://www.usenix.org/conference/usenixsecurity25/presentation/motallebighomi)
