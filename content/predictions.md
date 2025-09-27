@@ -17,7 +17,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
     Atmospheric CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
 - [ ] [2024] Between 2045-2055, the Arctic will start to become ice free in September.
-- [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
+- [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920 [(sp25)][14].
 - [ ] [2024] Net zero emissions will not be reached by mid century [(smil24)][9].
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
     for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
@@ -27,8 +27,8 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## On energy/food systems
 
-- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas production and small decrease in oil [(bloombergNEF25)][7].
-- [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8].
+- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas production and small decrease in oil [(bloombergNEF25)][7], [(bp25)][13].
+- [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8], [(who25)][15].
 - [ ] [2025] Lake Mead will reach "dead pool" status during the early 2040s. At this critical point, the water level will drop below elevation 273m, rendering the dam unable to physically release water downstream to California, Arizona, and Mexico. Prolonged dead pool condition in late 2040s. See [graph](https://graphs.water-data.com/lakemead/).
 
 ## on biodiversity
@@ -91,3 +91,9 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(w3c25) W3C Digital Credentials API][11]
 - [12]: <https://media.ccc.de/v/ds25-542-digital-euro-what-the-faq-ecb> "Digital Euro - What the FAQ? (ECB)"
 [(ds25) Digital Euro - What the FAQ? (ECB)][12]
+- [13]: <https://www.bp.com/en/global/corporate/energy-economics/energy-outlook.html> "BP Energy Outlook"
+[(bp25) BP Energy Outlook][13]
+- [14]: <https://www.spglobal.com/ratings/en/regulatory/article/sustainability-insights-why-planning-for-a-23c-warmer-world-is-critical-this-decade-and-next-s101644796> "S&P: Sustainability Insights: Why Planning For A 2.3°C Warmer World Is Critical This Decade And Next"
+[(bp25) S&P: Sustainability Insights: Why Planning For A 2.3°C Warmer World Is Critical This Decade And Next][14]
+- [15]: <https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities> "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities"
+[(who25) Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities][15]
