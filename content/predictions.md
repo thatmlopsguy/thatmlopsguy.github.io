@@ -13,7 +13,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## On climate
 
-- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year.
+- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year [(gap25)][16].
     Atmospheric CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
 - [ ] [2024] Between 2045-2055, the Arctic will start to become ice free in September.
@@ -97,3 +97,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(bp25) S&P: Sustainability Insights: Why Planning For A 2.3°C Warmer World Is Critical This Decade And Next][14]
 - [15]: <https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities> "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities"
 [(who25) Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities][15]
+- [16]: <https://productiongap.org/2025report/> "The Production Gap Report 2025"
+[(gap25) The Production Gap Report 2025][16]
