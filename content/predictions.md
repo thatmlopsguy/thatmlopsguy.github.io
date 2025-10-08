@@ -41,7 +41,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] By 2030, nearly all Europeans will use digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3] [(ds25)][12].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models. Almost all of these smart appliances with screens will display personalized advertisements when not in active use, creating new revenue streams for manufacturers [(samsung25)][10].
-- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity by requiring digital identity verification through standardized APIs like the [W3C Digital Credentials API][11]. This will enable websites to request government-issued or institutional digital credentials, transforming pseudonymous internet interactions into verified identity exchanges with traceable digital signatures.
+- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity by requiring digital identity verification through standardized APIs like the [W3C Digital Credentials API][11] [(webkit25)][13]. This will enable websites to request government-issued or institutional digital credentials, transforming pseudonymous internet interactions into verified identity exchanges with traceable digital signatures.
 - [ ] [2024] Commercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
 - [ ] [2025] In the 2030s, most European municipalities will implement Pay As You Throw (PAYT) waste management systems, creating vast amounts of household waste data.
@@ -91,3 +91,5 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(w3c25) W3C Digital Credentials API][11]
 - [12]: <https://media.ccc.de/v/ds25-542-digital-euro-what-the-faq-ecb> "Digital Euro - What the FAQ? (ECB)"
 [(ds25) Digital Euro - What the FAQ? (ECB)][12]
+- [13]: <https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/> "Online Identity Verification with the Digital Credentials API"
+[(webkit25) Online Identity Verification with the Digital Credentials API][13]
