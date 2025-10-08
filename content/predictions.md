@@ -13,11 +13,11 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## On climate
 
-- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year.
+- [ ] [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year [(gap25)][16].
     Atmospheric CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa. You can check current values at [NOAA](https://gml.noaa.gov/ccgg/trends/).
 - [ ] [2024] In the 2030s, the [World Meteorological Organization](https://wmo.int/) will declare that the world has passed the 1.5°C climate Paris target.
 - [ ] [2024] Between 2045-2055, the Arctic will start to become ice free in September.
-- [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920.
+- [ ] [2024] By mid century, the Earth's global average surface temperature will increase to 1.9°C above the average for the pre-industrial comparison period of 1880-1920 [(sp25)][14].
 - [ ] [2024] Net zero emissions will not be reached by mid century [(smil24)][9].
 - [ ] [2024] By the end of this century, the Earth's global average surface temperature will increase to 2.7°C above the average
     for the pre-industrial comparison period of 1880-1920. Overall consensus from the scientific community that several key climate
@@ -27,8 +27,8 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 
 ## On energy/food systems
 
-- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas production and small decrease in oil [(bloombergNEF25)][7].
-- [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8].
+- [ ] [2024] Global oil production will reach all time maximum of 105 million barrels per day (mb/d). Global energy mix will continue to be until mid-century based on fossil fuels (+50%), with a large increase in gas production and small decrease in oil [(bloombergNEF25)][7], [(bp25)][13].
+- [ ] [2025] Decline in urban water availability in most parts of the world [(actuaries25)][8], [(who25)][15].
 - [ ] [2025] Lake Mead will reach "dead pool" status during the early 2040s. At this critical point, the water level will drop below elevation 273m, rendering the dam unable to physically release water downstream to California, Arizona, and Mexico. Prolonged dead pool condition in late 2040s. See [graph](https://graphs.water-data.com/lakemead/).
 
 ## on biodiversity
@@ -41,7 +41,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] By 2030, nearly all Europeans will use digital wallets based on the [eIDAS](https://en.wikipedia.org/wiki/EIDAS) framework, necessitating proprietary devices with Trusted Execution Environments (TEEs) [(ccc38)][3] [(govuk25)][4].
 - [ ] [2024] By the end of this decade, most developed countries will adopt central bank digital currencies (CBDCs), requiring corresponding proprietary digital wallets [(ccc38)][3] [(ds25)][12].
 - [ ] [2024] In the next decade, over 90% of home appliances (including refrigerators, microwaves, ovens, and washing machines) will incorporate 5G/LoRaWAN/802.11ah connectivity. Many companies will begin offering appliance-as-a-service models. Almost all of these smart appliances with screens will display personalized advertisements when not in active use, creating new revenue streams for manufacturers [(samsung25)][10].
-- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity by requiring digital identity verification through standardized APIs like the [W3C Digital Credentials API][11] [(webkit25)][13]. This will enable websites to request government-issued or institutional digital credentials, transforming pseudonymous internet interactions into verified identity exchanges with traceable digital signatures.
+- [ ] [2024] In the 2030s, major web services will likely eliminate online anonymity by requiring digital identity verification through standardized APIs like the [W3C Digital Credentials API][11] [(webkit25)][17]. This will enable websites to request government-issued or institutional digital credentials, transforming pseudonymous internet interactions into verified identity exchanges with traceable digital signatures.
 - [ ] [2024] Commercial nuclear fusion will never be archivable.
 - [ ] [2024] Humans will never visit Mars on any other planet.
 - [ ] [2025] In the 2030s, most European municipalities will implement Pay As You Throw (PAYT) waste management systems, creating vast amounts of household waste data.
@@ -91,5 +91,13 @@ What do you think? Feel free to [contact me](contact.md) to discuss this and oth
 [(w3c25) W3C Digital Credentials API][11]
 - [12]: <https://media.ccc.de/v/ds25-542-digital-euro-what-the-faq-ecb> "Digital Euro - What the FAQ? (ECB)"
 [(ds25) Digital Euro - What the FAQ? (ECB)][12]
-- [13]: <https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/> "Online Identity Verification with the Digital Credentials API"
-[(webkit25) Online Identity Verification with the Digital Credentials API][13]
+- [13]: <https://www.bp.com/en/global/corporate/energy-economics/energy-outlook.html> "BP Energy Outlook"
+[(bp25) BP Energy Outlook][13]
+- [14]: <https://www.spglobal.com/ratings/en/regulatory/article/sustainability-insights-why-planning-for-a-23c-warmer-world-is-critical-this-decade-and-next-s101644796> "S&P: Sustainability Insights: Why Planning For A 2.3°C Warmer World Is Critical This Decade And Next"
+[(bp25) S&P: Sustainability Insights: Why Planning For A 2.3°C Warmer World Is Critical This Decade And Next][14]
+- [15]: <https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities> "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities"
+[(who25) Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities][15]
+- [16]: <https://productiongap.org/2025report/> "The Production Gap Report 2025"
+[(gap25) The Production Gap Report 2025][16]
+- [17]: <https://webkit.org/blog/17431/online-identity-verification-with-the-digital-credentials-api/> "Online Identity Verification with the Digital Credentials API"
+[(webkit25) Online Identity Verification with the Digital Credentials API][17]
