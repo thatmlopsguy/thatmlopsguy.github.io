@@ -32,3 +32,5 @@ check [this page](hire.md).
 
 Spending the majority of my days sitting in front of a computer screen; I’m always happy when I take the time to go
 on a walk and admire nature’s natural beauty.
+
+Thanks for stopping by, I hope you find something useful or interesting.

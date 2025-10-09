@@ -14,7 +14,7 @@ it right.
 
 ## What can I do for you?
 
-I'm a devops and machine learning engineer with 8+ years of experience working with both scientific
+I'm a devops and machine learning engineer with 9+ years of experience working with both scientific
 institutions and multinational companies. I help companies fix their software architecture, improve
 their tools and processes, and run on-site workshops.
 
@@ -62,7 +62,8 @@ Whether itâ€™s small jobs, freelance, consulting, or longer commitments - hereâ€
 Interested? Let's discuss how my specialized knowledge can benefit your organization and help you stay ahead
 in today's fast-paced technological environment.
 
-Feel free to [contact me](contact.md), and I will always get back to you.
-If we agree that I could help you, we can schedule a chat.
+I'm available to work for you on short or medium term projects, especially if they have an interesting or
+challenging aspect to them. Feel free to [contact me](contact.md), and I will always get back to you.
+If we agree that I could help you, we can schedule a chat. I'll be happy to provide a quote.
 
 I'm also open to considering more [permanent/full-time roles](hire.md).
