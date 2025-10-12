@@ -46,6 +46,12 @@ _[Instituto de Astrofísica e Ciências do Espaço (IA)](https://www.iastro.pt/i
 You can read more about me [here](about.md). Feel free to take a look at my **[résumé](https://drive.proton.me/urls/MKJ6RB6NQM#Oxy7OSd2M13X)**.
 Check the **[FAQ](interview.md)** that answers habitual questions I've been asked during job interviews.
 
+## 📋 Experience highlights
+
+- Built and maintained production Kubernetes clusters with autoscaling and multi‑environment promotion
+- Migrated manual deployments to GitOps, reducing change failure rate and lead time for changes
+- Reduced AWS and Azure costs by improving capacity planning
+
 ## 🏅 Certificates and Badges
 
 |                                                                                                                                         |                                                                                                                                  |
@@ -66,3 +72,9 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
 - **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI, CloudFlare
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk
+
+## 🌍 Working Arrangements
+
+- **Remote-first**: Experienced with distributed teams and async communication
+- **Time zones**: Based in Portugal (UTC), flexible with European and some US hours
+- **Languages**: English and Portuguese
