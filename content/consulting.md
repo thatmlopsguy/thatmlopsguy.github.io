@@ -66,4 +66,13 @@ I'm available to work for you on short or medium term projects, especially if th
 challenging aspect to them. Feel free to [contact me](contact.md), and I will always get back to you.
 If we agree that I could help you, we can schedule a chat. I'll be happy to provide a quote.
 
+When reaching out about a project, it helps to include:
+
+ - Current infrastructure setup and pain points
+ - Goals and timeline for the project
+ - Team size and technical background
+ - Budget range (if established)
+
+This information helps me provide more targeted advice and determine if we’re a good fit for working together.
+
 I'm also open to considering more [permanent/full-time roles](hire.md).
