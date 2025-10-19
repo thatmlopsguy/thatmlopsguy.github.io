@@ -34,6 +34,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 ## on biodiversity
 
 - [ ] [2024] By mid century, some large mammals species like Elephant, Lions, Gorillas will be extinct from natural habitats. You can check the [Living Planet Index (LPI)](https://www.livingplanetindex.org/).
+- [ ] [2025] By mid century, more than 90% of the world's coral reefs will be extinct.
 
 ## On technology
 
