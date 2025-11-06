@@ -16,7 +16,7 @@ I’ve used it since somewhere around 2015.
 
 - Operating System: [Arch Linux](https://archlinux.org/)
 - Window Manager: [i3](https://i3wm.org/)
-- IDE: [VSCode](https://code.visualstudio.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode](https://orgmode.org/).
+- IDE: [VSCodium](https://vscodium.com/). I also use [Emacs](https://www.gnu.org/emacs) for the excellent [org-mode](https://orgmode.org/).
 - Terminal emulator: [URxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
 - shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
