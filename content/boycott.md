@@ -31,6 +31,7 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 ### Ryanair Holdings PLC (RYA.I)
 
 - [Ryanair again faces GDPR complaint over face-scanning verification](https://www.euractiv.com/section/tech/news/ryanair-again-faces-gdpr-complaint-over-face-scanning-verification/)
+- [Ryanair will only accept digital boarding passes from November](https://www.independent.co.uk/travel/news-and-advice/ryanair-smartphone-boarding-pass-how-works-b2838039.html)
 
 ### VW Group (VOW)
 
@@ -45,3 +46,4 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 
 - [Consumer Rights Wiki](https://consumerrights.wiki/Main_Page) by Louis Rossmann
 - [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)
+- [CarbonBombs.org](https://carbonbombs.org/)
