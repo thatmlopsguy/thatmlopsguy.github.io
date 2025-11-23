@@ -40,3 +40,7 @@ __Edward Osborne Wilson__
 
 “When information is cheap, attention becomes expensive.”
 __James Gleick__
+
+## Original Quotes
+
+“First you build the fortress and later the castle, otherwise you will lose the castle and be forced to build the fortress.”
