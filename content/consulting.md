@@ -14,7 +14,7 @@ it right.
 
 ## What can I do for you?
 
-I'm a devops and machine learning engineer with 9+ years of experience working with both scientific
+I'm a devops and machine learning engineer with 10+ years of experience working with both scientific
 institutions and multinational companies. I help companies fix their software architecture, improve
 their tools and processes, and run on-site workshops.
 
