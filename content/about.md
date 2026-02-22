@@ -31,6 +31,12 @@ If you want my full resume including all (previous) jobs, experience and educati
 check [this page](hire.md).
 
 Spending the majority of my days sitting in front of a computer screen; I’m always happy when I take the time to go
-on a walk and admire nature’s natural beauty.
+on a walk and admire nature’s natural beauty. I’m passionate about minimalism, stoicism, environmentalism, and 
+financial independence.
+
+What drives me is the joy of learning, understanding how things work, and delving into the reasons behind what we do. 
+I’m a naturally curious person, which is why I read so many books to feed my curiosity. Rather than specializing in one
+field, I prefer to learn about various topics and connect them in creative ways. This approach helps me generate new
+ideas and think outside the box, which is why I see myself as a generalist.
 
 Thanks for stopping by, I hope you find something useful or interesting.
