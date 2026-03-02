@@ -65,13 +65,15 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Programming languages**: Python, R, Bash Script, Go
 - **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
 - **Software Engineering**: Git, Docker, Helm, Kustomize
-- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Istio, Kiali, VictoriaMetrics, AWS Cloudwatch
-- **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, ArgoCD, Istio, Ansible, Vault, Harbor, ChartMuseum
-- **Distributed Computing**: Ray, Celery, Kafka, Redis, Keda, Dapr, RabbitMQ, Temporal
+- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Kiali, VictoriaMetrics, AWS Cloudwatch
+- **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, Octopus Deploy, ArgoCD, Kargo, Ansible, Vault, Harbor, ChartMuseum
+- **Distributed Computing**: Ray, Celery, Kafka, Keda, Dapr, RabbitMQ, Temporal
+- **Networking & Service Mesh**: Nginx, Cilium, Istio
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
-- **Cloud services**: AWS, Azure (DevOps/Pipelines), Github Actions, SonarQube, Octopus Deploy, Azure OpenAI, CloudFlare
+- **Cloud services**: AWS, GCP, Azure, Hetzner, Github Actions, SonarQube, Azure OpenAI, Cloudflare
 - **Compliance**: Trivy, Kyverno, Checkov, Snyk
+- **Service & Support**: PagerDuty, ServiceNow, Jira
 
 ## 🌍 Working Arrangements
 
