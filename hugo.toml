@@ -79,10 +79,7 @@ weight = 11
   sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
   description = "Hi there! 👋🏻 I'm that MLOps guy. Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms"
   about = """
-  This is the place where I share my thoughts and notes about things that I’m excited about and
-  working on and hope to connect with people having a similar mindset. 
-  
-  I’d love to hear from you!
+  Focused on enhancing service availability and streamlining operations in complex AI and cloud environments.
   """
   showProjectsList = true
   projectsUrl = "https://github.com/thatmlopsguy"
