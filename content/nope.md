@@ -26,3 +26,6 @@ Here is a list of things I don't like, in no particular order. I'll update it as
 - Ask for a Linkedin profile. [Linkedin does not respect your privacy](https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million)
 - Horizontal Scroll
 - eSIM, see [eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem](https://www.usenix.org/conference/usenixsecurity25/presentation/motallebighomi)
+- asking for ID verification/Selfies, especially when it is not technically necessary. This is just a way to [collect and leak sensitive data](https://cybernews.com/security/global-data-leak-exposes-billion-records/)
+- Proof-of-age ID verification, because of the [above](https://www.theguardian.com/games/2025/oct/07/discord-data-breach-proof-of-age-id-leaked).
+- [CAPTCHAs](https://www.malwarebytes.com/blog/news/2025/03/fake-captcha-websites-hijack-your-clipboard-to-install-information-stealers)
