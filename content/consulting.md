@@ -63,15 +63,16 @@ Interested? Let's discuss how my specialized knowledge can benefit your organiza
 in today's fast-paced technological environment.
 
 I'm available to work for you on short or medium term projects, especially if they have an interesting or
-challenging aspect to them. Feel free to [contact me](contact.md), and I will always get back to you.
-If we agree that I could help you, we can schedule a chat. I'll be happy to provide a quote.
+challenging aspect to them. Feel free to [contact me](contact.md), and I’ll get back to you within a day or
+two. No commitment, no sales pitch. If we agree that I could help you, we can schedule a chat.
+I'll be happy to provide a quote.
 
 When reaching out about a project, it helps to include:
 
- - Current infrastructure setup and pain points
- - Goals and timeline for the project
- - Team size and technical background
- - Budget range (if established)
+- Current infrastructure setup and pain points
+- Goals and timeline for the project
+- Team size and technical background
+- Budget range (if established)
 
 This information helps me provide more targeted advice and determine if we’re a good fit for working together.
 
