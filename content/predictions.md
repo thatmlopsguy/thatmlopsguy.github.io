@@ -61,7 +61,7 @@ Each line is a prediction that follows the pattern: [year of the prediction] Sta
 - [ ] [2024] After 2040, the retirement age will be around 70+ years in most of the develop countries [(mgi2025)][1].
 - [ ] [2024] The 2030s will be the lost decade from most developed countries. The world economy can be expected to produce fewer goods
     and services per person. Fewer people will be able to afford new cars or new homes, the home/car price-to-income ratio will increase.
-- [ ] [2025] In the 2030s, most of the USA companies will use stablecoins as a common form of payment for most online transactions (GENIUS Act). Since stablecoins are backed by treasury bonds, this will force foreigners to buy US treasury bonds to use stablecoins.
+- [ ] [2026] In the 2030s, most of the USA companies will use stablecoins as a common form of payment for most online transactions (GENIUS Act). Since stablecoins are backed by treasury bonds, this will force foreigners to buy US treasury bonds to use stablecoins.
 
 What do you think? Feel free to [contact me](contact.md) to discuss this and other predictions.
 
