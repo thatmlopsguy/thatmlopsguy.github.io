@@ -15,17 +15,23 @@ but I also wanted to get out of my backend comfort zone and learn a bit more abo
 
 - [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing gitHub repositories (ansible)
 
-- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for
-the asdf version manager
-
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 
 🚧 Work in progress! 🚧
 
-- [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator): kubernetes operator for managing gitHub repositories (golang)
-
 - [doKa seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
 
+- [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator): kubernetes operator for managing gitHub repositories (golang)
+
+- [k8sResourceResizer](https://github.com/thatmlopsguy/k8sResourceResizer): ArgoCD compatible tool for resizing kubernetes resource limits and requests based on historical usage patterns
+
 - [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radar
+
+- [helm-charts](https://github.com/thatmlopsguy/helm-charts): collection of Helm charts for deploying applications on Kubernetes
+
+🗄️ Archived projects:
+
+- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for
+the asdf version manager

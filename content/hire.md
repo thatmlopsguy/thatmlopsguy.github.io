@@ -12,8 +12,8 @@ code and creating a stable and capable infrastructure for it.
 I wanted to expose myself to a wider variety of projects and became a {Dev,ML}Ops and cloud consultant.
 Over the years, I’ve specialized in backend development, infrastructure, and open-source systems.
 
-I'm a cloud engineer specializing in container orchestration and multi-cloud architecture, currently based
-in Portugal. My expertise centers around Kubernetes implementation and optimization, complemented by
+I'm a cloud/platform engineer specializing in container orchestration and multi-cloud architecture, currently
+based in Portugal. My expertise centers around Kubernetes implementation and optimization, complemented by
 extensive experience with both Azure and AWS platforms. In the last years, I’ve also taken on technical
 leadership roles: helping teams ship clean, scalable systems while mentoring developers and aligning
 architecture with business goals.
@@ -24,16 +24,13 @@ I have a wide variety of experience with different machine learning frameworks a
 am very open to learning new technologies.
 
 I can work well in a team setting, in a leadership role, or as a solo developer. I have a strong background
-in backend development, software architecture, DevOps, site reliability engineering, and
-platform engineering.
+in backend development, software architecture, DevOps, site reliability engineering, and platform engineering.
 
 During my career, I had opportunities to build both monoliths and microservices, work with relational and
 non-relational databases, use various message brokers, build REST and gRPC APIs, build distributed systems,
 and more. I have participated in all stages of the software development process, from designing architecture
-to implementing and deploying the solution.
-
-I wrote a lot of documentation including ADRs, API specs (using OpenAPI), and RFCs.
-I have experience with various testing frameworks and tools, like pytest and CI/CD tools like GitHub Actions.
+to implementing and deploying the solution. I wrote a lot of documentation including ADRs, API specs (using OpenAPI),
+and RFCs.
 
 I'm a team player that loves to work with configuration management tools and version control systems.
 If I do something more than three times, I automate it. Planning, documentation, monitoring and backups are

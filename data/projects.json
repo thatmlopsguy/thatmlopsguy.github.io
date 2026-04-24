@@ -1,19 +1,29 @@
 {
     "list": [
         {
+            "name": "doKa seca",
+            "url": "https://github.com/thatmlopsguy/dokaseca-control-plane",
+            "desc": "framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)"
+        },
+        {
             "name": "github-k8s-operator",
             "url": "https://github.com/thatmlopsguy/github-k8s-operator",
             "desc": "kubernetes operator for managing gitHub repositories (golang)"
         },
         {
+            "name": "k8sResourceResizer",
+            "url": "https://github.com/thatmlopsguy/k8sResourceResizer",
+            "desc": "ArgoCD compatible tool for resizing kubernetes resource limits and requests based on historical usage patterns"
+        },
+        {
+            "name": "helm-charts",
+            "url": "https://github.com/thatmlopsguy/helm-charts",
+            "desc": "collection of Helm charts for deploying applications on Kubernetes"
+        },
+        {
             "name": "mkdocs-tech-radar",
             "url": "https://github.com/thatmlopsguy/mkdocs-tech-radar",
             "desc": "MkDocs plugin that generates an interactive Technology Radar"
-        },
-        {
-            "name": "asdf-argocd-image-updater",
-            "url": "https://github.com/thatmlopsguy/asdf-argocd-image-updater",
-            "desc": "argocd-image-updater plugin for the asdf version manager"
         },
         {
             "name": "cookiecutter-ml-project",
@@ -26,9 +36,9 @@
             "desc": "devops pre-commit git hooks"
         },
         {
-            "name": "doKa seca",
-            "url": "https://github.com/thatmlopsguy/dokaseca-control-plane",
-            "desc": "framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)"
+            "name": "asdf-argocd-image-updater",
+            "url": "https://github.com/thatmlopsguy/asdf-argocd-image-updater",
+            "desc": "argocd-image-updater plugin for the asdf version manager"
         }
     ]
 }
