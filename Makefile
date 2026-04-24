@@ -13,6 +13,12 @@ help: ## Show this help
 pre-commit: ## Run pre-commit hooks
 	@uvx prek run -a
 
+pre-commit-install: ## Install pre-commit hooks
+	@uvx prek install
+
+pre-commit-update: ## Update pre-commit hooks
+	@uvx prek autoupdate
+
 ##@ Documentation
 docs-serve: ## Start a local web server for serving documentation
 	@docker compose up -d
