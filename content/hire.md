@@ -69,7 +69,7 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
 - **Cloud services**: AWS, GCP, Azure, Hetzner, Github Actions, SonarQube, Azure OpenAI, Cloudflare
-- **Compliance**: Trivy, Kyverno, Checkov, Snyk
+- **Security & Compliance**: Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager
 - **Service & Support**: PagerDuty, ServiceNow, Jira
 
 ## 🌍 Working Arrangements
