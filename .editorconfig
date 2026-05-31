@@ -12,3 +12,9 @@ trim_trailing_whitespace = true
 # Markdown files
 [*.md]
 trim_trailing_whitespace = false
+
+# Hugo template files - don't auto-format
+[themes/am8/layouts/**/*.html]
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = false

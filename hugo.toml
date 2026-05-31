@@ -1,7 +1,7 @@
 baseURL = 'https://thatmlopsguy.github.io/'
 languageCode = 'en-us'
 title = 'That MLOps Guy'
-theme = "cactus2"
+theme = "am8"
 copyright = "That MLOps Guy"
 enableRobotsTXT = false
 
@@ -16,80 +16,146 @@ style = 'base16-snazzy' # Highlight.js style
 
 [menu]
 [[menu.main]]
-name = "🏠 Home"
-url = "/"
+name = "Work"
+url = "/projects"
 weight = 1
 
 [[menu.main]]
-name = "✏️ Posts"
-url = "/posts"
+name = "Services"
+url = "/consulting"
 weight = 2
 
 [[menu.main]]
-name = "📝 Notes"
-url = "/notes"
+name = "Blog"
+url = "/posts"
 weight = 3
 
 [[menu.main]]
-name = "👨‍💻 Projects"
-url = "/projects"
+name = "About"
+url = "/about"
 weight = 4
 
-[[menu.main]]
-name = "👋 About"
-url = "/about"
+[[menu.footer]]
+name = "Projects"
+url = "/projects"
+weight = 1
+
+[[menu.footer]]
+name = "Consulting"
+url = "/consulting"
+weight = 2
+
+[[menu.footer]]
+name = "Blog"
+url = "/posts"
+weight = 3
+
+[[menu.footer]]
+name = "Contact"
+url = "/contact"
+weight = 4
+
+[[menu.footer]]
+name = "Hire Me"
+url = "/hire"
 weight = 5
 
-[[menu.main]]
-name = "✉️ Contact"
-url = "/contact"
+[[menu.footer]]
+name = "Uses"
+url = "/uses"
 weight = 6
 
-[[menu.main]]
-name = "🚀 Hire me"
-url = "/hire"
-weight = 7
-
-[[menu.main]]
-name = "📊 Consulting"
-url = "/consulting"
-weight = 8
-
-[[menu.main]]
-name = "💻 Uses"
-url = "/uses"
-weight = 9
-
-[[menu.main]]
-name = "📮 Colophon"
-url = "/colophon"
-weight = 10
-
-[[menu.main]]
-name = "➕ More"
-url = "/more"
-weight = 11
-
 [params]
-  colortheme = "dark" # dark, light, white, or classic
-  mainSection = "posts"
-  tagsOverview = false
-  rss = true
-  showReadTime = true
-  sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
-  description = "Hi there! 👋🏻 I'm that MLOps guy. Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms"
-  about = """
-  Focused on enhancing service availability and streamlining operations in complex AI and cloud environments.
-  """
-  showProjectsList = true
-  projectsUrl = "https://github.com/thatmlopsguy"
-  show_updated = true
+description = "DevOps & MLOps Excellence"
+author = "That MLOps Guy"
+contact_url = "/contact/"
+footer_cta_text = "Have a project in mind? I'd love to hear about it."
+mainSection = "posts"
+rss = true
+showReadTime = true
 
-[[params.social]]
-  name = "github"
-  link = "https://github.com/thatmlopsguy"
+[params.header_cta]
+text = "Available for projects"
+url = "/hire/"
+
+[params.social]
+github = "thatmlopsguy"
+#linkedin = "thatmlopsguy"
+#email = "you@example.com"
+
+[params.hero]
+title = "DevOps & MLOps Excellence"
+subtitle = "Ship faster. Scale confidently. Get ML models earning revenue in production."
+author = "That MLOps Guy"
+[params.hero.cta_primary]
+text = "View My Work"
+url = "/projects/"
+[params.hero.cta_secondary]
+text = "Get in Touch"
+url = "/contact/"
+#[[params.hero.stats]]
+#value = "10+"
+#label = "Years Experience"
+
+
+[params.portfolio]
+title = "Featured Work"
+subtitle = "From enterprise infrastructure to open-source tools—a selection of projects that showcase technical depth and practical impact."
+view_all_url = "/projects/"
+[[params.portfolio.projects]]
+title = "MLOps Platform"
+type = "Enterprise"
+description = "Built ML pipelines and infrastructure for production machine learning models."
+url = "/projects/"
+tags = ["AWS", "SageMaker", "Python", "Crossplane"]
+[[params.portfolio.projects]]
+title = "Cloud Architecture"
+type = "Enterprise"
+description = "Platform hosting compute and analytics applications for optimization."
+url = "/projects/"
+tags = ["Terraform", "Azure", "Kubernetes"]
+
+[params.services]
+title = "What You Get"
+subtitle = "Infrastructure that lets your team ship faster, scale bigger, and sleep better."
+cta_url = "/consulting/"
+[[params.services.items]]
+title = "DevOps Consulting"
+description = "Deploy 10x faster with reliable pipelines that catch issues before production."
+features = ["Faster releases", "Fewer incidents", "Happy developers"]
+[[params.services.items]]
+title = "MLOps Implementation"
+description = "Stop letting ML models rot in notebooks. Get them into production earning revenue."
+features = [
+  "Models in production",
+  "Automated retraining",
+  "Real-time monitoring",
+]
+[[params.services.items]]
+title = "Cloud Architecture"
+description = "Scale to millions of users without 3am pages. Infrastructure that grows with your business."
+features = ["Auto-scaling", "Cost control", "Sleep through launches"]
+[[params.services.items]]
+title = "Infrastructure Automation"
+description = "One engineer doing what used to take five. Eliminate repetitive ops work."
+features = [
+  "80% less manual work",
+  "Reproducible deploys",
+  "Self-service for devs",
+]
+
+[params.blog]
+title = "Latest Insights"
+subtitle = "Technical deep-dives, tutorials, and lessons learned from building infrastructure at scale."
+
+[params.cta]
+title = "Ready to automate your infrastructure?"
+subtitle = "Whether you're looking to implement MLOps, modernize your CI/CD pipelines, or architect a cloud-native platform, I'm here to help."
+[params.cta.primary]
+text = "Start a Conversation"
+url = "/contact/"
 
 [languages]
-  [languages.en.params]
-    title = "MLOps Guy"
-    subtitle = "A simple blog"
+[languages.en.params]
+title = "MLOps Guy"
+subtitle = "A simple blog"

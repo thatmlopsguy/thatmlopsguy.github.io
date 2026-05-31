@@ -1,9 +1,28 @@
 {
-    "cSpell.words": [
-        "blogroll",
-        "dotfiles",
-        "leetcode",
-        "stablecoins",
-        "webring"
-    ]
+  "cSpell.words": [
+    "blogroll",
+    "dotfiles",
+    "leetcode",
+    "stablecoins",
+    "webring"
+  ],
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "files.associations": {
+    "themes/am8/layouts/**/*.html": "gohtml"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "formatOnSave.exclude": [
+    "themes/am8/layouts/**"
+  ],
+  "html.format.enable": true,
+  "prettier.disableLanguages": [
+    "gohtml"
+  ],
+  "files.exclude": {},
+  "[gohtml]": {
+    "editor.formatOnSave": false
+  }
 }

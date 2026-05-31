@@ -1,0 +1,125 @@
+# Example hugo.toml for the AM8 theme
+# Copy this to your site's hugo.toml and customize
+
+baseURL = 'https://thatmlopsguy.github.io/'
+languageCode = 'en-us'
+title = 'That MLOps Guy'
+theme = "am8"
+copyright = "That MLOps Guy"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+style = 'base16-snazzy'
+
+[menus]
+  [[menus.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menus.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+  [[menus.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+  [[menus.main]]
+    name = "Consulting"
+    url = "/consulting/"
+    weight = 6
+
+[params]
+  description = "DevOps & MLOps Excellence"
+  author = "That MLOps Guy"
+  contact_url = "/contact/"
+  footer_cta_text = "Ready to automate your infrastructure?"
+
+  [params.header_cta]
+    text = "Available for projects"
+    url = "/hire/"
+
+  [params.social]
+    github = "thatmlopsguy"
+    linkedin = ""
+    email = ""
+
+  [params.hero]
+    title = "DevOps & MLOps Excellence"
+    subtitle = "Ship faster. Scale confidently. Get ML models earning revenue in production."
+    author = "That MLOps Guy"
+    [params.hero.cta_primary]
+      text = "View My Work"
+      url = "/projects/"
+    [params.hero.cta_secondary]
+      text = "Get in Touch"
+      url = "/contact/"
+    [[params.hero.stats]]
+      value = "10+"
+      label = "Years Experience"
+    [[params.hero.stats]]
+      value = "15+"
+      label = "Certifications"
+
+  [params.portfolio]
+    title = "Featured Work"
+    subtitle = "From enterprise infrastructure to open-source tools—a selection of projects that showcase technical depth and practical impact."
+    view_all_url = "/projects/"
+    [[params.portfolio.projects]]
+      title = "MLOps Platform"
+      type = "Enterprise"
+      description = "Built ML pipelines and infrastructure for production machine learning models."
+      url = "/projects/"
+      tags = ["AWS", "SageMaker", "Python", "CDK"]
+    [[params.portfolio.projects]]
+      title = "DevOps Platform"
+      type = "Enterprise"
+      description = "Platform hosting compute and analytics applications for optimization."
+      url = "/projects/"
+      tags = ["Terraform", "Azure", "Kubernetes"]
+    [[params.portfolio.trusted_by]]
+      name = "Enterprise"
+      description = "Cloud infrastructure"
+
+  [params.services]
+    title = "What You Get"
+    subtitle = "Infrastructure that lets your team ship faster, scale bigger, and sleep better."
+    cta_url = "/consulting/"
+    [[params.services.items]]
+      title = "DevOps Consulting"
+      description = "Deploy 10x faster with reliable pipelines that catch issues before production."
+      features = ["Faster releases", "Fewer incidents", "Happy developers"]
+    [[params.services.items]]
+      title = "MLOps Implementation"
+      description = "Stop letting ML models rot in notebooks. Get them into production earning revenue."
+      features = ["Models in production", "Automated retraining", "Real-time monitoring"]
+    [[params.services.items]]
+      title = "Cloud Architecture"
+      description = "Scale to millions of users without 3am pages. Infrastructure that grows with your business."
+      features = ["Auto-scaling", "Cost control", "Sleep through launches"]
+    [[params.services.items]]
+      title = "Infrastructure Automation"
+      description = "One engineer doing what used to take five. Eliminate repetitive ops work."
+      features = ["80% less manual work", "Reproducible deploys", "Self-service for devs"]
+
+  [params.blog]
+    title = "Latest Insights"
+    subtitle = "Technical deep-dives, tutorials, and lessons learned from building infrastructure at scale."
+
+  [params.cta]
+    title = "Ready to automate your infrastructure?"
+    subtitle = "Whether you're looking to implement MLOps, modernize your CI/CD pipelines, or architect a cloud-native platform, I'm here to help."
+    email = ""
+    [params.cta.primary]
+      text = "Start a Conversation"
+      url = "/contact/"

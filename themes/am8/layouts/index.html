@@ -1,0 +1,157 @@
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <h1 class="hero-title">{{ .Site.Params.hero.title | default .Site.Title }}</h1>
+      <p class="hero-subtitle">{{ .Site.Params.hero.subtitle }}</p>
+      {{ with .Site.Params.hero.author }}<p class="hero-author">Expert consulting by {{ . }}.</p>{{ end }}
+      <div class="hero-actions">
+        {{ with .Site.Params.hero.cta_primary }}
+        <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
+        {{ end }}
+        {{ with .Site.Params.hero.cta_secondary }}
+        <a href="{{ .url }}" class="btn btn-outline">{{ .text }}</a>
+        {{ end }}
+      </div>
+      {{ with .Site.Params.hero.stats }}
+      <div class="hero-stats">
+        {{ range . }}
+        <div class="stat">
+          <span class="stat-value">{{ .value }}</span>
+          <span class="stat-label">{{ .label }}</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{/* Portfolio / Featured Work Section */}}
+{{ with .Site.Params.portfolio }}
+<section class="section section-portfolio" id="portfolio">
+  <div class="container">
+    <span class="section-label">PORTFOLIO</span>
+    <h2 class="section-title">{{ .title | default "Featured Work" }}</h2>
+    <p class="section-subtitle">{{ .subtitle }}</p>
+    {{ with .projects }}
+    <div class="project-grid">
+      {{ range . }}
+      <a href="{{ .url }}" class="project-card" {{ if .external }}target="_blank" rel="noopener" {{ end }}>
+        <div class="project-card-header">
+          <span class="project-type">{{ .type }}</span>
+          {{ with .badge }}<span class="project-badge">{{ . }}</span>{{ end }}
+        </div>
+        <h3 class="project-title">{{ .title }}</h3>
+        <p class="project-description">{{ .description }}</p>
+        <div class="project-tags">
+          {{ range .tags }}
+          <span class="tag">{{ . }}</span>
+          {{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ with .view_all_url }}
+    <div class="section-action">
+      <a href="{{ . }}" class="btn btn-outline">View All Projects</a>
+    </div>
+    {{ end }}
+    {{ with .trusted_by }}
+    <div class="trusted-by">
+      <p class="trusted-label">Trusted by industry leaders</p>
+      <div class="trusted-logos">
+        {{ range . }}
+        <div class="trusted-item">
+          <strong>{{ .name }}</strong>
+          <span>{{ .description }}</span>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* Services Section */}}
+{{ with .Site.Params.services }}
+<section class="section section-services" id="services">
+  <div class="container">
+    <span class="section-label">SERVICES</span>
+    <h2 class="section-title">{{ .title | default "What You Get" }}</h2>
+    <p class="section-subtitle">{{ .subtitle }}</p>
+    <div class="services-grid">
+      {{ range .items }}
+      <div class="service-card">
+        <h3 class="service-title">{{ .title }}</h3>
+        <p class="service-description">{{ .description }}</p>
+        <ul class="service-features">
+          {{ range .features }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ with .cta_url }}
+    <div class="section-action">
+      <a href="{{ . }}" class="btn btn-outline">Learn More About Services</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* Blog / Latest Insights Section */}}
+{{ if .Site.Params.show_blog_section | default true }}
+<section class="section section-blog" id="blog">
+  <div class="container">
+    <span class="section-label">BLOG</span>
+    <h2 class="section-title">{{ .Site.Params.blog.title | default "Latest Insights" }}</h2>
+    <p class="section-subtitle">{{ .Site.Params.blog.subtitle }}</p>
+    <div class="blog-grid">
+      {{ $posts := where .Site.RegularPages "Section" "posts" }}
+      {{ range first 3 $posts }}
+      <a href="{{ .Permalink }}" class="blog-card">
+        <time class="blog-date">{{ .Date.Format "Jan 2, 2006" }}</time>
+        <h3 class="blog-title">{{ .Title }}</h3>
+        <p class="blog-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
+        {{ with .Params.tags }}
+        <div class="blog-tags">
+          {{ range first 3 . }}
+          <span class="tag">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+      </a>
+      {{ end }}
+    </div>
+    <div class="section-action">
+      <a href="{{ " posts" | relURL }}" class="btn btn-outline">Read All Posts</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{/* CTA Section */}}
+{{ with .Site.Params.cta }}
+<section class="section section-cta" id="contact">
+  <div class="container">
+    <span class="section-label">LET'S BUILD TOGETHER</span>
+    <h2 class="section-title">{{ .title | default "Ready to work together?" }}</h2>
+    <p class="section-subtitle">{{ .subtitle }}</p>
+    <div class="cta-actions">
+      {{ with .primary }}
+      <a href="{{ .url }}" class="btn btn-primary btn-lg">{{ .text }}</a>
+      {{ end }}
+      {{ with .email }}
+      <a href="mailto:{{ . }}" class="cta-email">{{ . }}</a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

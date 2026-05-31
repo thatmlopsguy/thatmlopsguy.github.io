@@ -1,0 +1,13 @@
+name = "AM8"
+license = "MIT"
+licenselink = "https://github.com/thatmlopsguy/am8/blob/main/LICENSE"
+description = "A modern, dark-themed Hugo theme designed for DevOps/MLOps consultants and technical portfolios."
+homepage = "https://github.com/thatmlopsguy/am8"
+min_version = "0.112.0"
+
+[author]
+name = "thatmlopsguy"
+homepage = "https://github.com/thatmlopsguy"
+
+[params]
+description = "Modern dark portfolio theme for Hugo"
