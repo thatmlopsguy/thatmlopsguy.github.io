@@ -4,7 +4,7 @@ draft = false
 toc = false
 +++
 
-# 🛑 Boycott  
+# 🛑 Boycott
 
 This is a list of companies I boycott and why.
 
@@ -47,5 +47,6 @@ Subsidiaries: Braintree, Venmo, Honey and Zettle.
 - [Consumer Rights Wiki](https://consumerrights.wiki/Main_Page) by Louis Rossmann
 - [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)
 - [CarbonBombs.org](https://carbonbombs.org/)
+- [Boycott List](https://www.is-boycott.com/en)
 
 Similar pages from other bloggers: [bad companies by yossarian](https://yossarian.net/junk/bad_companies/)
