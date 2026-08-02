@@ -330,7 +330,7 @@ img {
 .section-header p {
   font-size: 1.1rem;
   color: var(--text-secondary);
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -740,7 +740,7 @@ img {
 .site-footer {
   background: var(--bg-secondary);
   border-top: 1px solid var(--border-subtle);
-  padding: 4rem 2rem 2rem;
+  padding: 2rem;
 }
 
 .footer-container {
@@ -800,8 +800,6 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 2rem;
-  border-top: 1px solid var(--border-subtle);
   font-size: 0.8rem;
   color: var(--text-muted);
 }
