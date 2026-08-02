@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="section page-section">
+  <div class="section-container content-container">
+    <h1>Projects</h1>
+    <p class="section-subtitle">Open-source tools and frameworks I've built and maintain.</p>
+    <div class="projects-grid">
+      {{ with (index .Site.Data "projects") }}
+      {{ range .list }}
+      <a href="{{ .url }}" class="project-card" rel="noopener">
+        <div class="project-header">
+          <span class="project-type">Open Source</span>
+        </div>
+        <h3 class="project-title">{{ .name }}</h3>
+        <p class="project-desc">{{ .desc }}</p>
+        <div class="project-footer">
+          <span class="tech-tag">GitHub</span>
+        </div>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

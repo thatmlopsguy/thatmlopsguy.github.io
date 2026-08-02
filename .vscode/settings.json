@@ -1,9 +1,13 @@
 {
-    "cSpell.words": [
-        "blogroll",
-        "dotfiles",
-        "leetcode",
-        "stablecoins",
-        "webring"
-    ]
+  "cSpell.words": [
+    "blogroll",
+    "dotfiles",
+    "leetcode",
+    "stablecoins",
+    "webring"
+  ],
+  "[html]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  }
 }

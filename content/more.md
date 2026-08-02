@@ -22,7 +22,6 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/colophon`](colophon.md): what’s this website made of?
 - [`/contact`](contact.md): how to reach me professionally and personally
 - [`/contributions`](contributions.md): open source projects and community work I've contributed to
-- [`/consulting`](consulting.md): professional services I offer and expertise available for hire
 - [`/donations`](donations.md): causes and organizations I support financially
 - [`/guestbook`](guestbook.md): leave your mark and join others who have visited this site
 - [`/hello`](hello.md): friendly introduction and welcome to new visitors
@@ -38,6 +37,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/projects`](projects.md): current and past work showcasing my skills and interests
 - [`/quotes`](quotes.md): words of wisdom that resonate with me from various sources
 - [`/save`](save.md): discount codes for things I recommend
+- [`/services`](services.md): professional services I offer and expertise available for hire
 - [`/subscribe`](subscribe.md): ways to follow my work and receive updates without commitment
 - [`/uses`](uses.md): tools, software, and gear that power my daily workflow
 - [`/verify`](verify.md): information to confirm my identity across various platforms

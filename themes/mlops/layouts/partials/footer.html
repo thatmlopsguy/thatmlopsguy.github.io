@@ -1,0 +1,8 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Copyright | default .Site.Title }}. All rights reserved.</p>
+            {{ with .Site.Params.sourceCodeUrl }}<a href="{{ . }}" rel="noopener">Source Code</a>{{ end }}
+        </div>
+    </div>
+</footer>

@@ -1,7 +1,7 @@
 baseURL = 'https://thatmlopsguy.github.io/'
 languageCode = 'en-us'
 title = 'That MLOps Guy'
-theme = "cactus2"
+theme = "mlops"
 copyright = "That MLOps Guy"
 enableRobotsTXT = false
 
@@ -16,80 +16,68 @@ style = 'base16-snazzy' # Highlight.js style
 
 [menu]
 [[menu.main]]
-name = "🏠 Home"
+name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "✏️ Posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "📝 Notes"
-url = "/notes"
+name = "About"
+url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "👨‍💻 Projects"
-url = "/projects"
+name = "Contact"
+url = "/contact"
 weight = 4
 
 [[menu.main]]
-name = "👋 About"
-url = "/about"
+name = "Services"
+url = "/services"
 weight = 5
 
 [[menu.main]]
-name = "✉️ Contact"
-url = "/contact"
+name = "Colophon"
+url = "/colophon"
 weight = 6
 
 [[menu.main]]
-name = "🚀 Hire me"
-url = "/hire"
+name = "More"
+url = "/more"
 weight = 7
 
-[[menu.main]]
-name = "📊 Consulting"
-url = "/consulting"
-weight = 8
-
-[[menu.main]]
-name = "💻 Uses"
-url = "/uses"
-weight = 9
-
-[[menu.main]]
-name = "📮 Colophon"
-url = "/colophon"
-weight = 10
-
-[[menu.main]]
-name = "➕ More"
-url = "/more"
-weight = 11
-
 [params]
-  colortheme = "dark" # dark, light, white, or classic
-  mainSection = "posts"
-  tagsOverview = false
-  rss = true
-  showReadTime = true
-  sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
-  description = "Hi there! 👋🏻 I'm that MLOps guy. Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms"
-  about = """
+colortheme = "dark" # dark, light, white, or classic
+mainSection = "posts"
+tagsOverview = false
+rss = true
+showReadTime = true
+sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
+hero_badge = "MLOps & Platform Engineering"
+description = "Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms."
+about = """
+  Architect, migrate, and optimize AWS and Azure infrastructure that scales with your ambitions.
   Focused on enhancing service availability and streamlining operations in complex AI and cloud environments.
   """
-  showProjectsList = true
-  projectsUrl = "https://github.com/thatmlopsguy"
-  show_updated = true
+showProjectsList = true
+projectsUrl = "https://github.com/thatmlopsguy"
+show_updated = true
+
+[params.hero_stats]
+years_experience = "10+"
+certifications = "50+"
+articles = "9"
+industries = "5"
 
 [[params.social]]
-  name = "github"
-  link = "https://github.com/thatmlopsguy"
+name = "github"
+link = "https://github.com/thatmlopsguy"
 
 [languages]
-  [languages.en.params]
-    title = "MLOps Guy"
-    subtitle = "A simple blog"
+[languages.en.params]
+title = "MLOps Guy"
+subtitle = "A simple blog"
