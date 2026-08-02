@@ -36,8 +36,8 @@ url = "/contact"
 weight = 4
 
 [[menu.main]]
-name = "Uses"
-url = "/uses"
+name = "Services"
+url = "/services"
 weight = 5
 
 [[menu.main]]
@@ -57,6 +57,7 @@ tagsOverview = false
 rss = true
 showReadTime = true
 sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
+hero_badge = "MLOps & Platform Engineering"
 description = "Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platform."
 about = """
   Architect, migrate, and optimize AWS and Azure infrastructure that scales with your ambitions.
@@ -68,9 +69,9 @@ show_updated = true
 
 [params.hero_stats]
 years_experience = "10+"
-certifications = "15+"
+certifications = "50+"
 articles = "9"
-industries = "4"
+industries = "5"
 
 [[params.social]]
 name = "github"

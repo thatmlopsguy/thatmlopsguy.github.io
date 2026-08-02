@@ -3,10 +3,12 @@
 <section class="hero">
   <div class="hero-container">
     <div class="hero-content">
+      {{ with .Site.Params.hero_badge }}
       <div class="hero-badge animate-fade-in">
         <span class="badge-dot"></span>
-        <span>MLOps &amp; Platform Engineering</span>
+        <span>{{ . }}</span>
       </div>
+      {{ end }}
       <h1 class="hero-title animate-fade-in">
         MLOps<br><span class="text-accent">&amp; DevOps Excellence</span>
       </h1>
@@ -20,7 +22,7 @@
       {{ end }}
       <div class="hero-cta animate-fade-in">
         <a href="{{ "hire" | relURL }}" class="btn btn-primary">Schedule a Consultation</a>
-        <a href="https://github.com/thatmlopsguy" class="btn btn-outline" rel="noopener">View GitHub</a>
+        <a href="{{ .Site.Params.projectsUrl }}" class="btn btn-outline" rel="noopener">View GitHub</a>
       </div>
     </div>
     {{ with .Site.Params.hero_stats }}

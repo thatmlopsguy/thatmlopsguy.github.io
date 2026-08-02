@@ -60,7 +60,7 @@ Check the **[FAQ](interview.md)** that answers habitual questions I've been aske
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with:
 
 - **Programming languages**: Python, R, Bash Script, Go
-- **Machine Learning**: Scikit-learn, Tensorflow/Keras, Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
+- **Machine Learning**: Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
 - **Software Engineering**: Git, Docker, Helm, Kustomize
 - **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Kiali, VictoriaMetrics, AWS Cloudwatch
 - **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, Octopus Deploy, ArgoCD, Kargo, Ansible, Vault, Harbor, ChartMuseum
@@ -69,8 +69,8 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
 - **Cloud services**: AWS, GCP, Azure, Hetzner, Github Actions, SonarQube, Azure OpenAI, Cloudflare
-- **Security & Compliance**: Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager
-- **Service & Support**: PagerDuty, ServiceNow, Jira
+- **Security & Compliance**: Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager, Tetragon
+- **Service & Support**: PagerDuty, Datadog, ServiceNow, Jira
 
 ## 🌍 Working Arrangements
 

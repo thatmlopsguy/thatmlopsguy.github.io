@@ -1,10 +1,10 @@
 +++
-title = 'Consulting'
+title = 'Services'
 draft = false
 toc = false
 +++
 
-# 📊 Consulting
+# 📊 Services
 
 I help companies make the most of their technology by supporting them in machine learning projects.
 
