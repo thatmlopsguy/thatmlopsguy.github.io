@@ -58,7 +58,7 @@ rss = true
 showReadTime = true
 sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
 hero_badge = "MLOps & Platform Engineering"
-description = "Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platform."
+description = "Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms."
 about = """
   Architect, migrate, and optimize AWS and Azure infrastructure that scales with your ambitions.
   Focused on enhancing service availability and streamlining operations in complex AI and cloud environments.
