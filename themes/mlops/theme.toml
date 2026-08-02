@@ -1,0 +1,9 @@
+name = "mlops"
+license = "MIT"
+licenselink = "https://github.com/thatmlopsguy/thatmlopsguy.github.io/blob/main/LICENSE"
+description = "A dark, modern Hugo theme for MLOps/DevOps professionals"
+homepage = "https://thatmlopsguy.github.io/"
+min_version = "0.116.0"
+
+[author]
+name = "That MLOps Guy"

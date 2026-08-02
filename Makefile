@@ -22,3 +22,6 @@ pre-commit-update: ## Update pre-commit hooks
 ##@ Documentation
 docs-serve: ## Start a local web server for serving documentation
 	@docker compose up -d
+
+hugo-serve: ## Start a local web server for serving documentation
+	@hugo serve -D

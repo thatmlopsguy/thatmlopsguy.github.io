@@ -1,0 +1,126 @@
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero">
+  <div class="hero-container">
+    <div class="hero-badge animate-fade-in">
+      <span class="badge-dot"></span>
+      <span>Available for new projects</span>
+    </div>
+    <h1 class="hero-title animate-fade-in">
+      MLOps &amp;<br><span class="text-accent">DevOps Excellence</span>
+    </h1>
+    <p class="hero-subtitle animate-fade-in">
+      {{ .Site.Params.description }}
+    </p>
+    <div class="hero-cta animate-fade-in">
+      <a href="{{ "projects" | relURL }}" class="btn btn-primary">View My Work</a>
+      <a href="{{ "contact" | relURL }}" class="btn btn-outline">Get in Touch</a>
+    </div>
+    <div class="hero-stats animate-fade-in">
+      <div class="stat">
+        <span class="stat-number">10+</span>
+        <span class="stat-label">Years Experience</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <span class="stat-number">{{ len .Site.RegularPages }}+</span>
+        <span class="stat-label">Articles</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat">
+        <span class="stat-number">{{ with (index .Site.Data "projects") }}{{ len .list }}{{ else }}8{{ end }}+</span>
+        <span class="stat-label">Open Source Projects</span>
+      </div>
+    </div>
+  </div>
+  <div class="scroll-indicator">
+    <span>Scroll to explore</span>
+    <div class="scroll-line">
+      <div class="scroll-dot"></div>
+    </div>
+  </div>
+</section>
+
+{{/* Featured Projects Section */}}
+<section class="section featured-work">
+  <div class="section-container">
+    <div class="section-header">
+      <span class="section-label">Portfolio</span>
+      <h2>Featured Projects</h2>
+      <p>Open-source tools and frameworks showcasing technical depth and practical impact.</p>
+    </div>
+    <div class="projects-grid">
+      {{ with (index .Site.Data "projects") }}
+      {{ range first 4 .list }}
+      <a href="{{ .url }}" class="project-card" rel="noopener">
+        <div class="project-header">
+          <span class="project-type">Open Source</span>
+        </div>
+        <h3 class="project-title">{{ .name }}</h3>
+        <p class="project-desc">{{ .desc }}</p>
+        <div class="project-footer">
+          <span class="tech-tag">GitHub</span>
+        </div>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+    <div class="section-cta">
+      <a href="{{ "projects" | relURL }}" class="btn btn-outline">View All Projects</a>
+    </div>
+  </div>
+</section>
+
+{{/* Latest Posts Section */}}
+<section class="section latest-posts">
+  <div class="section-container">
+    <div class="section-header">
+      <span class="section-label">Blog</span>
+      <h2>Latest Insights</h2>
+      <p>Technical deep-dives, tutorials, and lessons learned from building infrastructure at scale.</p>
+    </div>
+    <div class="posts-grid">
+      {{ $posts := where .Site.RegularPages "Section" "posts" }}
+      {{ range first 3 $posts.ByDate.Reverse }}
+      <a href="{{ .Permalink }}" class="post-card">
+        <div class="post-meta">
+          <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          {{ if .Site.Params.showReadTime }}
+          <span class="read-time">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+          {{ end }}
+        </div>
+        <h3 class="post-title">{{ .Title }}</h3>
+        <p class="post-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
+        {{ with .Params.tags }}
+        <div class="post-tags">
+          {{ range first 3 . }}
+          <span class="tech-tag">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+      </a>
+      {{ end }}
+    </div>
+    <div class="section-cta">
+      <a href="{{ "posts" | relURL }}" class="btn btn-outline">Read All Posts</a>
+    </div>
+  </div>
+</section>
+
+{{/* CTA Section */}}
+<section class="section cta-section">
+  <div class="section-container">
+    <div class="cta-content">
+      <h2>Ready to build something great?</h2>
+      <p>Whether you're looking to implement MLOps, modernize your CI/CD pipelines, or architect a cloud-native
+        platform, I'm here to help.</p>
+      <div class="cta-buttons">
+        <a href="{{ "contact" | relURL }}" class="btn btn-primary btn-lg">Start a Conversation</a>
+        {{ with .Site.Params.email }}
+        <a href="mailto:{{ . }}" class="btn btn-outline btn-lg">{{ . }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
