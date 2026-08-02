@@ -2,41 +2,41 @@
 {{/* Hero Section */}}
 <section class="hero">
   <div class="hero-container">
-    <div class="hero-badge animate-fade-in">
-      <span class="badge-dot"></span>
-      <span>Available for new projects</span>
-    </div>
-    <h1 class="hero-title animate-fade-in">
-      MLOps &amp;<br><span class="text-accent">DevOps Excellence</span>
-    </h1>
-    <p class="hero-subtitle animate-fade-in">
-      {{ .Site.Params.description }}
-    </p>
-    <div class="hero-cta animate-fade-in">
-      <a href="{{ "projects" | relURL }}" class="btn btn-primary">View My Work</a>
-      <a href="{{ "contact" | relURL }}" class="btn btn-outline">Get in Touch</a>
-    </div>
-    <div class="hero-stats animate-fade-in">
-      <div class="stat">
-        <span class="stat-number">10+</span>
-        <span class="stat-label">Years Experience</span>
+    <div class="hero-content">
+      <div class="hero-badge animate-fade-in">
+        <span class="badge-dot"></span>
+        <span>MLOps &amp; Platform Engineering</span>
       </div>
-      <div class="stat-divider"></div>
-      <div class="stat">
-        <span class="stat-number">{{ len .Site.RegularPages }}+</span>
-        <span class="stat-label">Articles</span>
-      </div>
-      <div class="stat-divider"></div>
-      <div class="stat">
-        <span class="stat-number">{{ with (index .Site.Data "projects") }}{{ len .list }}{{ else }}8{{ end }}+</span>
-        <span class="stat-label">Open Source Projects</span>
+      <h1 class="hero-title animate-fade-in">
+        MLOps<br><span class="text-accent">&amp; DevOps Excellence</span>
+      </h1>
+      <p class="hero-subtitle animate-fade-in">
+        {{ .Site.Params.description }}
+      </p>
+      <div class="hero-cta animate-fade-in">
+        <a href="{{ "hire" | relURL }}" class="btn btn-primary">Schedule a Consultation</a>
+        <a href="https://github.com/thatmlopsguy" class="btn btn-outline" rel="noopener">View GitHub</a>
       </div>
     </div>
-  </div>
-  <div class="scroll-indicator">
-    <span>Scroll to explore</span>
-    <div class="scroll-line">
-      <div class="scroll-dot"></div>
+    <div class="hero-stats-card animate-fade-in">
+      <div class="stats-grid">
+        <div class="stat">
+          <span class="stat-number">10+</span>
+          <span class="stat-label">Years Experience</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">{{ with (index .Site.Data "projects") }}{{ len .list }}{{ else }}8{{ end }}+</span>
+          <span class="stat-label">Repositories</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">{{ len .Site.RegularPages }}+</span>
+          <span class="stat-label">Articles</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">4</span>
+          <span class="stat-label">Industries</span>
+        </div>
+      </div>
     </div>
   </div>
 </section>
