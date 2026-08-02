@@ -57,8 +57,9 @@ tagsOverview = false
 rss = true
 showReadTime = true
 sourceCodeUrl = "https://github.com/thatmlopsguy/thatmlopsguy.github.io"
-description = "Hi there! 👋🏻 I'm that MLOps guy. Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platforms"
+description = "Cloud Architect, DevOps and Platform Engineer with more than 10 years of experience building and operating scalable platform."
 about = """
+  Architect, migrate, and optimize AWS and Azure infrastructure that scales with your ambitions.
   Focused on enhancing service availability and streamlining operations in complex AI and cloud environments.
   """
 showProjectsList = true

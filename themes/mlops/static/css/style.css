@@ -208,6 +208,14 @@ img {
   font-size: 1.1rem;
   color: var(--text-secondary);
   max-width: 500px;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.hero-about {
+  font-size: 1rem;
+  color: var(--text-muted);
+  max-width: 500px;
   margin-bottom: 2.5rem;
   line-height: 1.7;
 }

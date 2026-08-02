@@ -13,6 +13,11 @@
       <p class="hero-subtitle animate-fade-in">
         {{ .Site.Params.description }}
       </p>
+      {{ with .Site.Params.about }}
+      <p class="hero-about animate-fade-in">
+        {{ . }}
+      </p>
+      {{ end }}
       <div class="hero-cta animate-fade-in">
         <a href="{{ "hire" | relURL }}" class="btn btn-primary">Schedule a Consultation</a>
         <a href="https://github.com/thatmlopsguy" class="btn btn-outline" rel="noopener">View GitHub</a>
