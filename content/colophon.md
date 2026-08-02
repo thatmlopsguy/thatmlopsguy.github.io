@@ -6,17 +6,11 @@ toc = false
 
 # 🪧 Colophon
 
-A colophon is a statement at the end of a book, typically with a printer’s emblem, giving information about its authorship and printing.
+A colophon is a statement at the end of a book, typically with a printer’s emblem, giving information about its authorship
+and printing. Hence the name of this page that explains how this blog is built.
 
-Hence the name of this page that explains how this blog is built.
-
-This website was built with [Hugo](https://gohugo.io/) static site generator.
-The theme I’m using is based on [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and
-I [tweaked it](https://github.com/thatmlopsguy/hugo-theme-cactus2).
-
-The site and the respective code for the build files are [hosted on github](https://github.com/thatmlopsguy/thatmlopsguy.github.io).
-
-I use VS Codium to write the code and posts for the site. No large language models were used in any of the writing on this website.
+This website was built with [Hugo](https://gohugo.io/) static site generator, using an internal theme called `mlops` that I
+created for this site. The site and the respective code for the build files are [hosted on github](https://github.com/thatmlopsguy/thatmlopsguy.github.io).
 
 This is my personal website, please do note that these articles do not reflect or are based on work, opinions or policies
 of any of my (previous) employers. Any resemblance to reality is pure coincidence.
@@ -30,6 +24,25 @@ The fonts are hosted along with the rest of the content on the site, not loaded 
 Here is the thing: there are quite a few companies out there that live off acquiring and selling your data.
 That would be kind of ok if it was more transparent how this is done. But of course, only those who are not
 interested in your data are the ones who properly communicate what they do. This is the case here.
+
+This website uses GitHub Pages, a web hosting service provided by GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco,
+CA 94107, USA (“GitHub”). GitHub is certified under the EU/US privacy agreement „Privacy Shield“ and hence obliged to
+observe EU privacy regulation. GitHub collects and stores information that your browser automatically transmits to us in
+“server log files”. These are:
+
+- Browser type and browser version
+- Operating system used
+- Referrer URL
+- Host name of the accessing computer
+- Time of the server request
+- IP address
+
+GitHub uses these data to analyze website usage by the visitor, to compile reports on the activities of website visitors,
+and to provide further services in connection with the use of the website. Insofar as GitHub is bound by law to do so,
+or if third parties process data on behalf on GitHub, data will be transferred to third parties. GitHub will not combine
+visitor data transmitted by the browser with data from other sources.
+
+For more information on GitHub’s privacy policy, please visit `https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement`.
 
 ## 📮 Comments
 
