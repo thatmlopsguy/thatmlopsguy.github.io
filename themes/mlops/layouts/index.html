@@ -18,26 +18,36 @@
         <a href="https://github.com/thatmlopsguy" class="btn btn-outline" rel="noopener">View GitHub</a>
       </div>
     </div>
+    {{ with .Site.Params.hero_stats }}
     <div class="hero-stats-card animate-fade-in">
       <div class="stats-grid">
+        {{ with .years_experience }}
         <div class="stat">
-          <span class="stat-number">10+</span>
+          <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Years Experience</span>
         </div>
+        {{ end }}
+        {{ with .certifications }}
         <div class="stat">
-          <span class="stat-number">{{ with (index .Site.Data "projects") }}{{ len .list }}{{ else }}8{{ end }}+</span>
-          <span class="stat-label">Repositories</span>
+          <span class="stat-number">{{ . }}</span>
+          <span class="stat-label">Certifications</span>
         </div>
+        {{ end }}
+        {{ with .articles }}
         <div class="stat">
-          <span class="stat-number">{{ len .Site.RegularPages }}+</span>
+          <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Articles</span>
         </div>
+        {{ end }}
+        {{ with .industries }}
         <div class="stat">
-          <span class="stat-number">4</span>
+          <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Industries</span>
         </div>
+        {{ end }}
       </div>
     </div>
+    {{ end }}
   </div>
 </section>
 

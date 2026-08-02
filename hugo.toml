@@ -65,6 +65,12 @@ showProjectsList = true
 projectsUrl = "https://github.com/thatmlopsguy"
 show_updated = true
 
+[params.hero_stats]
+years_experience = "10+"
+certifications = "15+"
+articles = "9"
+industries = "4"
+
 [[params.social]]
 name = "github"
 link = "https://github.com/thatmlopsguy"
