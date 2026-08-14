@@ -3,7 +3,7 @@
 <button class=nav-toggle aria-label="Toggle navigation">
 <span></span>
 <span></span>
-<span></span></button><ul class=nav-menu><li><a href=/>Home</a></li><li><a href=/posts>Posts</a></li><li><a href=/about>About</a></li><li><a href=/contact>Contact</a></li><li><a href=/services>Services</a></li><li><a href=/colophon>Colophon</a></li><li><a href=/more>More</a></li></ul></nav></header><main><article class="section page-section"><div class="section-container content-container"><header class=article-header><h1>Optimizing PyTorch Docker images</h1><div class=article-meta><time datetime=2024-08-13>August 13, 2024</time>
+<span></span></button><ul class=nav-menu><li><a href=/>Home</a></li><li><a href=/posts>Posts</a></li><li><a href=/about>About</a></li><li><a href=/contact>Contact</a></li><li><a href=/services>Services</a></li><li><a href=/colophon>Colophon</a></li><li><a href=/more>More</a></li></ul></nav></header><main><article class="section page-section"><div class="section-container content-container"><header class=article-header><h1 class=article-title>Optimizing PyTorch Docker images</h1><div class=article-meta><time datetime=2024-08-13>August 13, 2024</time>
 <span class=meta-sep>&#183;</span>
 <span>0 min read</span></div><div class=article-tags><a href=/tags/docker class=tech-tag>docker</a></div></header><div class=article-content><p>You don&rsquo;t need CUDA runtime because PyTorch includes all the necessary CUDA binaries, so you can save space by switching
 to a lighter base image. A one-line change brings 2 gigs of saved space:</p><pre tabindex=0><code># FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
