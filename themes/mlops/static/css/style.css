@@ -244,6 +244,13 @@ img {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s ease;
+}
+
+.stat:hover {
+  opacity: 0.8;
 }
 
 .stat-number {
@@ -894,6 +901,10 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .sectors-grid {
+    grid-template-columns: 1fr;
+  }
+
   .posts-grid {
     grid-template-columns: 1fr;
   }
@@ -936,4 +947,49 @@ img {
     width: 100%;
     max-width: 280px;
   }
+}
+
+/* ===== Sectors Served ===== */
+.sectors-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.5rem;
+}
+
+.sector-card {
+  padding: 1.75rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  background: var(--bg-primary);
+  transition: all 0.3s ease;
+}
+
+.sector-card:hover {
+  border-color: var(--border-accent);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.sector-icon {
+  height: 40px;
+  margin-bottom: 1rem;
+}
+
+.sector-icon img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+.sector-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+  color: var(--accent-blue);
+}
+
+.sector-desc {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
 }

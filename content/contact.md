@@ -61,7 +61,9 @@ is recommended by countless experts in the field and more.
 Now that [Signal supports usernames](https://signal.org/blog/phone-number-privacy-usernames/),
 you can contact me without having to share phone numbers. Click [**here to message me on Signal**](https://signal.me/#eu/tioeXhSUgbUbo7L62t5Xd3BZ9FyW--TLsacCsSNPv2biYX2gnmpMApPYBrzGnYLi) or scan this QR code with the Signal App.
 
+<div style="text-align:center;">
 <img src="/images/signal_qrcode.png" alt="image" style="width:200px;height:auto;">
+</div>
 
 ## 🌍 Elsewhere
 

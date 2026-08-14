@@ -66,7 +66,7 @@ git submodule update --init --recursive
 ├── layouts/           # Custom layout files
 ├── static/            # Static assets (images, files)
 ├── themes/            # Hugo themes
-│   └── cactus2/       # Current theme (git submodule)
+│   └── mlops/         # Current theme
 ├── docker-compose.yml # Docker development setup
 ├── hugo.toml          # Hugo configuration
 └── Makefile           # Build commands
@@ -92,7 +92,7 @@ This site is automatically deployed to GitHub Pages when changes are pushed to t
 
 ## 🎨 Theme
 
-This site uses the [Cactus2](https://github.com/thatmlopsguy/hugo-theme-cactus2) theme, which is included as a git submodule.
+This site uses a custom theme called `mlops`.
 
 ## 📝 Available Commands
 

@@ -26,7 +26,7 @@ as evidenced by my blog posts and [github profile](https://github.com/thatmlopsg
 You can track my projects [here](projects.md) and my contributions [here](contributions.md).
 
 I offer specialized AI engineering services focusing on production-ready applications.
-Check out my [services](consulting.md) page to learn how I can help bring your project to life.
+Check out my [services](services.md) page to learn how I can help bring your project to life.
 If you want my full resume including all (previous) jobs, experience and education, or you are interested in hire me,
 check [this page](hire.md).
 

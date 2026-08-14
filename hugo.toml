@@ -73,6 +73,39 @@ certifications = "50+"
 articles = "9"
 industries = "5"
 
+[params.sectors]
+subtitle = "Building and scaling mission-critical cloud infrastructure across diverse industries."
+
+[[params.sectors.items]]
+icon = "images/logos/intermedia.svg"
+name = "Telecommunications"
+url = "https://www.intermedia.com"
+description = "Multi-cloud LLM/RAG platform migration across Azure, AWS, and on-premises Kubernetes with GDPR, HIPAA, and PCI DSS compliance."
+
+[[params.sectors.items]]
+icon = "images/logos/zigzag-global.svg"
+name = "E-Commerce & Logistics"
+url = "https://www.zigzag.global"
+description = "Self-hosted Kubernetes migrations reducing costs by 40%."
+
+[[params.sectors.items]]
+icon = "images/logos/ocean-infinity.svg"
+name = "Marine Robotics"
+url = "https://www.oceaninfinity.com"
+description = "GPU-accelerated ML training on AKS with Karpenter auto-scaling, reducing compute costs by 70% for computer vision workloads."
+
+[[params.sectors.items]]
+icon = "images/logos/fraunhofer.svg"
+name = "Research"
+url = "https://www.aicos.fraunhofer.pt"
+description = "HPC Kubernetes clusters for data science teams, federated learning with differential privacy for medical AI on edge devices."
+
+[[params.sectors.items]]
+icon = "images/logos/anova.png"
+name = "Industrial IoT & Energy"
+url = "https://www.anova.com"
+description = "Large-scale ETL and ML pipelines on Databricks forecasting 900K+ time series for real-time fuel optimization."
+
 [[params.social]]
 name = "github"
 link = "https://github.com/thatmlopsguy"

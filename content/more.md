@@ -18,6 +18,7 @@ Learn more about these pages on [slashpages.net](https://slashpages.net/).
 - [`/books`](books.md): recommended readings that have influenced my thinking and work
 - [`/boycott`](boycott.md): companies and products I avoid and my reasoning behind these decisions
 - [`/buttons`](buttons.md): collection of web buttons and badges for a touch of internet nostalgia
+- [`/certifications`](certifications.md): my professional certifications and achievements
 - [`/changelog`](changelog.md): detailed history of updates and changes to this website
 - [`/colophon`](colophon.md): what’s this website made of?
 - [`/contact`](contact.md): how to reach me professionally and personally

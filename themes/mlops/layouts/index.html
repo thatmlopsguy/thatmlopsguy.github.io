@@ -29,28 +29,28 @@
     <div class="hero-stats-card animate-fade-in">
       <div class="stats-grid">
         {{ with .years_experience }}
-        <div class="stat">
+        <a href="/hire" class="stat">
           <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Years Experience</span>
-        </div>
+        </a>
         {{ end }}
         {{ with .certifications }}
-        <div class="stat">
+        <a href="/certifications" class="stat">
           <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Certifications</span>
-        </div>
+        </a>
         {{ end }}
         {{ with .articles }}
-        <div class="stat">
+        <a href="/posts" class="stat">
           <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Articles</span>
-        </div>
+        </a>
         {{ end }}
         {{ with .industries }}
-        <div class="stat">
+        <a href="/hire" class="stat">
           <span class="stat-number">{{ . }}</span>
           <span class="stat-label">Industries</span>
-        </div>
+        </a>
         {{ end }}
       </div>
     </div>
@@ -58,12 +58,36 @@
   </div>
 </section>
 
+{{/* Featured Work Section */}}
+{{ with .Site.Params.sectors }}
+<section class="section sectors-served">
+  <div class="section-container">
+    <div class="section-header">
+      <h2>Featured <span class="text-accent">Work</span></h2>
+      {{ with .subtitle }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </div>
+    <div class="sectors-grid">
+      {{ range .items }}
+      <a href="{{ .url }}" class="sector-card" target="_blank" rel="noopener">
+        <div class="sector-icon">
+          <img src="{{ .icon | relURL }}" alt="{{ .name }}">
+        </div>
+        <h3>{{ .name }}</h3>
+        <p class="sector-desc">{{ .description }}</p>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{/* Featured Projects Section */}}
 <section class="section featured-work">
   <div class="section-container">
     <div class="section-header">
-      <span class="section-label">Portfolio</span>
-      <h2>Featured Projects</h2>
+      <h2>Featured <span class="text-accent">Projects</span></h2>
       <p>Open-source tools and frameworks showcasing technical depth and practical impact.</p>
     </div>
     <div class="projects-grid">
@@ -92,8 +116,7 @@
 <section class="section latest-posts">
   <div class="section-container">
     <div class="section-header">
-      <span class="section-label">Blog</span>
-      <h2>Latest Insights</h2>
+      <h2>Latest <span class="text-accent">Insights</span></h2>
       <p>Technical deep-dives, tutorials, and lessons learned from building infrastructure at scale.</p>
     </div>
     <div class="posts-grid">
@@ -132,7 +155,7 @@
       <p>Whether you're looking to implement MLOps, modernize your CI/CD pipelines, or architect a cloud-native
         platform, I'm here to help.</p>
       <div class="cta-buttons">
-        <a href="{{ "contact" | relURL }}" class="btn btn-primary btn-lg">Start a Conversation</a>
+        <a href="{{ "hire" | relURL }}" class="btn btn-primary btn-lg">Start a Conversation</a>
         {{ with .Site.Params.email }}
         <a href="mailto:{{ . }}" class="btn btn-outline btn-lg">{{ . }}</a>
         {{ end }}

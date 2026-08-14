@@ -2,7 +2,9 @@
 <article class="section page-section">
     <div class="section-container content-container">
         <header class="article-header">
-            <h1>{{ .Title }}</h1>
+            {{ if or (eq .Section "posts") (eq .Section "notes") }}
+            <h1 class="article-title">{{ .Title }}</h1>
+            {{ end }}
             {{ if not .Date.IsZero }}
             <div class="article-meta">
                 <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>

@@ -20,7 +20,7 @@ repos:
         args: [--preserve-quotes]
   # Optimize images for size
   - repo: https://github.com/boidolr/pre-commit-images
-    rev: v1.12.0
+    rev: v1.13.0
     hooks:
       - id: optimize-avif
       - id: optimize-jpg
