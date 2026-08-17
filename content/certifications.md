@@ -6,6 +6,10 @@ toc = false
 
 # 🏅 Certificates and Badges
 
+These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas
+of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
+and learn more about the skills and knowledge they represent.
+
 ## Platform Engineering
 
 |   |   |   |   |
