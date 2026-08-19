@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Homebrew | That MLOps Guy</title><link>https://thatmlopsguy.github.io/tags/homebrew/</link><description>Recent content in Homebrew on That MLOps Guy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>That MLOps Guy</copyright><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thatmlopsguy.github.io/tags/homebrew/index.xml" rel="self" type="application/rss+xml"/><item><title>I replaced Homebrew and asdf with Devbox</title><link>https://thatmlopsguy.github.io/posts/devbox/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/devbox/</guid><category>nix</category><category>asdf</category><category>homebrew</category><description>In the last years, I used a combination of homebrew and asdf to manage some developer tools (eg. terraform, hadolint, ShellCheck, &amp;amp;hellip;)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Homebrew | That MLOps Guy</title><link>https://thatmlopsguy.github.io/tags/homebrew/</link><description>Recent content in Homebrew on That MLOps Guy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>That MLOps Guy</copyright><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thatmlopsguy.github.io/tags/homebrew/index.xml" rel="self" type="application/rss+xml"/><item><title>I replaced Homebrew and asdf with Devbox</title><link>https://thatmlopsguy.github.io/posts/devbox/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/devbox/</guid><category>nix</category><category>asdf</category><category>homebrew</category><description>In the last years, I used a combination of homebrew and asdf to manage some developer tools (eg. terraform, hadolint, ShellCheck, &amp;amp;hellip;)
 Recently I discovered devbox, a wrapper around NixOS package manager.
 First install Devbox:
-curl -fsSL https://get.jetify.com/devbox | bash Now, everytime I initialize a new project, instead of installing asdf plugins and declare it on .tool-versions, I just add the dependencies on devbox.json on the root of each project. First I run</description><content:encoded><![CDATA[<p>In the last years, I used a combination of <a href="https://brew.sh/">homebrew</a>
+curl -fsSL https://get.jetify.com/devbox | bash Now, everytime I initialize a new project, instead of installing asdf plugins and declare it on .tool-versions, I just add the dependencies on devbox.json on the root of each project. First I run
+devbox init To create an empty devbox.json in the project directory.</description><content:encoded><![CDATA[<p>In the last years, I used a combination of <a href="https://brew.sh/">homebrew</a>
 and <a href="https://asdf-vm.com/">asdf</a> to manage some developer tools
 (eg. terraform, hadolint, ShellCheck, &hellip;)</p>
 <p>Recently I discovered <a href="https://jetpack.io/devbox/">devbox</a>, a wrapper around NixOS package manager.</p>
 <p>First <a href="https://www.jetify.com/devbox/docs/installing_devbox/">install Devbox</a>:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -fsSL https://get.jetify.com/devbox | bash
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -fsSL https://get.jetify.com/devbox | bash
 </span></span></code></pre></div><p>Now, everytime I initialize a new project, instead of installing asdf plugins and
 declare it on <code>.tool-versions</code>, I just add the dependencies on <code>devbox.json</code> on the
 root of each project. First I run</p>
-<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox init
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox init
 </span></span></code></pre></div><p>To create an empty <code>devbox.json</code> in the project directory.</p>
 <p>Here it is an example for a <a href="https://www.jetify.com/devbox/docs/devbox_examples/languages/python/">python</a>
 project using poetry to manage python packages.</p>
-<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
 </span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">&#34;packages&#34;</span>: [
 </span></span><span style="display:flex;"><span>    <span style="color:#5af78e">&#34;python@latest&#34;</span>,
 </span></span><span style="display:flex;"><span>    <span style="color:#5af78e">&#34;poetry@latest&#34;</span>
@@ -35,7 +36,7 @@ and runs <code>devbox shell</code> so terminal is automatically in devbox shell 
 If you use other IDE, devbox can integrate with <code>direnv</code> to automatically activate your
 shell and packages when you navigate to your project.</p>
 <p>To install some tool system-wide, like <code>ripgrep</code>, use the following command:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global add ripgrep
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global add ripgrep
 </span></span></code></pre></div><p>To see what packages you already have installed:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global ls
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global ls
 </span></span></code></pre></div>]]></content:encoded></item></channel></rss>
