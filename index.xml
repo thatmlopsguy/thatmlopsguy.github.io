@@ -1,86 +1,316 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>That MLOps Guy</title><link>https://thatmlopsguy.github.io/</link><description>Recent content on That MLOps Guy</description><generator>Hugo</generator><language>en</language><copyright>That MLOps Guy</copyright><lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thatmlopsguy.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Volkswagening</title><link>https://thatmlopsguy.github.io/notes/volkswagening/</link><pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/notes/volkswagening/</guid><description>volkswagening (verb): systematically deceive through sophisticated technological means while presenting oneself as virtuous, particularly in matters of environmental responsibility or corporate ethics.
-Inspired from the qz article: Samsung is accused of Volkswagening its TVs to oversell their energy efficiency</description></item><item><title>Bridging the Gap: Implementing GitOps Bridge Pattern with Kind</title><link>https://thatmlopsguy.github.io/posts/gitops-bridge/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/gitops-bridge/</guid><description>As I reflect on my journey implementing the GitOps Bridge pattern, I&amp;rsquo;ve learned that it&amp;rsquo;s not just another technical solution, it&amp;rsquo;s a fundamental shift in how we manage our Kubernetes infrastructure. My experience began with a simple goal: to bridge the gap between creating Kubernetes clusters and managing them through GitOps.
-Traditional approaches to Kubernetes management often create a disconnect between two critical phases: the infrastructure provisioning, where you create and configure the Kubernetes clusters using an IaC tool like terraform, and the addons/application management, where you deploy the required applications within those clusters: monitoring, compliance and security addons.</description></item><item><title>Introducing Future Perspectives: A new initiative to update our world view</title><link>https://thatmlopsguy.github.io/posts/predictions/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/predictions/</guid><description>As we navigate the complexities of our rapidly changing world, it&amp;rsquo;s more important than ever to engage in thoughtful discussions about what&amp;rsquo;s to come. Today, I&amp;rsquo;m excited to launch a new initiative called &amp;ldquo;Future Perspectives&amp;rdquo; – a indie web movement dedicated to publishing predictions and sparking meaningful conversations about the future. Building on the success of initiatives like the /about, /ideas, /now, and /uses pages, I propose introducing a /predictions page for each blogger.</description></item><item><title>Github ssh public keys</title><link>https://thatmlopsguy.github.io/notes/github-ssh/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/notes/github-ssh/</guid><description>Github stores public keys for each profile at https://github.com/&amp;lt;username&amp;gt;.keys</description></item><item><title>Energy Slaves</title><link>https://thatmlopsguy.github.io/notes/energy-slaves/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/notes/energy-slaves/</guid><description>I reveal that if an average human being was placed on a rowing machine (or exercise bike, or treadmill…) for a year of 250 eight-hour shifts, the total amount of energy that the person could expend into the machine would be 500 megajoules.
-How much is 500 megajoules? It is roughly equivalent to the energy stored within 14 litres of gasoline (petrol).
-Source: The mind, but not the muscle: understanding Energy Slaves</description></item><item><title>Beyond MTTR: Rethinking Recovery Metrics for Enhanced Software Performance</title><link>https://thatmlopsguy.github.io/posts/sre-metrics/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/sre-metrics/</guid><description>Let&amp;rsquo;s delve into the reasons why focusing solely on Mean Time To Recovery (MTTR) might not be the most effective metric for evaluating software delivery performance.
-In recent years, the DORA metrics, including &amp;ldquo;Time to Restore Service&amp;rdquo; or MTTR, have become a staple among software engineers aiming to measure the efficiency of software delivery processes. However, Courtney Nash challenged this conventional wisdom in her article “MTTR is a Misleading Metric—Now What?</description></item><item><title>Optimizing PyTorch Docker images</title><link>https://thatmlopsguy.github.io/notes/pytorch-docker/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/notes/pytorch-docker/</guid><description>You don&amp;rsquo;t need CUDA runtime because PyTorch includes all the necessary CUDA binaries, so you can save space by switching to a lighter base image. A one-line change brings 2 gigs of saved space:
-# FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04 FROM nvidia/cuda:11.8.0-base-ubuntu22.04 Source: Optimizing PyTorch Docker images: how to cut size by 60%</description></item><item><title>My Journey to 512KB club: Embracing Simplicity in the Digital Age</title><link>https://thatmlopsguy.github.io/posts/512kb/</link><pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/512kb/</guid><description>As I sit down to write this, I find myself reflecting on the journey that led me to join 512KB.Club, a community that stands at the intersection of the Small Web Movement and my personal quest for simplicity and efficiency in web design. This isn&amp;rsquo;t just another blog post; it&amp;rsquo;s a deeply personal exploration of how embracing constraints can lead to creativity and innovation.
-My fascination with the Small Web Movement began with a simple observation: the web is becoming too cluttered, too slow, and too inaccessible for many users.</description></item><item><title>Ignore Files Across All Subdirectories in .dockerignore</title><link>https://thatmlopsguy.github.io/posts/dockerignore/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/dockerignore/</guid><description>When you&amp;rsquo;re using .dockerignore to ignore files within directories, it works a little differently than .gitignore.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>That MLOps Guy</title><link>https://thatmlopsguy.github.io/</link><description>Recent content on That MLOps Guy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>That MLOps Guy</copyright><lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thatmlopsguy.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Bridging the Gap: Implementing GitOps Bridge Pattern with Kind</title><link>https://thatmlopsguy.github.io/posts/gitops-bridge/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/gitops-bridge/</guid><category>gitops</category><category>terraform</category><category>argocd</category><description>As I reflect on my journey implementing the GitOps Bridge pattern, I&amp;amp;rsquo;ve learned that it&amp;amp;rsquo;s not just another technical solution, it&amp;amp;rsquo;s a fundamental shift in how we manage our Kubernetes infrastructure. My experience began with a simple goal: to bridge the gap between creating Kubernetes clusters and managing them through GitOps.
+Traditional approaches to Kubernetes management often create a disconnect between two critical phases: the infrastructure provisioning, where you create and configure the Kubernetes clusters using an IaC tool like terraform, and the addons/application management, where you deploy the required applications within those clusters: monitoring, compliance and security addons.</description><content:encoded><![CDATA[<p>As I reflect on my journey implementing the GitOps Bridge pattern, I&rsquo;ve learned that it&rsquo;s not just another technical solution,
+it&rsquo;s a fundamental shift in how we manage our Kubernetes infrastructure. My experience began with a simple goal: to bridge the
+gap between creating Kubernetes clusters and managing them through GitOps.</p>
+<p>Traditional approaches to Kubernetes management often create a disconnect between two critical phases: the infrastructure
+provisioning, where you create and configure the Kubernetes clusters using an IaC tool like terraform, and the addons/application
+management, where you deploy the required applications within those clusters: monitoring, compliance and security addons.</p>
+<p>This separation leads to several challenges:</p>
+<ul>
+<li>Configuration drift between infrastructure and applications</li>
+<li>Complex metadata management for cloud resources</li>
+<li>Difficulty maintaining consistent states across systems</li>
+<li>Challenges in handling workload identities and security configurations</li>
+</ul>
+<p><img alt="gitops_bridge" src="https://raw.githubusercontent.com/gitops-bridge-dev/gitops-bridge/main/argocd/iac/terraform/examples/eks/getting-started/static/gitops-bridge.drawio.png"></p>
+<p>The GitOps Bridge transforms the traditional flow of infrastructure management. Terraform creates cloud resources and stores
+their configuration metadata (such as account IDs and role ARNs) in a ArgoCD secret.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>kubectl get secret -n argocd -l argocd.argoproj.io/secret-type<span style="color:#ff6ac1">=</span>cluster -o json | jq <span style="color:#5af78e">&#39;.items[0].metadata.annotations&#39;</span>
+</span></span></code></pre></div><p>The output looks like the following:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span><span style="color:#ff6ac1">{</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;addons_repo_basepath&#34;</span>: <span style="color:#5af78e">&#34;gitops&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;addons_repo_path&#34;</span>: <span style="color:#5af78e">&#34;addons&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;addons_repo_revision&#34;</span>: <span style="color:#5af78e">&#34;dev&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;addons_repo_url&#34;</span>: <span style="color:#5af78e">&#34;https://github.com/thatmlopsguy/k8s-homelab&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;cluster_name&#34;</span>: <span style="color:#5af78e">&#34;main&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#5af78e">&#34;environment&#34;</span>: <span style="color:#5af78e">&#34;prod&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#ff6ac1">}</span>
+</span></span></code></pre></div><p>This metadata serves as the bridge between infrastructure and applications. The GitOps engine, in this case ArgoCD, retrieves
+this stored metadata and uses it to deploy Helm charts within the Kubernetes cluster, ensuring that applications have the necessary
+configurations to interact with external cloud resources.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span><span style="color:#ff6ac1">apiVersion</span>: argoproj.io/v1alpha1
+</span></span><span style="display:flex;"><span><span style="color:#ff6ac1">kind</span>: ApplicationSet
+</span></span><span style="display:flex;"><span><span style="color:#ff6ac1">metadata</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">name</span>: addons-kro
+</span></span><span style="display:flex;"><span><span style="color:#ff6ac1">spec</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">syncPolicy</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#ff6ac1">preserveResourcesOnDeletion</span>: <span style="color:#ff6ac1">true</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">generators</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#ff6ac1">merge</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">mergeKeys</span>: [server]
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">generators</span>:
+</span></span><span style="display:flex;"><span>          - <span style="color:#ff6ac1">clusters</span>:
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">values</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">addonChart</span>: kro
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">addonChartVersion</span>: <span style="color:#ff9f43">0.2.1</span>
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">addonChartRepository</span>: ghcr.io/kro-run/kro
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">selector</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">matchExpressions</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#78787e"># only install kro if the terraform variable enable_kro is true</span>
+</span></span><span style="display:flex;"><span>                  - <span style="color:#ff6ac1">key</span>: enable_kro
+</span></span><span style="display:flex;"><span>                    <span style="color:#ff6ac1">operator</span>: In
+</span></span><span style="display:flex;"><span>                    <span style="color:#ff6ac1">values</span>: [<span style="color:#5af78e">&#39;true&#39;</span>]
+</span></span><span style="display:flex;"><span>          - <span style="color:#ff6ac1">clusters</span>:
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">selector</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">matchLabels</span>:
+</span></span><span style="display:flex;"><span>                  <span style="color:#ff6ac1">environment</span>: dev
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">values</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">addonChartVersion</span>: <span style="color:#ff9f43">0.2.1</span>
+</span></span><span style="display:flex;"><span>          - <span style="color:#ff6ac1">clusters</span>:
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">selector</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">matchLabels</span>:
+</span></span><span style="display:flex;"><span>                  <span style="color:#ff6ac1">environment</span>: prod
+</span></span><span style="display:flex;"><span>              <span style="color:#ff6ac1">values</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#ff6ac1">addonChartVersion</span>: <span style="color:#ff9f43">0.2.1</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">template</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#ff6ac1">metadata</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">name</span>: addon-{{name}}-{{values.addonChart}}
+</span></span><span style="display:flex;"><span>    <span style="color:#ff6ac1">spec</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">project</span>: addons
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">sources</span>:
+</span></span><span style="display:flex;"><span>        - <span style="color:#ff6ac1">repoURL</span>: <span style="color:#5af78e">&#39;{{metadata.annotations.addons_repo_url}}&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#ff6ac1">targetRevision</span>: <span style="color:#5af78e">&#39;{{metadata.annotations.addons_repo_revision}}&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#ff6ac1">ref</span>: values
+</span></span><span style="display:flex;"><span>        - <span style="color:#ff6ac1">chart</span>: <span style="color:#5af78e">&#39;{{values.addonChart}}&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#ff6ac1">repoURL</span>: <span style="color:#5af78e">&#39;{{values.addonChartRepository}}&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#ff6ac1">targetRevision</span>: <span style="color:#5af78e">&#39;{{values.addonChartVersion}}&#39;</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#ff6ac1">helm</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#ff6ac1">releaseName</span>: <span style="color:#5af78e">&#39;{{values.addonChart}}&#39;</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#ff6ac1">ignoreMissingValueFiles</span>: <span style="color:#ff6ac1">true</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#ff6ac1">valueFiles</span>:
+</span></span><span style="display:flex;"><span>              - $values/environments/default/addons/{{values.addonChart}}/values.yaml
+</span></span><span style="display:flex;"><span>              - $values/environments/{{metadata.labels.environment}}/addons/{{values.addonChart}}/values.yaml
+</span></span><span style="display:flex;"><span>              - $values/clusters/{{name}}/addons/{{values.addonChart}}/values.yaml
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e"># if you need to pass variables from the argocd secret</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#values: |</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#  region: {{metadata.annotations.aws_region}}</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#  serviceAccount:</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#    name: {{metadata.annotations.service_account}}</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#    annotations:</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#78787e">#        eks.amazonaws.com/role-arn: {{metadata.annotations.iam_role_arn}}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">destination</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">namespace</span>: <span style="color:#5af78e">&#39;{{values.addonChart}}&#39;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">name</span>: <span style="color:#5af78e">&#39;{{name}}&#39;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">syncPolicy</span>:
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">automated</span>: {}
+</span></span><span style="display:flex;"><span>        <span style="color:#ff6ac1">syncOptions</span>:
+</span></span><span style="display:flex;"><span>          - CreateNamespace=true
+</span></span></code></pre></div><p>My implementation journey began with a Kind cluster, which proved to be the perfect environment for learning and experimentation.
+I chose Kind because it runs entirely on my local machine, providing complete isolation while still offering all the features needed
+to test complex GitOps patterns. The Kind cluster became my playground for understanding how metadata flows between different systems
+and how the GitOps Bridge pattern maintains consistency across infrastructure and applications.</p>
+<p>One of the most valuable insights I gained was how the GitOps Bridge handles cloud service integrations. Even though I was working with
+a local Kind cluster, I could simulate many of the challenges that arise in production environments. The bridge pattern helped me manage
+workload identities and resource configurations in a way that would scale seamlessly to cloud-managed clusters later.</p>
+<p>Once I implemented the GitOps Bridge pattern, everything fell into place. The bridge pattern became the glue that held
+everything together, ensuring that the infrastructure and application configurations remained synchronized.</p>
+<p>Looking back, implementing the GitOps Bridge pattern was less about technology and more about understanding the flow of information in
+the infrastructure. It taught me that successful GitOps isn&rsquo;t just about automation – it&rsquo;s about creating a clear, maintainable path for
+configuration changes to flow through your entire system.</p>
+<p>My implementation of the GitOps Bridge pattern is available in my kubernetes homelab <a href="https://github.com/thatmlopsguy/k8s-homelab">here</a>.</p>
+]]></content:encoded></item><item><title>Introducing Future Perspectives: A new initiative to update our world view</title><link>https://thatmlopsguy.github.io/posts/predictions/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/predictions/</guid><description>As we navigate the complexities of our rapidly changing world, it&amp;amp;rsquo;s more important than ever to engage in thoughtful discussions about what&amp;amp;rsquo;s to come. Today, I&amp;amp;rsquo;m excited to launch a new initiative called &amp;amp;ldquo;Future Perspectives&amp;amp;rdquo; – a indie web movement dedicated to publishing predictions and sparking meaningful conversations about the future. Building on the success of initiatives like the /about, /ideas, /now, and /uses pages, I propose introducing a /predictions page for each blogger.</description><content:encoded><![CDATA[<p>As we navigate the complexities of our rapidly changing world, it&rsquo;s more important than ever to engage in thoughtful discussions
+about what&rsquo;s to come. Today, I&rsquo;m excited to launch a new initiative called &ldquo;Future Perspectives&rdquo; – a indie web movement dedicated
+to publishing predictions and sparking meaningful conversations about the future. Building on the success of initiatives like the
+<a href="https://aboutideasnow.com/"><code>/about</code></a>, <a href="https://aboutideasnow.com/"><code>/ideas</code></a>, <a href="https://nownownow.com/about"><code>/now</code></a>, and
+<a href="https://uses.tech/"><code>/uses</code></a> pages, I propose introducing a <code>/predictions</code> page for each blogger.</p>
+<p>&ldquo;Future Perspectives&rdquo; is a movement where everyone is invited to share their predictions and insights about upcoming trends,
+technological advancements, societal shifts, and more. The goal is simple: to challenge assumptions, stimulate debate, and inspire
+new ways of thinking about tomorrow.</p>
+<p>Why this matters? In an era of constant change, it&rsquo;s easy to get caught up in the present moment. However, truly forward-thinking individuals
+recognize the value in exploring possibilities and potential outcomes. By sharing predictions and inviting discussion, I hope to encourage
+critical thinking about emerging issues and provide a framework for understanding and preparing for future challenges.</p>
+<p>To kickstart this initiative, I&rsquo;ve created my own <a href="/predictions/"><code>/predictions</code></a> page, featuring some
+of my thoughts on future technological advancements, societal changes, and other intriguing possibilities.</p>
+<p>Whether you agree or disagree with my predictions, I encourage you to engage in the discussion. Your perspectives are invaluable in
+shaping our collective understanding of what&rsquo;s to come.</p>
+<p>I&rsquo;d love for you to join me in creating your own <code>/predictions</code> page, sharing your vision for the future and inviting others
+to engage in the discussion. Remember, these pages should evolve as your knowledge and insights grow. Feel free to add, modify,
+or expand upon your predictions as new information emerges or as your thoughts develop.</p>
+<p>Let&rsquo;s shape our world view together. <code>#FuturePerspectives</code></p>
+<p>If this initiative gains traction, I propose creating a centralized directory that lists all individual <code>/predicitons</code> pages
+from participating bloggers. This centralized hub would serve as a comprehensive resource for exploring predictions
+across various perspectives and domains, making it easier for visitors to discover and engage with the wide range of
+future-focused content being generated.</p>
+<p><strong>Update</strong>: there&rsquo;s actually a whole profession dedicated to analyzing and predicting future trends and risks - actuaries!
+While the Future Perspectives initiative encourages bloggers to share their predictions about technology and society,
+actuaries have been doing this professionally for decades, combining mathematical expertise with deep business acumen to
+forecast everything from insurance risks to economic trends. They&rsquo;re essentially professional futurists who use
+statistical models and data analysis to help organizations prepare for and manage potential future scenarios.</p>
+<hr>
+<p>Have a comment, question, or suggestion? Feel free to <a href="/contact/">contact me</a></p>
+]]></content:encoded></item><item><title>Beyond MTTR: Rethinking Recovery Metrics for Enhanced Software Performance</title><link>https://thatmlopsguy.github.io/posts/sre-metrics/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/sre-metrics/</guid><category>sre</category><category>mttr</category><description>Let&amp;amp;rsquo;s delve into the reasons why focusing solely on Mean Time To Recovery (MTTR) might not be the most effective metric for evaluating software delivery performance.
+In recent years, the DORA metrics, including &amp;amp;ldquo;Time to Restore Service&amp;amp;rdquo; or MTTR, have become a staple among software engineers aiming to measure the efficiency of software delivery processes. However, Courtney Nash challenged this conventional wisdom in her article “MTTR is a Misleading Metric—Now What?</description><content:encoded><![CDATA[<p>Let&rsquo;s delve into the reasons why focusing solely on <a href="https://en.wikipedia.org/wiki/Mean_time_to_recovery">Mean Time To Recovery</a>
+(MTTR) might not be the most effective metric for evaluating software delivery performance.</p>
+<p>In recent years, the <a href="https://dora.dev/guides/dora-metrics-four-keys/">DORA metrics</a>, including &ldquo;Time to Restore Service&rdquo; or MTTR,
+have become a staple among software engineers aiming to measure the efficiency of software delivery processes. However, Courtney
+Nash challenged this conventional wisdom in her article <a href="https://www.verica.io/blog/mttr-is-a-misleading-metric-now-what/">“MTTR is a Misleading Metric—Now What?”</a>, arguing that MTTR oversimplifies the recovery process. Her critique resonates strongly with me.</p>
+<p>Measures like the mean fail to accurately represent positively-skewed datasets. These datasets typically exhibit most values
+clustering around the lower end, with a long tail extending towards higher values. The presence of outliers significantly impacts
+the mean, rendering it an unreliable indicator in such cases.</p>
+<p>Nash pointed out that relying on the mean to gauge recovery times offers little practical value. This is akin to the
+limitations observed when using averages to assess latency in software engineering. Instead, percentiles emerge as a
+superior metric for recovery time analysis. Essentially, recovery time parallels latency, albeit on a scale of minutes or hours
+rather than milliseconds or seconds, indicating the duration required to rectify an issue. Our objective is to ascertain whether
+the recovery time for 95% of incidents is decreasing, a detail that the mean fails to illuminate.</p>
+<p>Organizations should stop using MTTX data as indicators of organizational performance.
+Primarily, if your organization is tracking this metric, it&rsquo;s crucial to visualize the distribution of your incident data.</p>
+<p>Mean Time To Recovery (MTTR) serves as a quintessential illustration of <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart&rsquo;s Law</a>.
+Goodhart&rsquo;s Law posits that &ldquo;when a measure becomes a target, it ceases to be a good measure,&rdquo; implying that the act of focusing
+solely on a single metric can lead to unintended consequences.</p>
+<p>Companies aiming to decrease recovery times might unknowingly create a situation that mirrors the <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons">Tragedy of the Commons</a>. The relentless quest to shorten recovery periods can unintentionally promote behaviors
+that erode the system&rsquo;s long-term reliability and ignore crucial elements necessary for operational excellence.
+Analogous to the overgrazing of shared land due to individual self-interest, teams may hastily implement fixes without thoroughly
+investigating root causes, akin to short-sighted herdsmen prioritizing immediate gain over the health of the common pasture.
+This approach leads to a cycle of recurring issues, mirroring the degradation of the commons through overuse. Consequently, the
+relentless drive to reduce MTTR can paradoxically result in an increase in overall system downtime, illustrating how individual
+efforts to optimize a specific metric can detrimentally impact collective goals and system sustainability.</p>
+<p>In conclusion, transitioning to the use of percentiles for analyzing recovery times presents a significant opportunity for
+organizations to gain a more accurate and insightful understanding of their software incident management processes.
+By moving away from traditional metrics like Mean Time To Recovery (MTTR), which can mask the true nature of recovery efforts,
+percentiles allow for a more granular view of performance. This approach not only provides a clearer picture of how quickly issues
+are resolved across a range of incidents but also enables organizations to set more realistic and meaningful targets for improvement.</p>
+<p>Ultimately, embracing percentiles as a key metric fosters a culture of continuous learning and adaptation, better equipping teams
+to navigate the complexities of modern software development.</p>
+<p><strong>Update (2024-09-16)</strong>: this is closely related to <a href="https://en.wikipedia.org/wiki/McNamara_fallacy">McNamara Fallacy</a>.
+The fallacy describes making decisions using only quantitative metrics and ignoring anything else.</p>
+<h1 id="references">References</h1>
+<ul>
+<li><a href="https://static.googleusercontent.com/media/sre.google/en//static/pdf/IncidentMeticsInSre.pdf">Incident Metrics in SRE:Critically Evaluating MTTR and Friends</a></li>
+<li><a href="https://matt-rickard.com/mcnamara-fallacy">McNamara Fallacy by Matt Rickard</a></li>
+</ul>
+]]></content:encoded></item><item><title>My Journey to 512KB club: Embracing Simplicity in the Digital Age</title><link>https://thatmlopsguy.github.io/posts/512kb/</link><pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/512kb/</guid><category>smallweb</category><description>As I sit down to write this, I find myself reflecting on the journey that led me to join 512KB.Club, a community that stands at the intersection of the Small Web Movement and my personal quest for simplicity and efficiency in web design. This isn&amp;amp;rsquo;t just another blog post; it&amp;amp;rsquo;s a deeply personal exploration of how embracing constraints can lead to creativity and innovation.
+My fascination with the Small Web Movement began with a simple observation: the web is becoming too cluttered, too slow, and too inaccessible for many users.</description><content:encoded><![CDATA[<p>As I sit down to write this, I find myself reflecting on the journey that led me to join <a href="https://512kb.club/">512KB.Club</a>,
+a community that stands at the intersection of the <a href="https://ar.al/2020/08/07/what-is-the-small-web/">Small Web Movement</a>
+and my personal quest for simplicity and efficiency in web design. This isn&rsquo;t just another blog post; it&rsquo;s a deeply personal exploration of
+how embracing constraints can lead to creativity and innovation.</p>
+<p>My fascination with the Small Web Movement began with a simple observation: the web is becoming too cluttered,
+too slow, and too inaccessible for many users. <a href="https://idlewords.com/talks/website_obesity.htm">Websites are bloating in size, consuming resources, and failing
+to deliver a seamless experience across devices and networks</a>.
+This isn&rsquo;t just a problem for tech enthusiasts; it is a barrier to access and engagement for millions of people worldwide.</p>
+<p>One day, while browsing the web, I stumbled upon 512KB.Club. The idea of limiting website sizes to 512 kilobytes seemed
+radical yet intriguing. It challenged the status quo and offered a glimpse into a future where web design prioritizes
+performance and accessibility over sheer size and complexity.</p>
+<p>Cloudflare has a tool called radar which analyses the site and returns a bunch of analytics along with the size of your site.
+Here is my <a href="https://radar.cloudflare.com/scan/7cc9e1ed-1692-4451-9c1e-dd416131b3d7/summary">scan</a>, <strong>165.9kB</strong> of data.</p>
+<p>I opened up a <a href="https://github.com/kevquirk/512kb.club/pull/1553">pull request</a> and now I am listed on 512kb.club.</p>
+<p>As I continue my journey with 512KB.Club, I&rsquo;m excited about the possibilities ahead. One of my <a href="/next/">next objectives</a> is
+to be listed on the <a href="https://250kb.club/">250kb.club</a>.</p>
+<p>There are also more small clubs. I listed them in my <a href="/links/">links</a> webpage.</p>
+<p><strong>UPDATE (2024/07/20):</strong> I <a href="https://github.com/nkoehring/250kb-club/issues/436">joined</a> the <a href="https://250kb.club/">250kb.club</a> 🎉.</p>
+]]></content:encoded></item><item><title>Ignore Files Across All Subdirectories in .dockerignore</title><link>https://thatmlopsguy.github.io/posts/dockerignore/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/dockerignore/</guid><category>docker</category><description>When you&amp;amp;rsquo;re using .dockerignore to ignore files within directories, it works a little differently than .gitignore.
 To ignore a file across all subdirectories, prefix the filename with **. For example, to ignore the file file.txt in all subdirectories, add the following to .dockerignore:
-**file.txt To ignore a specific file extension across all subdirectories, prefix the file extension with **/*. In this example, all files with the .txt extension will be ignored by Docker:</description></item><item><title>I replaced Homebrew and asdf with Devbox</title><link>https://thatmlopsguy.github.io/posts/devbox/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/devbox/</guid><description>In the last years, I used a combination of homebrew and asdf to manage some developer tools (eg. terraform, hadolint, ShellCheck, &amp;hellip;)
+**file.txt To ignore a specific file extension across all subdirectories, prefix the file extension with **/*. In this example, all files with the .txt extension will be ignored by Docker:</description><content:encoded><![CDATA[<p>When you&rsquo;re using <code>.dockerignore</code> to ignore files within directories, it works a little differently than <code>.gitignore</code>.</p>
+<p>To ignore a file across all subdirectories, prefix the filename with <code>**</code>. For example, to ignore the file <code>file.txt</code>
+in all subdirectories, add the following to <code>.dockerignore</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>**file.txt
+</span></span></code></pre></div><p>To ignore a specific file extension across all subdirectories, prefix the file extension with **/*.
+In this example, all files with the <code>.txt</code> extension will be ignored by Docker:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>**/*.txt
+</span></span></code></pre></div><p>Also, keep in mind that <code>.dockerignore</code> should be in the root of the context you are passing in to Docker
+or it won’t be taken into account.</p>
+]]></content:encoded></item><item><title>I replaced Homebrew and asdf with Devbox</title><link>https://thatmlopsguy.github.io/posts/devbox/</link><pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/devbox/</guid><category>nix</category><category>asdf</category><category>homebrew</category><description>In the last years, I used a combination of homebrew and asdf to manage some developer tools (eg. terraform, hadolint, ShellCheck, &amp;amp;hellip;)
 Recently I discovered devbox, a wrapper around NixOS package manager.
 First install Devbox:
-curl -fsSL https://get.jetify.com/devbox | bash Now, everytime I initialize a new project, instead of installing asdf plugins and declare it on .tool-versions, I just add the dependencies on devbox.json on the root of each project. First I run</description></item><item><title>Setup SSH keys from multiple Git accounts</title><link>https://thatmlopsguy.github.io/posts/multiple-git-servers/</link><pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/multiple-git-servers/</guid><description>I generally create new SSH keys for each separate git server using the following setup:
-ssh-keygen -t ed25519 -a 100 Unfortunately, Git doesn&amp;rsquo;t provide an option for what keys to use, you have to configure this in the ~/.ssh/config file:
-# Personal account Host github.com HostName ssh.github.com IdentityFile ~/.ssh/id_ed25519_github User git # Company account Host gitcompany Hostname ssh.github.com User git IdentityFile ~/.ssh/id_ed25519_github_company Host private.git.server.com PreferredAuthentications publickey IdentityFile ~/.ssh/key_file_for_this Starting from git version 2.</description></item><item><title>Manage dotfiles with GNU Stow</title><link>https://thatmlopsguy.github.io/posts/gnu-stow/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/gnu-stow/</guid><description>I use GNU stow to manage all the important dotfiles.
+curl -fsSL https://get.jetify.com/devbox | bash Now, everytime I initialize a new project, instead of installing asdf plugins and declare it on .tool-versions, I just add the dependencies on devbox.json on the root of each project. First I run</description><content:encoded><![CDATA[<p>In the last years, I used a combination of <a href="https://brew.sh/">homebrew</a>
+and <a href="https://asdf-vm.com/">asdf</a> to manage some developer tools
+(eg. terraform, hadolint, ShellCheck, &hellip;)</p>
+<p>Recently I discovered <a href="https://jetpack.io/devbox/">devbox</a>, a wrapper around NixOS package manager.</p>
+<p>First <a href="https://www.jetify.com/devbox/docs/installing_devbox/">install Devbox</a>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl -fsSL https://get.jetify.com/devbox | bash
+</span></span></code></pre></div><p>Now, everytime I initialize a new project, instead of installing asdf plugins and
+declare it on <code>.tool-versions</code>, I just add the dependencies on <code>devbox.json</code> on the
+root of each project. First I run</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox init
+</span></span></code></pre></div><p>To create an empty <code>devbox.json</code> in the project directory.</p>
+<p>Here it is an example for a <a href="https://www.jetify.com/devbox/docs/devbox_examples/languages/python/">python</a>
+project using poetry to manage python packages.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">&#34;packages&#34;</span>: [
+</span></span><span style="display:flex;"><span>    <span style="color:#5af78e">&#34;python@latest&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#5af78e">&#34;poetry@latest&#34;</span>
+</span></span><span style="display:flex;"><span>  ],
+</span></span><span style="display:flex;"><span>  <span style="color:#ff6ac1">&#34;shell&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff6ac1">&#34;init_hook&#34;</span>: [
+</span></span><span style="display:flex;"><span>      <span style="color:#5af78e">&#34;poetry install&#34;</span>
+</span></span><span style="display:flex;"><span>    ],
+</span></span><span style="display:flex;"><span>    <span style="color:#ff6ac1">&#34;scripts&#34;</span>: {
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">&#34;run_test&#34;</span>: <span style="color:#5af78e">&#34;poetry run python -m poetry_demo&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#ff6ac1">&#34;test&#34;</span>: <span style="color:#5af78e">&#34;poetry run pytest&#34;</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Since I use VSCode, I installed the extension <a href="https://marketplace.visualstudio.com/items?itemName=jetpack-io.devbox">devbox by Jetify</a>.
+This way, when VSCode terminal is opened on a devbox project, this extension detects <code>devbox.json</code>
+and runs <code>devbox shell</code> so terminal is automatically in devbox shell environment.
+If you use other IDE, devbox can integrate with <code>direnv</code> to automatically activate your
+shell and packages when you navigate to your project.</p>
+<p>To install some tool system-wide, like <code>ripgrep</code>, use the following command:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global add ripgrep
+</span></span></code></pre></div><p>To see what packages you already have installed:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>devbox global ls
+</span></span></code></pre></div>]]></content:encoded></item><item><title>Setup SSH keys from multiple Git accounts</title><link>https://thatmlopsguy.github.io/posts/multiple-git-servers/</link><pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/multiple-git-servers/</guid><category>git</category><category>ssh</category><description>I generally create new SSH keys for each separate git server using the following setup:
+ssh-keygen -t ed25519 -a 100 Unfortunately, Git doesn&amp;amp;rsquo;t provide an option for what keys to use, you have to configure this in the ~/.ssh/config file:
+# Personal account Host github.com HostName ssh.github.com IdentityFile ~/.ssh/id_ed25519_github User git # Company account Host gitcompany Hostname ssh.github.com User git IdentityFile ~/.ssh/id_ed25519_github_company Host private.git.server.com PreferredAuthentications publickey IdentityFile ~/.ssh/key_file_for_this Starting from git version 2.</description><content:encoded><![CDATA[<p>I generally create new SSH keys for each separate git server using the following setup:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ssh-keygen -t ed25519 -a <span style="color:#ff9f43">100</span>
+</span></span></code></pre></div><p>Unfortunately, Git doesn&rsquo;t provide an option for what keys to use, you have to configure
+this in the <code>~/.ssh/config</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span># Personal account
+</span></span><span style="display:flex;"><span>Host github.com
+</span></span><span style="display:flex;"><span>    HostName ssh.github.com
+</span></span><span style="display:flex;"><span>    IdentityFile ~/.ssh/id_ed25519_github
+</span></span><span style="display:flex;"><span>    User git
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># Company account
+</span></span><span style="display:flex;"><span>Host gitcompany
+</span></span><span style="display:flex;"><span>    Hostname ssh.github.com
+</span></span><span style="display:flex;"><span>    User git
+</span></span><span style="display:flex;"><span>    IdentityFile ~/.ssh/id_ed25519_github_company
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Host private.git.server.com
+</span></span><span style="display:flex;"><span>    PreferredAuthentications publickey
+</span></span><span style="display:flex;"><span>    IdentityFile ~/.ssh/key_file_for_this
+</span></span></code></pre></div><p>Starting from <code>git</code> version 2.13+, you can use conditional include in your <code>.gitconfig</code> file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>[includeIf &#34;gitdir:~/code/github/&#34;]
+</span></span><span style="display:flex;"><span>        path = ~/.gitconfigs/github
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[includeIf &#34;gitdir:~/code/work/&#34;]
+</span></span><span style="display:flex;"><span>  	    path = ~/.gitconfigs/work
+</span></span></code></pre></div><p>Where <code>~/.gitconfigs/github</code> contains the username and email for your github account.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>[user]
+</span></span><span style="display:flex;"><span>        name = thatmlopsguy
+</span></span><span style="display:flex;"><span>        email = 165834479+thatmlopsguy@users.noreply.github.com
+</span></span></code></pre></div><p>This way, every git repo cloned with ssh located at <code>~/code/github</code> will work.</p>
+<p>To find out which account tries to authenticate with GitHub, when you clone a repository, is pretty trivial:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ ssh -T git@github.com
+</span></span><span style="display:flex;"><span>Hi thatmlopsguy! You<span style="color:#ff5c57">&#39;</span>ve successfully authenticated, but GitHub does not provide shell access.
+</span></span></code></pre></div><p>To clone a repository from your work company:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone git@gitcompany/&lt;repo_name&gt;
+</span></span></code></pre></div><p>For now, that&rsquo;s it. Feel free to check my <a href="https://github.com/thatmlopsguy/dotfiles">dotfiles</a>.</p>
+]]></content:encoded></item><item><title>Manage dotfiles with GNU Stow</title><link>https://thatmlopsguy.github.io/posts/gnu-stow/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/gnu-stow/</guid><category>stow</category><category>linux</category><category>dotfiles</category><description>I use GNU stow to manage all the important dotfiles.
 Instructions Create a repo called dotfiles in your $HOME directory Recreate the directory structure for the files you want to manage as subdir(s) of that directory. mkdir -p ~/.dotfiles/bash mv ~/.bashrc ~/.bash_logout ~/.dotfiles/bash cd ~/.dotfiles stow bash Stow will create symlink for each file.
-.bashrc -&amp;gt; dotfiles/bash/.bashrc Don´t forget to add this file to your git repo. Commit and push to remote and your done.</description></item><item><title>Hello World</title><link>https://thatmlopsguy.github.io/posts/hello-world/</link><pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/posts/hello-world/</guid><description>I&amp;rsquo;m a python developer by trade, so let&amp;rsquo;s say hello in python!
-print(&amp;#34;Hello World&amp;#34;) This blog will be my little space of the internet where I can share what I feel I want to.
-I&amp;rsquo;ll mostly write about tech stuff, but I won&amp;rsquo;t shut the door to any other subjects.
+.bashrc -&amp;amp;gt; dotfiles/bash/.bashrc Don´t forget to add this file to your git repo. Commit and push to remote and your done.</description><content:encoded><![CDATA[<p>I use <a href="https://www.gnu.org/software/stow/">GNU stow</a> to manage all the important <a href="https://dotfiles.github.io/">dotfiles</a>.</p>
+<h1 id="instructions">Instructions</h1>
+<ol>
+<li>Create a repo called <code>dotfiles</code> in your <code>$HOME</code> directory</li>
+<li>Recreate the directory structure for the files you want to manage as subdir(s) of that directory.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>mkdir -p ~/.dotfiles/bash
+</span></span><span style="display:flex;"><span>mv ~/.bashrc ~/.bash_logout ~/.dotfiles/bash
+</span></span><span style="display:flex;"><span><span style="color:#ff5c57">cd</span> ~/.dotfiles
+</span></span><span style="display:flex;"><span>stow bash
+</span></span></code></pre></div><p>Stow will create symlink for each file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>.bashrc -&gt; dotfiles/bash/.bashrc
+</span></span></code></pre></div><p>Don´t forget to add this file to your git repo. Commit and push to remote and your done.</p>
+]]></content:encoded></item><item><title>Hello World</title><link>https://thatmlopsguy.github.io/posts/hello-world/</link><pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate><guid isPermaLink="true">https://thatmlopsguy.github.io/posts/hello-world/</guid><description>I&amp;amp;rsquo;m a python developer by trade, so let&amp;amp;rsquo;s say hello in python!
+print(&amp;amp;#34;Hello World&amp;amp;#34;) This blog will be my little space of the internet where I can share what I feel I want to.
+I&amp;amp;rsquo;ll mostly write about tech stuff, but I won&amp;amp;rsquo;t shut the door to any other subjects.
 Any feedback is highly appreciated!
-This concludes my first post of #100DaysToOffload.</description></item><item><title>About</title><link>https://thatmlopsguy.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/about/</guid><description>👋 About Me I’m ██████████ █████, a ██ years old working on ████████ at ███████████.
-On a more serious note, I enjoy computer science, privacy and pretty much everything related. I&amp;rsquo;m a GNU/Linux user, a big advocate for the Free Software and the IndieWeb movements. I like trying to understand the world, building things that improve it, and talking about it on the web. Check my interests page.
-On this page you can find some information about me and a few blog posts I wrote.</description></item><item><title>Accessibility</title><link>https://thatmlopsguy.github.io/accessibility/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/accessibility/</guid><description>🐕‍🦺 Accessibility Making this website accessible to all.
-I aim to meet a minimum of Web Content Accessibility Guidelines (WCAG) 2.2 Level AA.
-You should be able to:
-use your browser defaults for settings, sizes and styling zoom in (or out) without breaking your experience navigate the site with just your keyboard listen to the site using a screen reader If you have come across something you find inaccessible, please contact me.</description></item><item><title>AI</title><link>https://thatmlopsguy.github.io/ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/ai/</guid><description>🤖 AI usage While reading Derek Sivers’ site I found his /ai page and decided to create my own.
-I use phind.com mostly for research, similar to search engines.
-If this changes in the future, I’ll update this page at this permanent URL: thatmlopsguy.github.io/ai.</description></item><item><title>Blogroll</title><link>https://thatmlopsguy.github.io/blogroll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/blogroll/</guid><description>🖨️ Blogroll Blogrolls are lists of other blogs that bloggers recommend to their readers.
-Blogs I do not endorse (nor read) every posts from all these blogs, it is just what I have in my feed, and I read only the one that interest me.
-This is a list of all the personal blogs I’m reading:
-Drew DeVault danluu.com Daniel Stenberg Cheapskate&amp;rsquo;s Guide Krebs on Security Daring Fireball Jeff Geerling rinzewind.</description></item><item><title>Books</title><link>https://thatmlopsguy.github.io/books/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/books/</guid><description>📚 Books I have gathered here the few books I consider to be masterpieces.
-Nicomachean Ethics by Aristotle Enchiridion by Epictetus Skin in the Game: Hidden Asymmetries in Daily Life by Nassim Nicholas Taleb Limits to Growth: The 30-Year Update by Meadows, Donella H.; Randers, Jorgen; Meadows, Dennis L. Thinking in systems: a primer by Donella H Meadows, Diana Wright Energy and Civilization: A History by Vaclav Smil Atomic Habits: An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones by James Clear</description></item><item><title>Boycott</title><link>https://thatmlopsguy.github.io/boycott/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/boycott/</guid><description>🛑 Boycott This is a list of companies I boycott and why.
-🏢 Companies LG Electronics Inc. (066570.KS) LG TVs start showing ads on screensavers LG TVs’ integrated ads get more personal with tech that analyzes viewer emotions Meta Platforms, Inc. (META) Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext Irish Data Protection Commission fines Meta €251 Million Covert Web-to-App Tracking via Localhost on Android PayPal Holdings, Inc.</description></item><item><title>Buttons</title><link>https://thatmlopsguy.github.io/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/buttons/</guid><description>Cool badges</description></item><item><title>Certifications</title><link>https://thatmlopsguy.github.io/certifications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/certifications/</guid><description>🏅 Certificates and Badges These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity and learn more about the skills and knowledge they represent.
-Platform Engineering GitOps Linux Foundation Cilium &amp;amp; Isovalent</description></item><item><title>Changelog</title><link>https://thatmlopsguy.github.io/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/changelog/</guid><description>🎉 Changelog Inspired by Jedda’s page.
-A way for me to keep track of the changes on this site.
-August 2026 2: Add new internal Hugo theme MLOps, with a new design and layout for the site. January 2025 4: Add predictions page</description></item><item><title>Colophon</title><link>https://thatmlopsguy.github.io/colophon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/colophon/</guid><description>🪧 Colophon A colophon is a statement at the end of a book, typically with a printer’s emblem, giving information about its authorship and printing. Hence the name of this page that explains how this blog is built.
-This website was built with Hugo static site generator, using an internal theme called mlops that I created for this site. The site and the respective code for the build files are hosted on github.</description></item><item><title>Contact</title><link>https://thatmlopsguy.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/contact/</guid><description>☎️ Contact I’m happy that you’re thinking about reaching out! If you’re at a loss of words to say, feel free to engage me on my interests.
-People should be able to talk, via the internet, with the same level of privacy as a face-to-face conversation in their own home. Before you contact me, please take note of the following:
-I don’t accept guest posts. Sorry, this is a personal blog.</description></item><item><title>Contributions</title><link>https://thatmlopsguy.github.io/contributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/contributions/</guid><description>🤝 Contributions Previously I was keeping track of these manually in a text file.
-I figure these having a more public home isn’t a bad thing.
-tika helm chart feat: add topologySpreadConstraints support in deployment asdf-plugins add argocd-image-updater plugin</description></item><item><title>Defaults</title><link>https://thatmlopsguy.github.io/defaults/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/defaults/</guid><description>✅ Defaults See uses</description></item><item><title>Donations</title><link>https://thatmlopsguy.github.io/donations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/donations/</guid><description>💸 Donations I’m in no need for money, and I release my code and projects for free (as in freedom) because I want to contribute back to the environment that helped me succeed. If you really are inclined to support my projects, please consider donating to:
-FSF EFF. noyb</description></item><item><title>Guestbook</title><link>https://thatmlopsguy.github.io/guestbook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/guestbook/</guid><description>📖 Guestbook A guestbook, also known as a visitor book or sign-in sheet, is a traditional method of recording visitors' names and sometimes other information such as their comments or the date they visited.
-Feel free to leave a message!
-You can click here to get redirected to the page editor and Open a pull request.</description></item><item><title>Hello</title><link>https://thatmlopsguy.github.io/hello/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/hello/</guid><description>👋 Hello This is my Hello page, a concept popularized by Alastar Johnson.
-You can find out a bit more on the about page. My now page lists what I’m focused on currently.
-Here is how I prefer to keep in touch, and why:
-My favorite way to converse is email 📧. See contact page. For a quick chat you can talk add me on Signal. Again see contact page. My least favorite means of communication is via phone call.</description></item><item><title>Hire</title><link>https://thatmlopsguy.github.io/hire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/hire/</guid><description>🤝 Let&amp;rsquo;s work together I have been working professionally as a data scientist and machine learning engineer since 2016, working across a wide range of technologies, platforms, and teams. I found my passion in properly delivering code and creating a stable and capable infrastructure for it. I wanted to expose myself to a wider variety of projects and became a {Dev,ML}Ops and cloud consultant. Over the years, I’ve specialized in backend development, infrastructure, and open-source systems.</description></item><item><title>Interests</title><link>https://thatmlopsguy.github.io/interests/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/interests/</guid><description>🧩 Interests This is an interests page, inspired by Chris Burnell’s post.
-As you might be able to tell from my identities, I’m not present in any social media platform. Instead, I prefer to read blog posts. It serves a similar purposes to me. I really prefer to follow blogs where:
-The typical post is longer than a social media post, my preference is a 5-8 minute read. There aren’t consistently multiple posts per day.</description></item><item><title>Interview</title><link>https://thatmlopsguy.github.io/interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/interview/</guid><description>🎙️ Interviews FAQs Interesting or habitual questions I&amp;rsquo;ve been asked during job interviews.
-This page is also inspired by Manual of Me, and aims to be a guide for colleagues in how to best work with me.
-🤝 Introduction questions Why should I hire you? What makes you different from other candidates? Computers engineering has been my vocation since I was 16 years old, and since then I&amp;rsquo;ve been involved with computers in a lot of aspects.</description></item><item><title>Links</title><link>https://thatmlopsguy.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/links/</guid><description>🔗 Links Perhaps you are on this page because you are down an hour-long rabbit hole exploring blogs.
-Or you are here because you are bored and are looking for inspiration.
-Or perhaps you are here because, like me, you enjoy clicking links and the link to this page is on my site navigation bar.
-Whatever the reason: Welcome to my links page!
-Here are some sites I enjoy and would recommend.</description></item><item><title>Media</title><link>https://thatmlopsguy.github.io/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/media/</guid><description>🎬 Media I usually avoid to watch all the trendy TV series on Neflix (and similar platforms), because of Digital Restrictions Management (DRM). For technical users I recommend to read the following paper Your DRM Can Watch You Too: Exploring the Privacy Implications of Browsers (mis)Implementations of Widevine EME.
-I do not wont to be influenced by all the fuss of mass marketing and evaluate the TV show for what it is.</description></item><item><title>More</title><link>https://thatmlopsguy.github.io/more/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/more/</guid><description>🗐 Pages Static Pages are a different content type than blog posts, gemlog or bookmarks, they do not change often and are not chronological.
-Learn more about these pages on slashpages.net.
-/about: who am I? /accessibility: how this site is designed for all users regardless of ability /ai: my AI usage, personally /blogroll: curated collection of blogs I follow and recommend to others /books: recommended readings that have influenced my thinking and work /boycott: companies and products I avoid and my reasoning behind these decisions /buttons: collection of web buttons and badges for a touch of internet nostalgia /certifications: my professional certifications and achievements /changelog: detailed history of updates and changes to this website /colophon: what’s this website made of?</description></item><item><title>Next</title><link>https://thatmlopsguy.github.io/next/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/next/</guid><description>➡️ Next Inspired by Capjames’ post, Shellsharksi’s checklist and Snarfed’s ideas page, this page lists ideas for this website.
-A comprehensive list of projects that I want to build but probably never will Mirror this blog to Gemini Website Roadmap Add a &amp;ldquo;Uses&amp;rdquo; page Join a webring Join the 250KB Club Join the The Darktheme Club Add epistemic status to hugo archtypes Join the bukmark Club Automating my /now page Automate buku bookmarks sync Accessibility statement Add sitemap.</description></item><item><title>Nope</title><link>https://thatmlopsguy.github.io/nope/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/nope/</guid><description>👎 Nope Things I don&amp;rsquo;t want like, inspired by Nope&amp;rsquo;s Jack Baty.
-For companies I don&amp;rsquo;t like, visit my boycott webpage.
-Here is a list of things I don&amp;rsquo;t like, in no particular order. I&amp;rsquo;ll update it as needed.
-SmartTVs: this devices are full of trackers and spy on you via ACR even when used as external screens and in other ways send &amp;ldquo;anonymous&amp;rdquo; usage/telemetry data tracking consent cookie banners subscribe to receive updates/no available RSS or Atom feed nonsensical password requirements the form requires a phone number passkeys, because of remote attestation ask to install a proprietary app for MFA SMS-based two-factor authentication Ask for a Linkedin profile.</description></item><item><title>Now</title><link>https://thatmlopsguy.github.io/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/now/</guid><description>📍 Now What I’m doing now.
-This is a now page, and if you have your own site, you should make one, too.
-🌱 Life I need to improve quality of life, so I’m trying to:
-Reading more books. (re)Focusing on my wellbeing and a healthy lifestyle. Journaling my life. 💼 Work Breaking things as a Cloud/DevOps/MLOps engineer. Remote work, work anywhere. See also what I am planning to do next.</description></item><item><title>Postroll</title><link>https://thatmlopsguy.github.io/postroll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/postroll/</guid><description>🔖 Postroll Each of the following articles and essays stuck with me after I first read it, becoming part of how I look at the world. I’m listing them here in one place so it’s easier for me to find them.
-Aristotle - How to live a good life Ignorance vs. stupidity The Website Obesity Crisis Amusing Ourselves to Death: Huxley vs Orwell St Matthew Island by Stuart McMillen Energy Slaves reflections: essays The illustrated guide to a Ph.</description></item><item><title>Predictions</title><link>https://thatmlopsguy.github.io/predictions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/predictions/</guid><description>🔮 Predictions This is my predictions page. Read my blog post about why I create this page.
-Each line is a prediction that follows the pattern: [year of the prediction] Statement (reference1;reference2).
-I predict &amp;hellip;
-On climate [2024] Greenhouse gas emssions will increase at least until 2030. CO2 concentration will increase on average 2 ppm per year (gap25). Atmospheric CO2 concentration will be at least 435ppm on average in May 2030 at Mauna Loa.</description></item><item><title>Projects</title><link>https://thatmlopsguy.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/projects/</guid><description>👨‍💻 Projects I’ve worked on a bunch of different things over the years. This is a small list of projects I have done during the last years.
-The code for most, if not all of them, can be found on my github account.
-this website: goal of this project was to market my services, but I also wanted to get out of my backend comfort zone and learn a bit more about modern frontend things</description></item><item><title>Quotes</title><link>https://thatmlopsguy.github.io/quotes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/quotes/</guid><description>🖋️ Quotes Random quotes collected from various sources
-“Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist.” Kenneth Boulding
-“It is difficult to get a man to understand something, when his salary depends on his not understanding it.” Upton Sinclair
-“The only function of economic forecasting is to make astrology look respectable.” John Kenneth Galbraith
-“Growth for the sake of growth is the ideology of the cancer cell.</description></item><item><title>Save</title><link>https://thatmlopsguy.github.io/save/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/save/</guid><description>🎁 Save List of discount cupons I used:
-Use the code iheartgitops1 for a 60% discount on Certified for GitOps with Argo by Codefresh/Octopus Deploy.</description></item><item><title>Services</title><link>https://thatmlopsguy.github.io/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/services/</guid><description>📊 Services I help companies make the most of their technology by supporting them in machine learning projects.
-Is your business using AI but are feeling stuck? Many companies often feel overwhelmed navigating the sea of options and trade-offs when rolling out AI and often just want to know if they’re doing it right.
-What can I do for you? I&amp;rsquo;m a devops and machine learning engineer with 10+ years of experience working with both scientific institutions and multinational companies.</description></item><item><title>Subscribe</title><link>https://thatmlopsguy.github.io/subscribe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/subscribe/</guid><description>🔔 Subscribe This page lists all the way to subscribe to my content.
-Via RSS Feeds You can subscribe to this blog using RSS/Atom feeds, you can grab the feed from here.
-If you don’t know what is RSS and/or Atom, read on aboutfeeds.com how these RSS web feeds work in detail.</description></item><item><title>Uses</title><link>https://thatmlopsguy.github.io/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/uses/</guid><description>💻 Uses Inspired by many pages out there, I&amp;rsquo;ve put together this page detailing some of the important tools I use for those that may be interested.
-🧮 Development My personal operating system of choice is Arch Linux because it’s very easy to work with, simple, and incredibly up-to-date. I’ve used it since somewhere around 2015.
-Operating System: Arch Linux Window Manager: i3 IDE: VSCodium. I also use Emacs for the excellent org-mode.</description></item><item><title>Verify</title><link>https://thatmlopsguy.github.io/verify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/verify/</guid><description>✔️ Verify This page serves as record for my online identity. It is inspired by Molly White&amp;rsquo;s verify page.
-I control the following personal accounts:
-Github: thatmlopsguy Signal: profile id If there’s an account claiming to be me and it’s not one of these accounts on the list, it’s probably an impersonator.</description></item><item><title>Where</title><link>https://thatmlopsguy.github.io/where/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thatmlopsguy.github.io/where/</guid><description>📍 Where This is my where page 📍, showing where in this world I am right now.
-I&amp;rsquo;m in Portugal 🇵🇹 right now.
-A where page is a place on the web where you can let others know about your current location. Read here about the where page movement.</description></item></channel></rss>
+This concludes my first post of #100DaysToOffload.</description><content:encoded><![CDATA[<p>I&rsquo;m a python developer by trade, so let&rsquo;s say hello in python!</p>
+<div class="highlight"><pre tabindex="0" style="color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ff5c57">print</span>(<span style="color:#5af78e">&#34;Hello World&#34;</span>)
+</span></span></code></pre></div><p>This blog will be my little space of the internet where I can share what I feel I want to.</p>
+<p>I&rsquo;ll mostly write about tech stuff, but I won&rsquo;t shut the door to any other subjects.</p>
+<p>Any feedback is highly appreciated!</p>
+<p>This concludes my first post of <a href="https://100daystooffload.com/">#100DaysToOffload</a>.</p>
+]]></content:encoded></item></channel></rss>
