@@ -956,6 +956,18 @@ img {
   gap: 1.5rem;
 }
 
+@media (max-width: 1024px) {
+  .sectors-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) and (min-width: 481px) {
+  .sectors-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .sector-card {
   padding: 1.75rem;
   border: 1px solid var(--border-subtle);
