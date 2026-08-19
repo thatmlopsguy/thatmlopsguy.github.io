@@ -1,7 +1,17 @@
 {{ define "main" }}
 <section class="section page-section">
   <div class="section-container content-container">
-    <h1>{{ .Title }}</h1>
+    <div class="page-header-flex">
+      <h1>{{ .Title }}</h1>
+      {{ if ne .Site.Params.rss false }}
+      {{ with .OutputFormats.Get "rss" }}
+      <a href="{{ .Permalink }}" class="rss-btn" title="Subscribe to {{ $.Title }} RSS Feed" aria-label="RSS Feed">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="rss-icon"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>
+        <span>RSS Feed</span>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
     {{ .Content }}
 
     {{ $pages := .Pages }}

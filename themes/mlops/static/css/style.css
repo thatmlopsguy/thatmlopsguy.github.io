@@ -993,3 +993,98 @@ img {
   color: var(--text-secondary);
   line-height: 1.5;
 }
+
+/* ===== RSS Feed Support ===== */
+.rss-icon {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+.nav-rss-link {
+  display: flex !important;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--text-secondary);
+}
+
+.nav-rss-link:hover {
+  color: #f97316 !important;
+}
+
+.nav-rss-link .rss-icon {
+  color: #f97316;
+}
+
+.page-header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.page-header-flex h1 {
+  margin-bottom: 0;
+}
+
+.rss-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  transition: border-color 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.rss-btn:hover {
+  border-color: #f97316;
+  color: #f97316;
+}
+
+.rss-btn .rss-icon {
+  color: #f97316;
+}
+
+.btn-rss {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn-rss .rss-icon {
+  color: #f97316;
+}
+
+.btn-rss:hover {
+  border-color: #f97316;
+  color: #f97316;
+}
+
+.footer-links-inline {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.rss-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--text-secondary);
+  transition: color 0.2s;
+}
+
+.rss-link:hover {
+  color: #f97316;
+}
+
+.rss-link .rss-icon {
+  color: #f97316;
+}

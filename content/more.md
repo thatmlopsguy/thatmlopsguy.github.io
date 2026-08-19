@@ -6,10 +6,10 @@ toc = false
 
 # 🗐 Pages
 
-Static Pages are a different content type than blog posts, gemlog or bookmarks, they
-do not change often and are not chronological.
+Slash pages are a set of commonly named pages often found on the indie web.
+Check out [slash pages](https://slashpages.net/) for the canonical source.
 
-Learn more about these pages on [slashpages.net](https://slashpages.net/).
+Here is my take with a few additional items that might catch on.
 
 - [`/about`](about.md): who am I?
 - [`/accessibility`](accessibility.md): how this site is designed for all users regardless of ability
