@@ -10,6 +10,12 @@ These are some of the certifications and badges I have earned over the years, de
 of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
 and learn more about the skills and knowledge they represent.
 
+## Datadog
+
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+| <a href="https://www.credly.com/badges/d871fbac-3985-4952-829e-eebf29e907c1/public_url"><img src="/images/datadog-core-skills.png" alt="Datadog Certification" width="120" height="120"></a> |   |   |   |
+
 ## Platform Engineering
 
 |   |   |   |   |
