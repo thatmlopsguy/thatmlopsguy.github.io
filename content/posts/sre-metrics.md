@@ -5,7 +5,7 @@ draft = false
 tags = ['sre', 'mttr']
 +++
 
-Let's delve into the reasons why focusing solely on [Mean Time To Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
+Let's examine the reasons why focusing solely on [Mean Time To Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 (MTTR) might not be the most effective metric for evaluating software delivery performance.
 
 In recent years, the [DORA metrics](https://dora.dev/guides/dora-metrics-four-keys/), including "Time to Restore Service" or MTTR,
