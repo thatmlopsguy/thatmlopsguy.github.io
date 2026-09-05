@@ -14,7 +14,7 @@ and learn more about the skills and knowledge they represent.
 
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
-| <a href="https://www.credly.com/badges/d871fbac-3985-4952-829e-eebf29e907c1/public_url"><img src="/images/datadog-core-skills.png" alt="Datadog Certification" width="120" height="120"></a> |   |   |   |
+| <a href="https://www.credly.com/badges/d871fbac-3985-4952-829e-eebf29e907c1/public_url"><img src="/images/badges/datadog-core-skills.png" alt="Datadog Core Skills Certification" width="120" height="120"></a> | <a href="https://www.credly.com/badges/20958128-d059-4f3b-aeb5-c1bfce57b92b/public_url"><img src="/images/badges/datadog-sre-skills.png" alt="Datadog SRE Skills Certification" width="120" height="120"></a> |   |   |
 
 ## Platform Engineering
 
