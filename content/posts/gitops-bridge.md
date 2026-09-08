@@ -5,10 +5,6 @@ draft = false
 tags = ['gitops', 'terraform', 'argocd']
 +++
 
-As I reflect on my journey implementing the GitOps Bridge pattern, I've learned that it's not just another technical solution,
-it's a fundamental shift in how we manage our Kubernetes infrastructure. My experience began with a simple goal: to bridge the
-gap between creating Kubernetes clusters and managing them through GitOps.
-
 Traditional approaches to Kubernetes management often create a disconnect between two critical phases: the infrastructure
 provisioning, where you create and configure the Kubernetes clusters using an IaC tool like terraform, and the addons/application
 management, where you deploy the required applications within those clusters: monitoring, compliance and security addons.
