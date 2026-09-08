@@ -55,16 +55,16 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 
 - **Programming languages**: Python, R, Bash Script, Go
 - **Machine Learning**: Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, Onnx, TensorRT
-- **Software Engineering**: Git, Docker, Helm, Kustomize
-- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Jaeger, Kiali, VictoriaMetrics, AWS Cloudwatch
+- **Software Engineering**: Git, Docker, Podman, Helm, Kustomize
+- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Jaeger, Kiali, VictoriaMetrics, AWS Cloudwatch
 - **Infrastructure**: Terraform, Crossplane, Kubernetes, Jenkins, Octopus Deploy, ArgoCD, Kargo, Ansible, Vault, Harbor, ChartMuseum
 - **Distributed Computing**: Ray, Celery, Kafka, Keda, Dapr, RabbitMQ, Temporal
 - **Networking & Service Mesh**: Nginx, Cilium, Istio
 - **Databases**: SQL - PostgreSQL, MySQL/MariaDB; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
-- **Operative Systems**: Linux (Debian, RHEL, CentOS, Ubuntu, Amazon Linux)
+- **Operative Systems**: Linux (Debian, Fedora, Ubuntu, Amazon Linux, Talos)
 - **Cloud services**: AWS, GCP, Azure, Hetzner, Github Actions, SonarQube, Azure OpenAI, Cloudflare
-- **Security & Compliance**: Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager, Tetragon
-- **Service & Support**: PagerDuty, Datadog, ServiceNow, Jira
+- **Security & Compliance**: HashiCorp Vault, Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager, Tetragon
+- **Support & On-call**: PagerDuty, Datadog, ServiceNow, Jira
 
 ## 🌍 Working Arrangements
 
