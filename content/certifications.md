@@ -20,7 +20,7 @@ and learn more about the skills and knowledge they represent.
 
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
-| <a href="https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/grafana/promql-zero-to-hero-navigator.png" alt="PromQL Zero to Hero Navigator" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/19bdd0d7-6a46-4a84-9cbc-2a9d5ab866e0/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/grafana/observability-signals-foundations-navigator.png" alt="Observability Signals Foundations Navigator" width="120" height="120"/></a> |   |   |
+| <a href="https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/grafana/promql-zero-to-hero-navigator.png" alt="PromQL Zero to Hero Navigator" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/19bdd0d7-6a46-4a84-9cbc-2a9d5ab866e0/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/grafana/observability-signals-foundations-navigator.png" alt="Observability Signals Foundations Navigator" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/70d88d50-fe15-49ae-889e-7463113aba4d/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/grafana/logql-zero-to-hero-navigator.png" alt="LogQL Zero to Hero Navigator" width="120" height="120"/></a> |   |
 
 ## PagerDuty
 
@@ -28,6 +28,11 @@ and learn more about the skills and knowledge they represent.
 |:-:|:-:|:-:|:-:|
 | <a href="https://www.credly.com/badges/c25b1eb4-3a33-46f8-bb6d-9856bcc32130/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/pagerduty/essentials.png" alt="PagerDuty Essentials" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/f2d1e2c8-8285-407a-9951-44ddf4492e12/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/pagerduty/service-configuration-explorer.png" alt="PagerDuty Service Configuration" width="120" height="120"/></a>  |   |   |
 
+## Chainguard
+
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+| <a href="https://www.credly.com/badges/84a0562f-ce73-42e6-be9a-f2e5909087e8/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/ai-threat-tamer.png" alt="AI Threat Tamer" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/d79f57f9-d574-48a4-9cae-038e4ecde25e/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/fips-frontrunner.png" alt="FIPS Frontrunner" width="120" height="120"/></a> |  |  |
 
 ## Platform Engineering
 
