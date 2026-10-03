@@ -32,7 +32,7 @@ and learn more about the skills and knowledge they represent.
 
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
-| <a href="https://www.credly.com/badges/84a0562f-ce73-42e6-be9a-f2e5909087e8/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/ai-threat-tamer.png" alt="AI Threat Tamer" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/d79f57f9-d574-48a4-9cae-038e4ecde25e/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/fips-frontrunner.png" alt="FIPS Frontrunner" width="120" height="120"/></a> |  |  |
+| <a href="https://www.credly.com/badges/84a0562f-ce73-42e6-be9a-f2e5909087e8/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/ai-threat-tamer.png" alt="AI Threat Tamer" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/d79f57f9-d574-48a4-9cae-038e4ecde25e/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/fips-frontrunner.png" alt="FIPS Frontrunner" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/7e405e80-e247-47c5-8262-dab8ea809fcb/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/ai-ml-guardian.png" alt="Chainguard AI/ML Guardian" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/5964d43f-8411-41d7-ba92-bae0c10e06b5/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/chainguard/vulnslayer.png" alt="Chainguard Vulnslayer" width="120" height="120"/></a> |
 
 ## Platform Engineering
 
