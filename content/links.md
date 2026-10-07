@@ -22,6 +22,8 @@ Here are some sites I enjoy and would recommend.
 - [Use plain text email](https://useplaintext.email/)
 - [e-mail is not SMS](https://email.is-not-s.ms/)
 - [No hello](https://nohello.net/en/): please don't say just hello in chat. Join the [club](https://nohello.club/).
+- [No Slop Grenade](https://noslopgrenade.com/): stop throwing AI-generated walls of text into conversations
+- [No Curl | Bash](https://nocurlbash.com/#en): avoid using curl | bash commands from the internet
 - [No Agenda, No Meeting](https://noagendanomeeting.net/): please don't send meeting invites without an agenda.
 - [Don't ask to ask, just ask](https://dontasktoask.com/)
 - [conventional comments](https://conventionalcomments.org/)
