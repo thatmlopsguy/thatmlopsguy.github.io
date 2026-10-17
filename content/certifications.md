@@ -29,6 +29,12 @@ and learn more about the skills and knowledge they represent.
 |:-:|:-:|:-:|:-:|
 | <a href="https://www.credly.com/badges/c25b1eb4-3a33-46f8-bb6d-9856bcc32130/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/pagerduty/essentials.png" alt="PagerDuty Essentials" width="120" height="120"/></a> | <a href="https://www.credly.com/badges/f2d1e2c8-8285-407a-9951-44ddf4492e12/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/pagerduty/service-configuration-explorer.png" alt="PagerDuty Service Configuration" width="120" height="120"/></a>  |   |   |
 
+## Clickhouse
+
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+| <a href="https://www.credly.com/badges/71487190-21a9-4ff2-a6d3-6b3313f4f89e/public_url" target="_blank" rel="noreferrer"> <img src="/images/badges/clickhouse/clickhouse-data-warehousing-professional.png" alt="ClickHouse Data Warehousing Professional" width="120" height="120"/></a> | | | |
+
 ## Chainguard
 
 |   |   |   |   |
