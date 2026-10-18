@@ -29,3 +29,4 @@ Here is a list of things I don't like, in no particular order. I'll update it as
 - asking for ID verification/Selfies, especially when it is not technically necessary. This is just a way to [collect and leak sensitive data](https://cybernews.com/security/global-data-leak-exposes-billion-records/)
 - Proof-of-age ID verification, because of the [above](https://www.theguardian.com/games/2025/oct/07/discord-data-breach-proof-of-age-id-leaked).
 - [CAPTCHAs](https://www.malwarebytes.com/blog/news/2025/03/fake-captcha-websites-hijack-your-clipboard-to-install-information-stealers)
+- ATSC 3.0 DRM
