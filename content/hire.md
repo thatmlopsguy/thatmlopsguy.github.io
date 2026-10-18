@@ -53,9 +53,9 @@ Check the **[FAQ](interview.md)** that answers habitual questions I've been aske
 
 Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regularly use and enjoy working with:
 
-- **Programming languages**: Bash Script, Python, Go
+- **Programming languages**: Bash, Python, Go
 - **CI/CD & GitOps**: GitHub Actions, Azure DevOps, ArgoCD, Argo Rollouts, Kargo, Octopus Deploy
-- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Jaeger, Kiali, VictoriaMetrics, AWS Cloudwatch
+- **Observability**: OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Jaeger, VictoriaMetrics, Cloudwatch
 - **Infrastructure**: Terraform/Opentofu, Ansible/AWX, Kubespray, Kubernetes, Docker, Crossplane, Cluster API, vCluster
 - **Distributed Computing**: Ray, Celery, Kafka, Keda, Dapr, RabbitMQ, Temporal
 - **Networking & Service Mesh**: Cloudflare, Nginx, Cilium, Istio, Dapr
