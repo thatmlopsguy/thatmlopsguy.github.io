@@ -73,6 +73,85 @@ certifications = "50+"
 articles = "9"
 industries = "5"
 
+[params.certifications]
+subtitle = """
+  These certifications reflect my commitment to keeping pace with evolving cloud platforms, Kubernetes,
+  and infrastructure tools. Each has strengthened practical skills that support client work, from cloud architecture
+  and Kubernetes operations to security best practices.
+  """
+
+[[params.certifications.items]]
+name = "Platform Engineer"
+issuer = "PlatformEngineering.org"
+image = "images/badges/platformengineering/intro.png"
+url = "https://www.virtualbadge.io/certificate-validator?credential=80f133bc-342d-4990-a696-d211a9e5e9d1"
+
+[[params.certifications.items]]
+name = "Introduction to AI/ML Toolkits with Kubeflow"
+issuer = "The Linux Foundation"
+image = "images/badges/linuxfoundation/lfs147.png"
+url = "https://www.credly.com/badges/28a91983-c672-44a0-8529-e85262a88f65/public_url"
+
+[[params.certifications.items]]
+name = "Understanding GitOps with Argo CD"
+issuer = "Akuity"
+image = "images/badges/akuity/argocd.png"
+url = "https://www.credential.net/719ca7e1-c498-4e23-96f9-03215938c020"
+
+[[params.certifications.items]]
+name = "GitOps at Scale"
+issuer = "Codefresh"
+image = "images/badges/codefresh/gitops-at-scale.png"
+url = "https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url"
+
+[[params.certifications.items]]
+name = "Introduction to Kubernetes"
+issuer = "The Linux Foundation"
+image = "images/badges/linuxfoundation/lfs158.png"
+url = "https://www.credly.com/badges/d1738c92-40dd-4ffb-9b41-28efe653d148/public_url"
+
+[[params.certifications.items]]
+name = "Trailblazer Technical Practitioner"
+issuer = "Grafana Labs"
+image = "images/badges/grafana/trailblazer-technical-practitioner.png"
+url = "https://www.credly.com/badges/1645774d-725c-441e-b29e-af3ccc23c922/public_url"
+
+[[params.certifications.items]]
+name = "Kubernetes Monitoring Learning Path"
+issuer = "Datadog"
+image = "images/badges/datadog/kubernetes-monitoring-skills.png"
+url = "https://www.credly.com/badges/03689aac-fd45-4034-9358-5411baf9eaeb/public_url"
+
+[[params.certifications.items]]
+name = "PagerDuty Essentials"
+issuer = "PagerDuty"
+image = "images/badges/pagerduty/essentials.png"
+url = "https://www.credly.com/badges/c25b1eb4-3a33-46f8-bb6d-9856bcc32130/public_url"
+
+[[params.certifications.items]]
+name = "Cilium Advanced Gateway API Use Cases"
+issuer = "Cisco Isovalent"
+image = "images/badges/cisco/cilium-advanced-gateway-api-use-cases.png"
+url = "https://www.credly.com/badges/41e0aa8a-7efd-4b59-98f7-46c3ec3f7c09/public_url"
+
+[[params.certifications.items]]
+name = "AI/ML Guardian"
+issuer = "Chainguard"
+image = "images/badges/chainguard/ai-ml-guardian.png"
+url = "https://www.credly.com/badges/7e405e80-e247-47c5-8262-dab8ea809fcb/public_url"
+
+[[params.certifications.items]]
+name = "Curation: The Gateway to Security"
+issuer = "JFrog"
+image = "images/badges/jfrog/jfrog-curation-the-gateway-to-security.png"
+url = "https://www.credly.com/badges/02f421fb-1d4d-4fba-a20c-9bc6212f0cbc/public_url"
+
+[[params.certifications.items]]
+name = "Data Warehousing Professional"
+issuer = "ClickHouse"
+image = "images/badges/clickhouse/clickhouse-data-warehousing-professional.png"
+url = "https://www.credly.com/badges/71487190-21a9-4ff2-a6d3-6b3313f4f89e/public_url"
+
 [params.sectors]
 subtitle = "Building and scaling mission-critical cloud infrastructure across diverse industries."
 

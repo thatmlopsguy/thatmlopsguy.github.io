@@ -58,6 +58,36 @@
   </div>
 </section>
 
+{{/* Certifications Section */}}
+{{ with .Site.Params.certifications }}
+<section class="section certifications">
+  <div class="section-container">
+    <div class="section-header">
+      <h2>Featured <span class="text-accent">Certifications</span></h2>
+      {{ with .subtitle }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </div>
+    <div class="certifications-grid">
+      {{ range first 12 .items }}
+      <a href="{{ .url }}" class="cert-card" target="_blank" rel="noopener">
+        <div class="cert-badge">
+          <img src="{{ .image | relURL }}" alt="{{ .name }} badge" width="80" height="80" loading="lazy">
+        </div>
+        <div class="cert-info">
+          <span class="cert-issuer">{{ .issuer }}</span>
+          <h3 class="cert-name">{{ .name }}</h3>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+    <div class="section-cta">
+      <a href="{{ "certifications" | relURL }}" class="btn btn-outline">View All Certifications</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{/* Featured Work Section */}}
 {{ with .Site.Params.sectors }}
 <section class="section sectors-served">
