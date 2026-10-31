@@ -60,7 +60,7 @@ Below is a list of Technologies (mostly open source frameworks, libraries and la
 - **Distributed Computing**: Ray, Celery, Kafka, Keda, Dapr, RabbitMQ, Temporal
 - **Networking & Service Mesh**: Cloudflare, Nginx, Cilium, Istio, Dapr
 - **Machine Learning**: Pytorch, MLflow, LiteLLM, Langfuse, Weights & Biases, DVC, Triton Inference Server, agentgateway
-- **Databases**: SQL - PostgreSQL, MySQL; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone, Weaviate; OLAP - ClickHouse
+- **Databases**: SQL - PostgreSQL, MySQL; NoSQL - MongoDB(Azure CosmosDB), Redis; VectorDB - Pinecone; OLAP - ClickHouse
 - **Operative Systems**: Linux (Debian, Fedora, Ubuntu, Amazon Linux, Talos)
 - **Cloud services**: AWS, GCP, Azure, Hetzner, Github, SonarQube, Jfrog, Chainguard
 - **Security & Compliance**: HashiCorp Vault, Trivy, Kyverno, Checkov, Snyk, Cosign, Cert-manager, Tetragon

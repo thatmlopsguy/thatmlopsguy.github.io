@@ -134,7 +134,7 @@ img {
 .hero {
   display: flex;
   align-items: center;
-  padding: 6rem 2rem;
+  padding: 1.5rem 2rem;
   padding-top: calc(var(--header-height) + 4rem);
   position: relative;
 }
@@ -312,7 +312,7 @@ img {
 
 /* ===== Sections ===== */
 .section {
-  padding: 6rem 2rem;
+  padding: 3.5rem 2rem;
 }
 
 .section-container {
@@ -910,7 +910,7 @@ img {
   }
 
   .section {
-    padding: 4rem 1.25rem;
+    padding: 2.5rem 1.25rem;
   }
 
   .article-footer {
@@ -1004,6 +1004,140 @@ img {
   font-size: 0.9rem;
   color: var(--text-secondary);
   line-height: 1.5;
+}
+
+/* ===== Services ===== */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.service-card {
+  padding: 1.75rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  background: var(--bg-secondary);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  border-color: var(--border-accent);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.service-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.service-points {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.service-points li {
+  position: relative;
+  padding-left: 1.25rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.service-points li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.6em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-blue);
+}
+
+/* ===== Tools Bar ===== */
+.tools-bar {
+  padding: 3rem 2rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.tools-label {
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+}
+
+/* Width fits exactly 12 icons per row (12 x 40px + 11 x 2.5rem gaps) */
+.tools-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem 2.5rem;
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.tool-link {
+  display: block;
+  width: 40px;
+  height: 40px;
+  opacity: 0.55;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.tool-link:hover,
+.tool-link:focus-visible {
+  opacity: 1;
+  transform: translateY(-3px);
+}
+
+.tool-link img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+@media (max-width: 1024px) {
+  .tools-list {
+    max-width: 620px;
+  }
+}
+
+@media (max-width: 640px) {
+  .tools-bar {
+    padding: 2.5rem 1.25rem;
+  }
+
+  .tools-list {
+    gap: 1.5rem 1.75rem;
+  }
+
+  .tool-link {
+    width: 32px;
+    height: 32px;
+  }
 }
 
 /* ===== Certifications ===== */

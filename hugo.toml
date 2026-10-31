@@ -73,6 +73,189 @@ certifications = "50+"
 articles = "9"
 industries = "5"
 
+[params.services]
+subtitle = """
+  Hands-on platform engineering, DevOps, and SRE consulting that helps engineering teams ship faster,
+  run more reliable systems, and build infrastructure that scales with the organization.
+  """
+
+[[params.services.items]]
+name = "Platform Engineering"
+points = [
+  "Design your platform strategy and architecture",
+  "Build golden paths and self-service standards",
+  "Deliver platform roadmaps and governance models",
+  "GitOps workflows for the entire Kubernetes platform",
+]
+
+[[params.services.items]]
+name = "Internal Developer Portals"
+points = [
+  "Build production-ready Backstage deployments from scratch",
+  "Service catalogs, software templates, custom plugins, technical documentation",
+  "Integrate with your CI/CD, Kubernetes, and cloud infrastructure",
+  "Solutions for Day-0, Day-1, and Day-2 challenges",
+]
+
+[[params.services.items]]
+name = "AI Agents & Infrastructure"
+points = [
+  "Custom AI agents tailored to your workflows",
+  "SDLC automation and operational decision-making",
+  "Integrate agent platforms with your Kubernetes and DevOps stack",
+  "LLM and MCP gateway integration, kagent, and agent-to-agent orchestration",
+]
+
+[[params.services.items]]
+name = "DevOps & Automation"
+points = [
+  "Build CI/CD pipelines that ship faster and safer",
+  "GitHub Actions, Helm charts, Terraform modules, custom tooling",
+  "Comprehensive testing, security scanning, secrets management",
+  "Reduce manual work, catch issues early, deploy with confidence",
+]
+
+[[params.services.items]]
+name = "Private & Public Cloud"
+points = [
+  "Deploy production Kubernetes on AWS, GCP, or Azure",
+  "Multi-cloud and hybrid environments with Terraform/OpenTofu",
+  "Network security, compliance controls, disaster recovery",
+  "Fully documented with monitoring, logging, backups, and runbooks",
+]
+
+[[params.services.items]]
+name = "Site Reliability Engineering (SRE)"
+points = [
+  "Define SLIs/SLOs, build incident response, establish on-call rotations",
+  "Deploy observability stacks with actionable dashboards and alerts",
+  "Reduce MTTR through automation and capacity planning",
+  "Measurable improvements in uptime and incident resolution",
+]
+
+[params.tools]
+label = "Tech stack I have hands-on experience with"
+
+[[params.tools.items]]
+name = "Python"
+icon = "images/tools/python.svg"
+url = "https://www.python.org"
+
+[[params.tools.items]]
+name = "Go"
+icon = "images/tools/go.svg"
+url = "https://go.dev"
+
+[[params.tools.items]]
+name = "GitHub Actions"
+icon = "images/tools/githubactions.svg"
+url = "https://github.com/features/actions"
+
+[[params.tools.items]]
+name = "Argo CD"
+icon = "images/tools/argo.svg"
+url = "https://argoproj.github.io/cd/"
+
+[[params.tools.items]]
+name = "OpenTelemetry"
+icon = "images/tools/opentelemetry.svg"
+url = "https://opentelemetry.io"
+
+[[params.tools.items]]
+name = "Grafana"
+icon = "images/tools/grafana.svg"
+url = "https://grafana.com"
+
+[[params.tools.items]]
+name = "Prometheus"
+icon = "images/tools/prometheus.svg"
+url = "https://prometheus.io"
+
+[[params.tools.items]]
+name = "Terraform"
+icon = "images/tools/terraform.svg"
+url = "https://www.terraform.io"
+
+[[params.tools.items]]
+name = "Ansible"
+icon = "images/tools/ansible.svg"
+url = "https://www.ansible.com"
+
+[[params.tools.items]]
+name = "Kubernetes"
+icon = "images/tools/kubernetes.svg"
+url = "https://kubernetes.io"
+
+[[params.tools.items]]
+name = "Docker"
+icon = "images/tools/docker.svg"
+url = "https://www.docker.com"
+
+[[params.tools.items]]
+name = "Ray"
+icon = "images/tools/ray.svg"
+url = "https://www.ray.io"
+
+[[params.tools.items]]
+name = "Apache Kafka"
+icon = "images/tools/apachekafka.svg"
+url = "https://kafka.apache.org"
+
+[[params.tools.items]]
+name = "Cloudflare"
+icon = "images/tools/cloudflare.svg"
+url = "https://www.cloudflare.com"
+
+[[params.tools.items]]
+name = "Cilium"
+icon = "images/tools/cilium.svg"
+url = "https://cilium.io"
+
+[[params.tools.items]]
+name = "PyTorch"
+icon = "images/tools/pytorch.svg"
+url = "https://pytorch.org"
+
+[[params.tools.items]]
+name = "MLflow"
+icon = "images/tools/mlflow.svg"
+url = "https://mlflow.org"
+
+[[params.tools.items]]
+name = "PostgreSQL"
+icon = "images/tools/postgresql.svg"
+url = "https://www.postgresql.org"
+
+[[params.tools.items]]
+name = "Redis"
+icon = "images/tools/redis.svg"
+url = "https://redis.io"
+
+[[params.tools.items]]
+name = "ClickHouse"
+icon = "images/tools/clickhouse.svg"
+url = "https://clickhouse.com"
+
+[[params.tools.items]]
+name = "Amazon Web Services (AWS)"
+icon = "images/tools/aws.svg"
+url = "https://aws.amazon.com"
+
+[[params.tools.items]]
+name = "Google Cloud Platform (GCP)"
+icon = "images/tools/googlecloud.svg"
+url = "https://cloud.google.com"
+
+[[params.tools.items]]
+name = "Microsoft Azure"
+icon = "images/tools/azure.svg"
+url = "https://azure.microsoft.com"
+
+[[params.tools.items]]
+name = "HashiCorp Vault"
+icon = "images/tools/vault.svg"
+url = "https://www.vaultproject.io"
+
 [params.certifications]
 subtitle = """
   These certifications reflect my commitment to keeping pace with evolving cloud platforms, Kubernetes,
@@ -105,10 +288,10 @@ image = "images/badges/codefresh/gitops-at-scale.png"
 url = "https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url"
 
 [[params.certifications.items]]
-name = "Introduction to Kubernetes"
+name = "Introduction to Backstage - Developer Portals Made Easy"
 issuer = "The Linux Foundation"
-image = "images/badges/linuxfoundation/lfs158.png"
-url = "https://www.credly.com/badges/d1738c92-40dd-4ffb-9b41-28efe653d148/public_url"
+image = "images/badges/linuxfoundation/lfs142.png"
+url = "https://www.credly.com/badges/6cb0c422-89f3-48d8-87c5-f7cf18a940cd/public_url"
 
 [[params.certifications.items]]
 name = "Trailblazer Technical Practitioner"

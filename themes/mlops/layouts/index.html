@@ -58,6 +58,57 @@
   </div>
 </section>
 
+{{/* Services Section */}}
+{{ with .Site.Params.services }}
+<section class="section services">
+  <div class="section-container">
+    <div class="section-header">
+      <h2>Provided <span class="text-accent">Services</span></h2>
+      {{ with .subtitle }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </div>
+    <div class="services-grid">
+      {{ range first 6 .items }}
+      <div class="service-card">
+        <h3 class="service-name">{{ .name }}</h3>
+        {{ with .points }}
+        <ul class="service-points">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <div class="section-cta">
+      <a href="{{ "services" | relURL }}" class="btn btn-outline">View All Services</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{/* Tools Bar */}}
+{{ with .Site.Params.tools }}
+<section class="tools-bar" aria-label="{{ .label | default "Tech stack" }}">
+  <div class="section-container">
+    {{ with .label }}
+    <p class="tools-label">{{ . }}</p>
+    {{ end }}
+    <ul class="tools-list">
+      {{ range .items }}
+      <li>
+        <a href="{{ .url }}" class="tool-link" target="_blank" rel="noopener" title="{{ .name }}">
+          <img src="{{ .icon | relURL }}" alt="{{ .name }}" width="40" height="40" loading="lazy">
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}
+
 {{/* Certifications Section */}}
 {{ with .Site.Params.certifications }}
 <section class="section certifications">
