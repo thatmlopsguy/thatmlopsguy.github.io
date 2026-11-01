@@ -1117,6 +1117,12 @@ img {
   height: 100%;
   object-fit: contain;
   filter: brightness(0) invert(1);
+  transition: filter 0.3s ease;
+}
+
+.tool-link:hover img,
+.tool-link:focus-visible img {
+  filter: none;
 }
 
 @media (max-width: 1024px) {
