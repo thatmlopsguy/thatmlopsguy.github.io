@@ -134,7 +134,7 @@ points = [
 ]
 
 [params.tools]
-label = "Tech stack I have hands-on experience with"
+label = "Hands-on experience with"
 
 [[params.tools.items]]
 name = "Python"
