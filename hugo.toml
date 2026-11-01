@@ -192,9 +192,9 @@ icon = "images/tools/docker.svg"
 url = "https://www.docker.com"
 
 [[params.tools.items]]
-name = "Ray"
-icon = "images/tools/ray.svg"
-url = "https://www.ray.io"
+name = "Crossplane"
+icon = "images/tools/crossplane.svg"
+url = "https://www.crossplane.io"
 
 [[params.tools.items]]
 name = "Apache Kafka"
@@ -212,8 +212,8 @@ icon = "images/tools/cilium.svg"
 url = "https://cilium.io"
 
 [[params.tools.items]]
-name = "PyTorch"
-icon = "images/tools/pytorch.svg"
+name = "Nvidia"
+icon = "images/tools/nvidia.svg"
 url = "https://pytorch.org"
 
 [[params.tools.items]]
