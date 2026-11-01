@@ -294,10 +294,10 @@ image = "images/badges/linuxfoundation/lfs142.png"
 url = "https://www.credly.com/badges/6cb0c422-89f3-48d8-87c5-f7cf18a940cd/public_url"
 
 [[params.certifications.items]]
-name = "Trailblazer Technical Practitioner"
+name = "PromQL Zero to Hero Navigator"
 issuer = "Grafana Labs"
-image = "images/badges/grafana/trailblazer-technical-practitioner.png"
-url = "https://www.credly.com/badges/1645774d-725c-441e-b29e-af3ccc23c922/public_url"
+image = "images/badges/grafana/promql-zero-to-hero-navigator.png"
+url = "https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url"
 
 [[params.certifications.items]]
 name = "Kubernetes Monitoring Learning Path"
