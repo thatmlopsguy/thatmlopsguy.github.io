@@ -41,14 +41,9 @@ url = "/services"
 weight = 5
 
 [[menu.main]]
-name = "Colophon"
-url = "/colophon"
-weight = 6
-
-[[menu.main]]
 name = "More"
 url = "/more"
-weight = 7
+weight = 6
 
 [params]
 colortheme = "dark" # dark, light, white, or classic
