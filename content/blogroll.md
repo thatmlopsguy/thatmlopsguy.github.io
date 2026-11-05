@@ -8,6 +8,11 @@ toc = false
 
 Blogrolls are lists of other blogs that bloggers recommend to their readers.
 
+
+> Having a blog roll is a way of giving back to the blogs you enjoy. People who visit your site may be interested in reading similar content. By having a blog roll, visitors can easily find similar websites that they may want to read.
+>
+> — [IndieWeb Wiki](https://indieweb.org/)
+
 ## Blogs
 
 I do not endorse (nor read) every posts from all these blogs, it is just what I have in my feed,
