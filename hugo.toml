@@ -260,7 +260,7 @@ subtitle = """
 
 [[params.certifications.items]]
 name = "DevOps Modernization for Platform Engineers"
-issuer = "PlatformEngineering.org"
+issuer = "Platform Engineering"
 image = "images/badges/platformengineering/modern-devops.png"
 url = "https://www.virtualbadge.io/certificate-validator?credential=d55e8533-2a4d-4bac-b27d-f574d615470f"
 
