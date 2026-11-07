@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Reset state when the viewport grows past the mobile breakpoint
-    window.matchMedia('(min-width: 769px)').addEventListener('change', function(event) {
+    window.matchMedia('(min-width: 1025px)').addEventListener('change', function(event) {
       if (event.matches) {
         setMenuOpen(false);
       }
