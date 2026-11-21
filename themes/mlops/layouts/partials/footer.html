@@ -1,7 +1,7 @@
 <footer class="site-footer">
     <div class="footer-container">
         <div class="footer-bottom">
-            <p>&copy; {{ now.Year }} {{ .Site.Copyright | default .Site.Title }}. All rights reserved.</p>
+            <p>&copy; {{ now.Year }} {{ .Site.Copyright | default .Site.Title }}. Views are my own. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" rel="license noopener" target="_blank">CC BY 4.0</a>.</p>
             <div class="footer-links-inline">
                 <a href="{{ "colophon/" | relURL }}">Colophon</a>
                 {{ with .Site.Params.sourceCodeUrl }}<a href="{{ . }}" rel="noopener" target="_blank">Source Code</a>{{ end }}

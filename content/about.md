@@ -13,10 +13,12 @@ and the [IndieWeb](https://indieweb.org/) movements. I like trying to understand
 that improve it, and talking about it on the web. Check my [interests](interests.md) page.
 
 On this page you can find some information about me and a few blog posts I wrote. Most of them are about
-topics that I'm most interested in, such as containers, security, CI/CD, or about programming languages like Python.
+topics that I'm most interested in, such as containers, security, CI/CD, GitOps with a focus on Cluster API,
+Crossplane (GitOps at scale).
 
 I use this site as a method of blogging about my learnings, as well as sharing information about projects
-I have previously, or are currently, working on in my spare time.
+I have previously, or are currently, working on in my spare time. Outside work, I run a homelab where I
+experiment with kind clusters and GitOps pipelines, see [doKa seca](https://github.com/thatmlopsguy/dokaseca-control-plane).
 
 I avidly read technical blogs across various subjects. I enjoy engaging in discussions on platforms like Hacker News
 and exploring the vibrant community of Indie Hackers. I’ve been immersed in open source since the early days of my

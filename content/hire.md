@@ -9,14 +9,14 @@ toc = false
 I have been working professionally as a data scientist and machine learning engineer since 2016, working
 across a wide range of technologies, platforms, and teams. I found my passion in properly delivering
 code and creating a stable and capable infrastructure for it.
-I wanted to expose myself to a wider variety of projects and became a {Dev,ML}Ops and cloud consultant.
-Over the years, I’ve specialized in backend development, infrastructure, and open-source systems.
+I wanted to expose myself to a wider variety of projects and became a cloud engineer (sometimes I call myself
+a cloud architect or a DevOps engineer) and freelancer.
 
-I'm a cloud/platform engineer specializing in container orchestration and multi-cloud architecture, currently
-based in Portugal. My expertise centers around Kubernetes implementation and optimization, complemented by
-extensive experience with both Azure and AWS platforms. In the last years, I’ve also taken on technical
-leadership roles: helping teams ship clean, scalable systems while mentoring developers and aligning
-architecture with business goals.
+Over the years, I’ve specialized in backend development, infrastructure, and open-source systems.
+I'm specializing in container orchestration and multi-cloud architecture. My expertise centers around
+Kubernetes implementation and optimization, complemented by extensive experience with both Azure and AWS
+platforms. In the last years, I’ve also taken on technical leadership roles: helping teams ship clean,
+scalable systems while mentoring developers and aligning architecture with business goals.
 
 Most of my coding experience is with Python, simply because it was the language I used at my first job.
 I started with flask, but then I discovered FastAPI which quickly became my favorite framework.

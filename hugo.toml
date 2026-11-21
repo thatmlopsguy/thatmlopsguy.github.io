@@ -251,6 +251,66 @@ name = "HashiCorp Vault"
 icon = "images/tools/vault.svg"
 url = "https://www.vaultproject.io"
 
+[[params.tools.items]]
+name = "Kargo"
+icon = "images/tools/kargo.png"
+url = "https://kargo.io/"
+
+[[params.tools.items]]
+name = "PagerDuty"
+icon = "images/tools/pagerduty.svg"
+url = "https://www.pagerduty.com/"
+
+[[params.tools.items]]
+name = "Octopus Deploy"
+icon = "images/tools/octopusdeploy.svg"
+url = "https://octopus.com/"
+
+[[params.tools.items]]
+name = "JFrog"
+icon = "images/tools/jfrog.svg"
+url = "https://jfrog.com/"
+
+[[params.tools.items]]
+name = "Chainguard"
+icon = "images/tools/chainguard.svg"
+url = "https://www.chainguard.dev/"
+
+[[params.tools.items]]
+name = "Snyk"
+icon = "images/tools/snyk.svg"
+url = "https://snyk.io/"
+
+[[params.tools.items]]
+name = "Datadog"
+icon = "images/tools/datadog.svg"
+url = "https://www.datadoghq.com/"
+
+[[params.tools.items]]
+name = "ServiceNow"
+icon = "images/tools/servicenow.svg"
+url = "https://www.servicenow.com/"
+
+[[params.tools.items]]
+name = "Hetzner"
+icon = "images/tools/hetzner.svg"
+url = "https://www.hetzner.com/"
+
+[[params.tools.items]]
+name = "RabbitMQ"
+icon = "images/tools/rabbitmq.svg"
+url = "https://www.rabbitmq.com/"
+
+[[params.tools.items]]
+name = "Temporal"
+icon = "images/tools/temporal.svg"
+url = "https://temporal.io/"
+
+[[params.tools.items]]
+name = "Istio"
+icon = "images/tools/istio.svg"
+url = "https://istio.io/"
+
 [params.certifications]
 subtitle = """
   These certifications reflect my commitment to keeping pace with evolving cloud platforms, Kubernetes,
