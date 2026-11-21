@@ -17,6 +17,10 @@ conversation in their own home. Before you contact me, please take note of the f
 - I don't have time to provide tech support.
 - Please be polite; I’ll always be polite to you.
 
+For open-source projects, bug reports, or technical questions related to code I maintain, the right place is
+GitHub: open an issue or start a discussion in the relevant repository. Public discussions are generally more
+useful than private ones, since the answer might help someone else too.
+
 I usually respond promptly, but please don’t take it personally if there is a slight delay. Also note that I follow
 [VSRE](http://vsre.info/) and [Crocker’s rules](http://sl4.org/crocker.html). In other words, you don’t need to
 “break the ice” (but feel free to do so anyway!) and you can go directly to the purpose of your message.
