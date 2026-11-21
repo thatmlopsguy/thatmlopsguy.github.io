@@ -9,11 +9,21 @@ toc = false
 A colophon is a statement at the end of a book, typically with a printer’s emblem, giving information about its authorship
 and printing. Hence the name of this page that explains how this blog is built.
 
-This website was built with [Hugo](https://gohugo.io/) static site generator, using an internal theme called `mlops` that I
-created for this site. The site and the respective code for the build files are [hosted on github](https://github.com/thatmlopsguy/thatmlopsguy.github.io).
+## 📝 About This Site
 
 This is my personal website, please do note that these articles do not reflect or are based on work, opinions or policies
-of any of my (previous) employers. Any resemblance to reality is pure coincidence.
+of any of my (previous) employers. Any resemblance to reality is pure coincidence. This site started in 2024 as a playground
+for experimenting with web technologies, curious about how the pieces fit together. It has been evolving ever since.
+Today it runs on [Hugo](https://gohugo.io/) static site generator, using an internal theme called `mlops` that I
+created for this site. The site and the respective code for the build files are
+[hosted on github](https://github.com/thatmlopsguy/thatmlopsguy.github.io) and deployed to GitHub Pages.
+
+Topics range from Linux and Kubernetes to homelab infrastructure, DevOps tooling, and the occasional opinion piece.
+The purpose has stayed the same throughout:
+
+- A personal reference: documenting what I learn, for my future self and anyone else who finds it useful
+- An informal portfolio: showing what I think about and how I approach problems
+- A writing exercise: I believe communication is a skill worth keeping sharp (“Listen to understand, speak to be understood”)
 
 ## 🔒 Privacy Policy
 
